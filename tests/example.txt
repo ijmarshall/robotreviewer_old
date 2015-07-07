@@ -1,0 +1,369 @@
+The New England Journal of Medicine
+
+INHIBITION OF PLATELET GLYCOPROTEIN IIb/IIIa WITH EPTIFIBATIDE IN PATIENTS WITH ACUTE CORONARY SYNDROMES
+THE PURSUIT TRIAL INVESTIGATORS*
+
+ABSTRACT
+Background Aggregation of platelets is the pathophysiologic basis of the acute coronary syndromes. Eptifibatide, a synthetic cyclic heptapeptide, is a selective high-affinity inhibitor of the platelet glycoprotein IIb/IIIa receptor, which is involved in platelet aggregation. We tested the hypothesis that inhibition of platelet aggregation with eptifibatide would have an incremental benefit beyond that of heparin and aspirin in reducing the frequency of adverse outcomes in patients with acute coronary syndromes who did not have persistent ST-segment elevation. Methods Patients who had presented with ischemic chest pain within the previous 24 hours and who had either electrocardiographic changes indicative of ischemia (but not persistent ST-segment elevation) or high serum concentrations of creatine kinase MB isoenzymes were enrolled in the study. They were randomly assigned, in a double-blind manner, to receive a bolus and infusion of either eptifibatide or placebo, in addition to standard therapy, for up to 72 hours (or up to 96 hours, if coronary intervention was performed near the end of the 72-hour period). The primary end point was a composite of death and nonfatal myocardial infarction occurring up to 30 days after the index event. Results A total of 10,948 patients were enrolled between November 1995 and January 1997. As compared with the placebo group, the eptifibatide group had a 1.5 percent absolute reduction in the incidence of the primary end point (14.2 percent, vs. 15.7 percent in the placebo group; P=0.04). The benefit was apparent by 96 hours and persisted through 30 days. The effect was consistent in most major subgroups except for women (odds ratios for death or nonfatal myocardial infarction, 0.8 [95 percent confidence interval, 0.7 to 0.9] in men, and 1.1 [0.9 to 1.3] in women). Bleeding was more common in the eptifibatide group, although there was no increase in the incidence of hemorrhagic stroke. Conclusions Inhibition of platelet aggregation with eptifibatide reduced the incidence of the composite end point of death or nonfatal myocardial infarction in patients with acute coronary syndromes who did not have persistent ST-segment elevation. (N Engl J Med 1998;339:436-43.)
+©1998, Massachusetts Medical Society.
+
+A CUTE coronary syndromes, including acute myocardial infarction and unstable angina, result from the disruption of atherosclerotic plaque, leading to intracoronary thrombus formation with aggregated platelets within a fibrin mesh.1 Standard therapy includes aspirin and heparin. Six randomized clinical trials2-7 have shown that platelet glycoprotein IIb/IIIa receptor inhibitors,8-10 given in addition to heparin and aspirin, reduce ischemic complications of percutaneous revascularization, particularly among patients with unstable angina.4,11-13
+Eptifibatide (Integrilin, COR Therapeutics, South San Francisco, Calif.), a synthetic cyclic heptapeptide, is a selective high-affinity inhibitor of the platelet glycoprotein IIb/IIIa receptor. It produces dose-dependent ex vivo inhibition of platelet aggregation14-16 and reduces the frequency of acute ischemic complications of percutaneous coronary revascularization.3 A dose-finding study in patients with unstable angina demonstrated a reduction in ischemia detected by Holter monitoring among those given eptifibatide.17
+We undertook the Platelet Glycoprotein IIb/IIIa in Unstable Angina: Receptor Suppression Using Integrilin Therapy (PURSUIT) Trial to test the hypothesis that inhibition of platelet aggregation with eptifibatide has an incremental clinical benefit beyond that of heparin and aspirin in reducing the incidence of adverse outcomes in patients with acute coronary syndromes who do not have persistent ST-segment elevation. Unlike other studies of patients with unstable angina, in which the highly selected nature of the study populations forced clinicians to extrapolate results to the broader range of patients seen in clinical practice, our trial was designed so that the circumstances of treatment closely resembled clinical practice. The expectations that there would be prognostic uncertainty in this population and that the risk of events would be highest in the early hours of the study led us to follow a strategy of using empirical therapy as early as possible after the occurrence of chest pain, rather than waiting for a
+
+On behalf of the Steering Committee, Robert A. Harrington, M.D., assumes responsibility for the overall content of the manuscript. Address reprint requests to Dr. Harrington at the Duke Clinical Research Institute, 2024 W. Main St., Durham, NC 27705.
+*The participants in the Platelet Glycoprotein IIb/IIIa in Unstable Angina: Receptor Suppression Using Integrilin Therapy (PURSUIT) Trial are listed in the Appendix.
+436 · August 13, 19 98
+The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
+Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+
+INHIBITION OF PL ATELET GLYCOPROTEIN IIb/ IIIa WITH EP TIFIBATIDE IN ACUTE CORONARY SYNDROMES
+
+decision about whether to perform coronary revascularization.
+METHODS
+Patients
+Patients presenting to any of 726 participating hospitals in 28 countries with symptoms of ischemic chest pain at rest, lasting 10 minutes or longer, within the previous 24 hours were eligible for randomization. They had to have transient ST-segment elevation of more than 0.5 mm, transient or persistent ST-segment depression of more than 0.5 mm, T-wave inversion of more than 1 mm within 12 hours before or after chest pain, or a serum concentration of creatine kinase MB isoenzyme (CK-MB) that was above the upper limit of normal for the hospitals where they were evaluated.18 Criteria for exclusion included persistent ST-segment elevation of more than 1 mm, active bleeding or a history of bleeding diathesis, gastrointestinal or genitourinary bleeding within 30 days before enrollment, systolic blood pressure above 200 mm Hg or diastolic blood pressure above 110 mm Hg, a history of major surgery within the previous 6 weeks, a history of nonhemorrhagic stroke within the previous 30 days or any history of hemorrhagic stroke, renal failure, pregnancy, the planned administration of a platelet glycoprotein IIb/IIIa receptor inhibitor or thrombolytic agent, or the receipt of thrombolytic therapy within the previous 24 hours.
+Randomization and Treatment
+Randomization was performed, in a double-blind manner, by coordinating centers in the United States or the Netherlands. Patients were assigned to receive eptifibatide (a bolus dose of 180 µg per kilogram of body weight, followed by an infusion of 1.3 µg per kilogram per minute, or a bolus dose of 180 µg per kilogram followed by an infusion of 2.0 µg per kilogram per minute) or a bolus and infusion of placebo. Both eptifibatide regimens were expected, once a steady state was achieved, to provide plasma concentrations 1.5 to 2.0 times the plasma concentration needed to reach the 80 percent inhibitory concentration of eptifibatide (the concentration that inhibits 80 percent of platelets) as measured ex vivo.16
+The study drug was to be infused until discharge from the hospital or for 72 hours, whichever came first. If a coronary intervention was performed near the end of the 72-hour infusion period, the infusion could be continued for an additional 24 hours (total, 96 hours). Cardiac catheterization and percutaneous or surgical revascularization were performed at the discretion of the treating physicians.
+Because this was the first large-scale study of higher doses of eptifibatide than those previously used, it was specified in the protocol that the study would be stopped in the lower-dose group after the independent data safety and monitoring committee had conducted an interim review of safety data, provided the higher dose had an acceptable safety profile. After 3218 patients had been randomly assigned to treatment groups, the committee recommended dropping the lower dose.
+Concomitant Medications
+All patients received aspirin (80 to 325 mg per day) at the discretion of the treating physicians. Patients who were allergic to or intolerant of aspirin could receive ticlopidine. Intravenous or subcutaneous heparin was recommended. Intravenous heparin was to be given as a bolus dose of 5000 U, followed by an infusion at a rate of 1000 U per hour, with the activated partial-thromboplastin time maintained in the range of 50 to 70 seconds. For patients weighing less than 70 kg, lower doses were recommended.19 During the infusion of eptifibatide, thrombolytic therapy and other inhibitors of the platelet glycoprotein IIb/IIIa receptor could not be administered. Decisions regarding treatment with other antiischemic medications were made by the treating physicians.
+
+Efficacy-Related End Points
+The primary end point with respect to efficacy was a composite of death from any cause or nonfatal myocardial infarction at 30 days. Suspected infarctions were evaluated by a masked clinicalevents committee. Myocardial infarction within 18 hours after enrollment was diagnosed on the basis of ischemic chest pain and new ST-segment elevation in at least two contiguous leads and lasting for 30 minutes. After 18 hours, myocardial infarction was considered to have occurred if there was a new or repeated elevation of the CK-MB fraction above the upper limit of normal (or if the serum total creatine kinase concentration was more than two times the upper limit of normal, in the case of unavailable CK-MB values) or if there were new Q waves in two electrocardiographic leads. For patients undergoing percutaneous revascularization, a myocardial infarction after the procedure was identified on the basis of an elevation of the CK-MB fraction to three or more times the upper limit of normal or by the appearance of new Q waves. The diagnosis of myocardial infarction after coronary bypass required an elevation of the CK-MB fraction to five or more times the upper limit of normal or new Q waves.20 Investigators at the individual sites were also asked to determine whether an infarction had occurred.
+Secondary end points included mortality from all causes within 30 days after the index event, a first or recurrent myocardial infarction within 30 days, the composite end point (death or nonfatal myocardial infarction) at 96 hours and 7 days, and measures of the safety and efficacy of treatment in patients undergoing percutaneous revascularization.
+Safety-Related End Points
+Two scales of severity were used to classify bleeding complications. The scale from the Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries (GUSTO) trial,21 on which complications are scored as mild, moderate, severe, or life-threatening, was used for classification by the study-site investigators. Severe or life-threatening bleeding was defined as intracranial hemorrhage or bleeding that caused hemodynamic compromise and required intervention. Moderate bleeding was defined as bleeding that required blood transfusion in the absence of hemodynamic compromise. The scale from the Thrombolysis in Myocardial Infarction (TIMI) trial,22 on which complications are categorized as major or minor, was used to classify bleeding complications on the basis of laboratory measurements. Major bleeding was defined as intracranial hemorrhage or bleeding associated with a drop of 15 percentage points or more in the hematocrit or of 5 g per deciliter or more in the hemoglobin concentration. Minor bleeding was defined as observed blood loss and a drop of more than 10 percentage points in the hematocrit or of 3 g per deciliter or more in the hemoglobin concentration; if no bleeding site was identifiable, a drop of 12 percentage points or more in the hematocrit or of 4 g per deciliter or more in the hemoglobin concentration was considered to indicate minor bleeding.
+Neurologic evaluation and brain imaging with computed tomography or magnetic resonance imaging were recommended in cases of suspected stroke. Copies of reports on neurologic consultations and radiology and autopsy reports were obtained in all cases of suspected stroke for review and classification by the clinical-events committee, which included three neurologists. Strokes were classified as hemorrhagic, ischemic, or ischemic with hemorrhagic conversion.
+Platelet counts were performed at base line and then daily during the study-drug infusion. Additional counts were obtained according to the local standard of care. A platelet count of less than 100,000 per cubic millimeter or a nadir below 50 percent of the base-line value was considered evidence of thrombocytopenia. Serious thrombocytopenia was defined by a nadir platelet count below 50,000 per cubic millimeter and profound thrombocytopenia by a count below 20,000 per cubic millimeter.23
+
+Volume 33 9 Numb er 7 · 437
+The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
+Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+
+The New England Journal of Medicine
+
+Statistical Analysis
+The necessary sample size was estimated for the comparison between the 30-day incidence of the composite end point of death or nonfatal myocardial infarction in the eptifibatide group and that in the placebo group. The sample size was adjusted for four analyses, including the final analysis, with monitoring boundaries in the spirit of the O'Brien­Fleming rule but with early rejection of either the null or the alternative hypothesis.24 A sample consisting of 9382 patients in the two groups would provide the study with 80 percent power to detect a reduction of 20 percent (or an absolute difference of 1.7 percent) in the 30-day incidence of the composite end point, assuming an event rate of 8.5 percent in the placebo group.
+Values for continuous variables are presented as medians with interquartile ranges (25th and 75th percentiles), and those for dichotomous variables as frequencies. The primary analysis of efficacy included all patients randomly assigned to groups and was conducted on an intention-to-treat basis with use of Pearson's chi-square test. On the basis of the sequential monitoring procedure described above, the significance level for the primary end point was 0.05. To characterize the time course of events in the two groups, the cumulative event rate over time was estimated with the product-limit (Kaplan­Meier) method, with the time to the first event of the composite end point used as the outcome variable. Primary comparisons of safety-related outcomes were made among patients as treated in order to provide the most conservative estimate of the safety of eptifibatide.
+RESULTS
+Patients
+A total of 10,948 patients were randomly assigned to the study groups between November 1995 and January 1997: 1487 patients to the low-dose eptifibatide group, 4722 to the high-dose eptifibatide group, and 4739 to the placebo group. Data are presented in detail for the primary comparison groups, those assigned to receive high-dose eptifibatide (a bolus dose of 180 µg per kilogram, followed by an infusion of 2.0 µg per kilogram per minute) or placebo. In comparisons with the placebo group, the high-dose eptifibatide group is referred to simply as the eptifibatide group.
+The base-line characteristics of the patients are shown in Table 1. The index episode was classified as a myocardial infarction in 45.1 percent of the patients in the eptifibatide group and in 46.2 percent of those in the placebo group. Approximately 65 percent of the patients had angina at rest in the six weeks before enrollment; approximately 21 percent had undergone either percutaneous revascularization or bypass grafting.
+Patients were enrolled a median of 11 hours after the onset of symptoms. The study drug was infused for a median of 72 hours in both groups but was discontinued before 72 hours in a greater percentage of patients in the eptifibatide group than in the placebo group (38.1 percent vs. 33.7 percent, P<0.001). The main reason for the discontinuation of the study drug before 72 hours in both groups was early discharge from the hospital (18.6 percent of patients were discharged before 72 hours); additional reasons were bleeding in the eptifibatide group (in 8.0 percent
+
+TABLE 1. BASE-LINE CHARACTERISTICS ACCORDING TO STUDY GROUP.*
+
+CHARACTERISTIC
+
+EPTIFIBATIDE GROUP
+(N=4722)
+
+PLACEBO GROUP (N=4739)
+
+Age (yr) Median Interquartile range
+
+64 55­71
+
+Female sex (%)
+
+34.9
+
+White race (%)
+
+88.8
+
+Weight (kg) Median Interquartile range
+
+78.0 68.5­88.0
+
+Height (cm) Median Interquartile range
+
+170.0 162.6­175.3
+
+Systolic blood pressure (mm Hg)
+Median Interquartile range
+
+130 116­145
+
+Heart rate (beats/min) Median Interquartile range
+
+72 62­80
+
+Hypertension (%)
+
+55.3
+
+Diabetes mellitus (%)
+
+22.2
+
+Current smoking (%)
+
+29.2
+
+Hypercholesterolemia (%)
+
+41.4
+
+Family history of CAD (%)
+
+35.2
+
+Prior myocardial infarction (%) 32.0
+
+History of CHF (%)
+
+11.1
+
+Prior PTCA (%)
+
+12.8
+
+Prior CABG (%)
+
+12.0
+
+Angina at rest (in previous 6 wk) (%)
+
+65.4
+
+Findings on qualifying ECG (%)
+ST-segment depression ST-segment elevation T-wave inversion None of these findings
+
+49.8 13.7 51.6
+7.6
+
+64 55­71
+36.1 88.9
+78.1 69.0­88.0
+170.0 162.6­176.0
+130 116­145
+71 63­80
+55.5 23.5 27.7 42.3 35.8 32.9 11.0 12.9 12.0 64.1
+50.2 13.8 50.0
+8.1
+
+*All patients randomly assigned to receive the higher dose of eptifibatide or placebo are included. CAD denotes coronary artery disease, CHF congestive heart failure, PTCA percutaneous transluminal coronary angioplasty, CABG coronary-artery bypass graft surgery, and ECG electrocardiogram.
+Patients could have more than one finding.
+
+of the patients, as compared with 1.0 percent in the placebo group; P<0.001) and the need for coronary bypass surgery in the placebo group (12.7 percent, as compared with 10.8 percent in the eptifibatide group). Aspirin was given to 93.0 percent of patients, and heparin was given to 89.8 percent for a median of 76 hours during hospitalization. The median activated partial-thromboplastin times among patients receiving heparin were similar (55 seconds for the eptifibatide group [interquartile range, 44 to 68] and 54 seconds for the placebo group [interquartile range, 44 to 67]).
+Cardiac catheterization was performed after ran-
+
+438 · August 13, 19 98
+The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
+Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+
+INHIBITION OF PL ATELET GLYCOPROTEIN IIb/ IIIa WITH EP TIFIBATIDE IN ACUTE CORONARY SYNDROMES
+
+TABLE 2. INCIDENCE OF THE COMPONENTS OF THE COMPOSITE END POINT, ACCORDING TO STUDY GROUP.*
+
+TIME AND EVENT
+
+EPTIFIBATIDE PLACEBO
+
+GROUP
+
+GROUP
+
+(N=4722) (N=4739)
+
+P VALUE
+
+96 Hours Death Myocardial infarction Death or nonfatal myocardial infarction
+7 Days Death Myocardial infarction Death or nonfatal myocardial infarction
+30 Days Death Myocardial infarction Death or nonfatal myocardial infarction
+
+percent
+
+0.9 7.1 7.6
+1.5 9.3 10.1
+3.5 12.6 14.2
+
+1.2 8.3 9.1
+2.0 10.4 11.6
+3.7 13.5 15.7
+
+0.11 0.03 0.01
+0.05 0.08 0.02
+0.53 0.14 0.04
+
+*All patients randomly assigned to receive the higher dose of eptifibatide or placebo are included.
+
+Cumulative Incidence (%)
+
+20
+15.7% 15 Placebo
+14.2% Eptifibatide 10
+5 P=0.03 by the log-rank test
+0 0 10 20 30 Days after Randomization
+Figure 1. Kaplan­Meier Curves Showing the Incidence of Death or Nonfatal Myocardial Infarction at 30 Days. This analysis is based on end points as assessed by the central clinical-events committee. The percentages shown are for the incidence at 30 days.
+
+domization in 59.0 percent of patients assigned to receive eptifibatide and 59.9 percent of those assigned to receive placebo. Percutaneous revascularization and bypass grafting were performed slightly less frequently in patients receiving eptifibatide than in the placebo group (23.3 percent vs. 24.8 percent and 13.9 percent vs. 14.3 percent, respectively). Approximately 50 percent of patients undergoing percutaneous revascularization had a stent implanted. There were wide regional variations in the frequency of cardiac procedures with catheterization, as follows: 79 percent in North America, 58 percent in Western Europe, 46 percent in Latin America, and 20 percent in Eastern Europe.
+Efficacy-Related End Points
+The frequency of the composite end point at 96 hours, 7 days, and 30 days is shown in Table 2 and Figure 1. Treatment with eptifibatide was associated with a significant reduction in the incidence of death or myocardial infarction at each time point. The 1.5 percent absolute reduction in the frequency of the composite end point was reached by 4 days and maintained for 30 days without attenuation or amplification. On the basis of the frequency of nonfatal infarction (one component of the composite efficacy end point) as determined by the investigators at the study sites, eptifibatide had a consistent and highly significant benefit at all time points; at 30 days, the incidence of the composite end point was 8.1 percent in the eptifibatide group, as compared with 10.0 percent in the placebo group (P=0.001).
+For patients undergoing percutaneous revascularization within 72 hours after randomization, there was a 31 percent reduction in the incidence of the composite end point of death or nonfatal myocardial
+
+infarction at 30 days among those treated with eptifibatide, as compared with placebo (11.6 percent vs. 16.7 percent, P=0.01); there was a 7 percent reduction among patients who did not undergo early revascularization (14.5 percent vs. 15.6 percent, P=0.23). Eptifibatide reduced the frequency of the composite end point before and after the procedure among those patients who underwent early revascularization (Table 3).
+The incidence of the composite end point at 30 days among patients in the original three study groups who were enrolled and treated before the low-dose eptifibatide group was discontinued was 13.4 percent for the low-dose eptifibatide group, 13.1 percent for the high-dose eptifibatide group, and 13.5 percent for the placebo group. Since only 3218 patients had been enrolled when the low-dose treatment group was discontinued, the study had inadequate statistical power for inferences to be made regarding the efficacy of eptifibatide at this dosage.
+Figure 2 shows the odds ratios for death or nonfatal myocardial infarction in various subgroups, including those defined by geographic region. The point estimate of the treatment effect consistently favored eptifibatide in all major subgroups except women (odds ratio for women, 1.10; 95 percent confidence interval, 0.91 to 1.34). The observed treatment effect varied among geographic regions, with the greatest benefit observed among North American patients. Among both men and women in North America, there was a benefit associated with treatment with eptifibatide (incidence of the composite end point: among men, 16.2 percent in the placebo group vs. 12.4 percent in the eptifibatide group; P=0.006; among women, 12.9 percent vs. 10.6 percent, respectively; P=0.19).
+
+Volume 33 9 Numb er 7 · 439
+The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
+Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+
+The New England Journal of Medicine
+
+TABLE 3. INCIDENCE OF THE COMPOSITE END POINT OF DEATH OR NONFATAL MYOCARDIAL INFARCTION
+BEFORE AND AFTER PERCUTANEOUS REVASCULARIZATION AMONG PATIENTS WHO UNDERWENT INTERVENTION WITHIN 72 HOURS
+AFTER RANDOMIZATION.
+
+TIME*
+Before PTCA 96 hours 7 days 30 days
+
+EPTIFIBATIDE PLACEBO
+
+GROUP
+
+GROUP
+
+(N=606) (N=622)
+
+ABSOLUTE REDUCTION
+
+P VALUE
+
+percent
+
+1.7 8.1 8.9 10.2
+
+5.5 10.9 11.7 12.4
+
+3.8 <0.001 2.8 0.09 2.8 0.10 2.2 0.24
+
+*At 96 hours, 7 days, and 30 days the composite end point includes death or nonfatal myocardial infarction occurring after the percutaneous procedure. PTCA denotes percutaneous transluminal coronary angioplasty.
+
+Safety-Related End Points
+Bleeding was more common among patients treated with eptifibatide than among those receiving placebo (Table 4), and there were more red-cell transfusions among the patients treated with eptifibatide (11.6 percent vs. 9.2 percent; relative risk, 1.3; 95 percent confidence interval, 1.1 to 1.4). In most cases, bleeding was mild and occurred at the femoral-access site. Patients undergoing bypass surgery had increased
+
+bleeding and accounted for approximately 80 percent of the patients with major bleeding complications. Eptifibatide did not further increase this risk of bleeding.
+Strokes occurred with similar frequency in the two groups (0.7 percent in the eptifibatide group and 0.8 percent in the placebo group, P=0.41). Most strokes were cerebral infarctions; intracranial hemorrhage occurred in only nine patients (five in the eptifibatide group and four in the placebo group). There were three primary hemorrhagic strokes in the eptifibatide group and two in the placebo group. The incidence of thrombocytopenia as defined in the protocol was similar in the two groups (6.8 percent in the eptifibatide group and 6.7 percent in the placebo group). More eptifibatide-treated patients had profound thrombocytopenia than was the case in the placebo group (0.2 percent vs.<0.1 percent; relative risk, 5.0; 95 percent confidence interval, 1.3 to 32.4), although the absolute number of patients was very small (nine patients in the eptifibatide group and two in the placebo group).
+DISCUSSION
+In this multicenter trial, we found that eptifibatide reduced the incidence of death or nonfatal myocardial infarction at 30 days. The absolute 1.5 percent reduction was achieved early during the drug infusion and persisted through 30 days. Our analysis of patients undergoing coronary revascularization was limited by the fact that such intervention was performed at
+
+All patients Male sex
+Female sex Age <65 yr Age »65 yr
+No DM DM
+MI at enrollment No MI at enrollment
+No prior CABG Prior CABG
+North America Western Europe
+Latin America Eastern Europe
+0.5 1.0 Eptifibatide Better
+
+Placebo Better
+
+1.5
+
+Figure 2. Odds Ratios for Death or Nonfatal Myocardial Infarction in Selected Subgroups of Patients.
+The horizontal lines indicate 95 percent confidence intervals. DM denotes diabetes mellitus, MI myocardial infarction, and CABG coronary-artery bypass graft surgery.
+
+440 · August 13, 19 98
+The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
+Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+
+INHIBITION OF PL ATELET GLYCOPROTEIN IIb/ IIIa WITH EP TIFIBATIDE IN ACUTE CORONARY SYNDROMES
+
+the discretion of the treating physician and was thus not subject to randomization. Notwithstanding this limitation, eptifibatide reduced the incidence of the composite end point in patients receiving medical therapy, in patients assessed before and after coronary revascularization (in the case of those undergoing early revascularization), and during the study-drug infusion. The use of eptifibatide was associated with increased bleeding and a more frequent need for transfusions. Moreover, although we observed a beneficial effect of eptifibatide in men, the results in women were less clear.
+Our study was designed to be a practice-based trial, and patients were treated according to an array of management strategies, with no protocol-mandated strategy of catheterization and revascularization. Patients had typical acute chest pain syndromes, and the distribution of cardiovascular risk factors was similar to the distributions in other large studies of the same type of patient.25
+Efficacy
+The incidence of the primary end point was nearly double that predicted on the basis of similar studies.25,26 This discrepancy may have reflected our selection of patients with more severe disease as well as our rigorous search for electrocardiographic and laboratory data to establish and verify infarction or reinfarction.
+The benefit of eptifibatide was evident at 96 hours, as was expected given the biologic effect of the drug. The maintenance of this benefit without attenuation established the absence of a rebound phenomenon up to 30 days. By contrast, some direct thrombin inhibitors have shown a benefit of similar magnitude during the drug infusion, but the absolute benefit has diminished during follow-up.27,28
+Although the treatment effect was consistent among most subgroups in this study, it differed between women and men. In women, the 95 percent confidence interval is compatible with the existence of no effect, a small beneficial effect, or a detrimental effect. Considerable caution must be exercised in evaluating subgroups when there is inadequate power to make definitive statistical conclusions.29 No biologic explanation is apparent, since in women and men enrolled in a substudy of platelet function, eptifibatide therapy had similar antiplatelet effects. No sex difference has been seen in other trials of eptifibatide.3 Furthermore, a treatment benefit was observed in both women and men in North America in our study. Differences in outcome according to geographic region have been seen in other large, international trials of cardiovascular therapy and are related to differences in base-line characteristics as well as in management.30
+As in other trials that have used an independent adjudication process, the assessment of nonfatal myo-
+
+TABLE 4. INCIDENCE OF BLEEDING DURING THE INITIAL HOSPITALIZATION BUT AFTER RANDOMIZATION, ACCORDING TO TREATMENT RECEIVED.
+
+CATEGORY OF BLEEDING*
+
+EPTIFIBATIDE PLACEBO
+
+P
+
+(N=4679) (N=4696) VALUE
+
+percent
+
+All patients
+TIMI scale None or insignificant Minor Major
+GUSTO scale None Mild Moderate Severe
+Patients who did not undergo CABG
+TIMI scale None or insignificant Minor Major
+GUSTO scale None Mild Moderate Severe
+
+74.8 12.9 10.6
+
+81.0 7.4 9.1
+
+0.02
+
+61.0 26.1 11.3
+1.5
+
+77.2 12.9
+9.0 0.9
+
+<0.001
+
+84.2 11.1
+3.0
+68.8 26.0
+4.1 1.1
+
+91.2 4.7 1.3
+
+<0.001
+
+87.6 10.4
+1.7 0.3
+
+<0.001
+
+*TIMI denotes the Thrombolysis in Myocardial Infarction trial, GUSTO the Global Utilization of Streptokinase and t-PA for Occluded Coronary Arteries trial, and CABG coronary-artery bypass graft surgery. The categories of bleeding are defined in the Methods section.
+For bleeding according to the TIMI scale, the P value is for the comparison between the percentage of patients with major bleeding and those with minor bleeding, insignificant bleeding, or none. For bleeding according to the GUSTO scale, the P value is for the comparison between moderate or severe bleeding and mild bleeding or none.
+Since data were missing for some patients, not all percentages sum to 100.
+
+cardial infarctions differed between the central adjudication panel and the investigators at the study sites.31 More end-point events were identified and a smaller absolute and relative benefit was observed when events were identified centrally. The benefit of treatment was apparent, however, whether end points were identified centrally or by the investigators.
+Because even asymptomatic enzymatic infarctions have prognostic importance, especially after coronary revascularization procedures,32 great effort was expended to measure myocardial enzymes in patients with suspected ischemic events and in those who underwent revascularization. Trials of percutaneous revascularization strategies have shown that even asymptomatic myocardial infarctions detected on the basis of cardiac-enzyme measurements in serum are associated with adverse outcomes in the intermediate term (30 days) and the longer term (6 months to 1 year).33,34
+
+Volume 33 9 Numb er 7 · 441
+The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
+Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+
+The New England Journal of Medicine
+
+Safety
+As compared with placebo, eptifibatide was associated with an increased risk of bleeding and a greater need for blood transfusions. The increase in risk is consistent with that associated with other accepted therapies,19,25 especially considering the trade-off in terms of reducing the risk of death or myocardial necrosis. Most bleeding occurred at the femoral-access site in patients undergoing cardiac procedures. There was little bleeding in patients who did not undergo revascularization. The risk of bleeding might be reduced by using lower doses of heparin; since this was a blinded trial, adjustments to the dosage of heparin did not take into account the concomitant use of the platelet inhibitors. Whether lower doses of heparin can be used in patients treated with eptifibatide is a matter for speculation, but the possibility is supported by the experience with patients undergoing percutaneous revascularization.5,35
+There was no additional increase in bleeding among the patients assigned to eptifibatide who were undergoing bypass surgery, as compared with the patients given placebo. Considering that almost 16 percent of patients underwent bypass surgery within 30 days after randomization, this finding is reassuring and consistent with the short half-life of eptifibatide and with experience in a study of abciximab.36 In this trial, as compared with other trials of fibrinolytic agents or thrombin inhibitors at high doses,37,38 there were fewer hemorrhagic strokes, and there was no increased risk with eptifibatide.
+Comparisons with Other Trials and Implications for Practice
+More than 30,000 patients have been enrolled in large, randomized clinical trials comparing inhibition of the platelet glycoprotein IIb/IIIa receptor with standard therapy in patients undergoing percutaneous coronary revascularization and those with acute coronary syndromes who do not have ST-segment elevation.2-6,39-41 Although the magnitude of benefit has varied, there has consistently been a reduction in the incidence of death and myocardial infarction and the need for revascularization. In four studies in which three different small-molecule inhibitors of the glycoprotein IIb/IIIa receptor were used in patients with acute coronary syndromes but without ST-segment elevation, the data have consistently favored glycoprotein IIb/IIIa receptor inhibition over placebo.39-41 In our study, the apparently moderate absolute reduction of 1.5 percent in the incidence of death or nonfatal myocardial infarction was achieved in a real-life setting and in patients who were also being treated with aspirin, heparin, betablockers, angiotensin-converting­enzyme inhibitors, lipid-lowering therapy, coronary revascularization, or a combination of these methods.
+
+Supported by COR Therapeutics and Schering-Plough Research Institute.
+We are indebted to Penny Hodgson for her expert editorial assistance.
+APPENDIX
+The participants in the Platelet Glycoprotein IIb/IIIa in Unstable Angina: Receptor Suppression Using Integrilin Therapy (PURSUIT) Trial were as follows (a complete listing of investigators and coordinators can be found on the World Wide Web at http://dcri.mc.duke.edu): Steering Committee -- E. Topol (chair); R. Califf (co-chair, North and South America); M. Simoons (co-chair, Europe); R. Diaz and E. Paolasso, Argentina and Uruguay; W. Klein, Austria; J. Boland, Belgium; G. DeBacker, Belgium; P. Armstrong, Canada; R. Corbalan, Chile; D. Isaza, Colombia; P. Widimsky, Czech Republic; C. Urrutia, El Salvador; K. Luomanmäki, Finland; A. Vahanian, France; K. Karsch, Germany; D. Cokkinos, G. Karatasakis, and P. Toutouzas, Greece; M. Rodas, Guatemala; M. Keltai, Hungary; S. Chierchia, Italy; E. Silva, Mexico; J. Erikssen, Norway; W. Ruzyllo and J. Stepinska, Poland; V. da Gamma Ribeiro, Portugal; A. Fernandez-Ortiz and C. Macaya, Spain; J. Goy, Switzerland; J. Deckers, the Netherlands; A. Skene and R. Wilcox, United Kingdom; A. Guerci, R. Harrington, J. Hochman, D. Holmes, N. Kleiman, S. Kopecky, K. Lee, A. Lincoff, E. Ohman, and C. Pepine, United States; J. Isea, Venezuela; Coordinating Center, Duke Clinical Research Institute, Durham, N.C. -- Clinical operations: R. Califf, R. Harrington, L.G. Berdan; Statistical director: K. Lee; Administration: J. Melton, M. Scharenbroich; Clinical events classification: K. Mahaffey, I. DeJong; Communications: A. Doll, P. Hodgson; Coordinators: P. Allman, C. Ball, L. Guy, K. Hannan, D. Pagano; Data management: J. Snapp; Lead monitor: L. Zillman; Pharmacy: M. Pullium; Statistics: B. Weatherley, C. MacAuley, S. McNulty, R. Sparapani, D. Beasley; Executive Coordinating Center, Cleveland Clinic Foundation, Cleveland -- E. Topol, A. Lincoff, V. Stosik, L. Konczos, D. Passmore; European Coordinating Center, Cardialysis Clinical Research Management and Core Laboratories, Rotterdam, the Netherlands -- Clinical operations: M. Simoons, J. Deckers, P. Kint, J. Simons; Data management: E. Nibbering, S. van Oosterom; Canadian Coordinating Center, University of Alberta, Edmonton -- P. Armstrong, S. Caouette, S. Martin; United Kingdom Coordinating Center, Nottingham Clinical Trial Data Center, Nottingham -- A. Skene, R. Wilcox, E. Townsend; Clinical Events Committee -- R. Harrington, K. Mahaffey, M. Alberts, B. Chandler, B. Crenshaw, C. Graffignino, C. Granger, N. Kleiman, K. Newby, B. Tardiff; J. Alexander, K. Alexander, P. Amsterdam, R. Anderson, C. Bajzer, G. Barness, C. Bruce, M. Cuffe, I. Dawson, Z. Dibbs, J.B. Durand, J. Erwin, V. Guetta, M. Khan, N. Lakkis, D. Laskowitz, M. Madan, W. Mazur, R. Migrino, J. Miller, M. Silver, W. Tan, M. Treuth, C. Tung; Data Monitoring and Safety Committee -- T. Ryan (chairman), Boston University Medical Center; J. Alpert, University of Arizona Health Science Center; G. Beller, University of Virginia Health Sciences Center; R.O. Bonow, Northwestern University Medical School; B. Brundage, Harbor­UCLA Medical School; L. Fisher, University of Washington; R. Hardy, University of Texas School of Public Health; J. Meyer, II Medizinische Klinik University of Mainz, Mainz, Germany; COR Therapeutics, South San Francisco -- M. Kitt, D. Gretler, C. Homcy, T. Lorenz, J. Fulks, K. Cambouris; Schering-Plough Research Institute, Kenilworth, N.J. -- R. Spiegel, E. Veltri, J. Spicehandler, J. Golando, L. Mellars, B. Rodda, M. Malone, R. Ress; Principal investigators at the 25 sites enrolling the most patients -- G. Miller, Danville Regional Medical Center, United States; P. Nishan, Moses Cone Memorial Hospital, United States; R. Spacek, Klinika FN Kralovske Vinohrady, Czech Republic; A. Riba, Oakwood Hospital, United States; H. Chandna, Michael Reese Hospital, United States; B. Semrad, University Hospital Brno-Bohunice, Czech Republic; P. Widimsky, Fak. Nemocnice Kralovske Vinohrady, Czech Republic; C. van der Zwaan, Thoraxcenter, Dijkzigt AZ Rotterdam, the Netherlands; D. Drenning, Huntsville Hospital, United States; T. Sandor, Hollos Jozsef County Hospital, Kecskemet, Hungary; A. Malinski, Wojewodzki Szpital Zespolony, Poland; W. Smits, Maasziekenhuis, the Netherlands; J. Griffin, Virginia Beach General Hospital, United States; R. Harrington, Duke University Medical Center, United States; A. Paraschos, Alamance Regional Medical Center, United States; A. Vahanian, Hôpital Tenon, France; G.M. Jochemsen, Ziekenhuis De Tjongerschans, the Netherlands; R. Dijkgraaf, Ziekenhuis St. Jansdal, the Netherlands; M. Frey, Sarasota Memorial Hospital, United States; H. Darius, J. Gutenberg University Medical Center, Germany; J. Adgey, Royal Victoria Hospital, United Kingdom; J. Talley, John L. McClellan Veterans Affairs Medical Center, United States; H.F. Baars, Maria Hospital, the Netherlands; J. Seaworth, North East Baptist Hospital, United States; J.M.C. van Hal, Streekziekenhuis Zevenaar, the Netherlands.
+
+442 · August 13, 19 98
+The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
+Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+
+INHIBITION OF PL ATELET GLYCOPROTEIN IIb/ IIIa WITH EP TIFIBATIDE IN ACUTE CORONARY SYNDROMES
+
+REFERENCES
+1. Chesebro JH, Fuster V. Thrombosis in unstable angina. N Engl J Med 1992;327:192-4. 2. The EPIC Investigators. Use of a monoclonal antibody directed against the platelet glycoprotein IIb/IIIa receptor in high-risk coronary angioplasty. N Engl J Med 1994;330:956-61. 3. The IMPACT-II Investigators. Randomised placebo-controlled trial of effect of eptifibatide on complications of percutaneous coronary intervention: IMPACT-II. Lancet 1997;349:1422-8. 4. The CAPTURE Investigators. Randomised placebo-controlled trial of abciximab before and during coronary intervention in refractory unstable angina: the CAPTURE study. Lancet 1997;349:1429-35. [Erratum, Lancet 1997;350:744.] 5. The EPILOG Investigators. Platelet glycoprotein IIb/IIIa receptor blockade and low-dose heparin during percutaneous coronary revascularization. N Engl J Med 1997;336:1689-96. 6. The RESTORE Study Group. Effects of platelet glycoprotein IIb/IIIa blockade with tirofiban on adverse cardiac events in patients with unstable angina or acute myocardial infarction undergoing coronary angioplasty. Circulation 1997;96:1445-53. 7. Alexander JH, Alexander K, Kong DF, Tung CY, Whellan D. Session highlights from the American Heart Association Scientific Sessions: November 9-12, 1997. Am Heart J 1998;135:157-80. 8. Phillips DR, Charo IF, Parise LV, Fitzgerald LA. The platelet membrane glycoprotein IIb-IIIa complex. Blood 1988;71:831-43. 9. Lefkovits J, Plow EF, Topol EJ. Platelet glycoprotein IIb/IIIa receptors in cardiovascular medicine. N Engl J Med 1995;332:1553-9. 10. Coller BS. Blockade of platelet GPIIb/IIIa receptors as an antithrombotic strategy. Circulation 1995;92:2373-80. 11. Lincoff AM, Califf RM, Anderson KM, et al. Evidence for prevention of death and myocardial infarction with platelet membrane glycoprotein IIb/IIIa receptor blockade by abciximab (c7E3 Fab) among patients with unstable angina undergoing percutaneous coronary revascularization. J Am Coll Cardiol 1997;30:149-56. 12. Klootwijk P, Meij S, Melkert R, Simoons ML. Reduction of recurrent ischemia with abciximab during continuous ECG-ischemia monitoring in patients with unstable angina refractory to standard treatment (CAPTURE). J Am Coll Cardiol 1997;29:Suppl A:367A. abstract. 13. Topol EJ, Ferguson JJ, Weisman HF, et al. Long-term protection from myocardial ischemic events in a randomized trial of brief integrin b3 blockade with percutaneous coronary intervention. JAMA 1997;278:47984. 14. Tcheng JE, Harrington RA, Kottke-Marchant K, et al. Multicenter, randomized, double-blind, placebo-controlled trial of the platelet integrin glycoprotein IIb/IIIa blocker Integrelin in elective coronary intervention. Circulation 1995;91:2151-7. 15. Harrington RA, Kleiman NS, Kottke-Marchant K, et al. Immediate and reversible platelet inhibition after intravenous administration of a peptide glycoprotein IIb/IIIa inhibitor during percutaneous coronary intervention. Am J Cardiol 1995;76:1222-7. 16. Phillips DR, Teng W, Arfsten A, et al. Effect of Ca2+ on GP IIb-IIIa interactions with Integrilin: enhanced GP IIb-IIIa binding and inhibition of platelet aggregation by reductions in the concentration of ionized calcium in plasma anticoagulated with citrate. Circulation 1997;96:1488-94. 17. Schulman SP, Goldschmidt-Clermont PJ, Topol EJ, et al. Effects of Integrelin, a platelet glycoprotein IIb/IIIa receptor antagonist, in unstable angina: a randomized multicenter trial. Circulation 1996;94:2083-9. 18. Harrington RA. Design and methodology of the PURSUIT trial: evaluating eptifibatide for acute ischemic coronary syndromes. Am J Cardiol 1997;80:Suppl 4A:34B-38B. 19. Wali AU, Gavrila D, Sim MJ, Malhotra S, Palazzo AM, Hochman JS. An improved regimen for heparin use in acute coronary syndromes. Circulation 1997;96:Suppl I:I-597. abstract. 20. Califf RM, Abdelmeguid AE, Kuntz RE, et al. Myonecrosis after revascularization procedures. J Am Coll Cardiol 1998;31:241-51. 21. The GUSTO Investigators. An international randomized trial comparing four thrombolytic strategies for acute myocardial infarction. N Engl J Med 1993;329:673-82.
+
+22. Chesebro JH, Knatterud G, Roberts R, et al. Thrombolysis in Myocardial Infarction (TIMI) Trial, phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: clinical findings through hospital discharge. Circulation 1987;76:142-54. 23. Berkowitz SD, Harrington RA, Rund MM, Tcheng JE. Acute profound thrombocytopenia after C7E3 Fab (abciximab) therapy. Circulation 1997;95:809-13. 24. Pampallona S, Tsiatis AA. Group sequential designs for one-sided and two-sided hypothesis testing with provision for early stopping in favor of the null hypothesis. J Stat Plann Inference 1994;42:19-35. 25. The Global Use of Strategies to Open Occluded Coronary Arteries (GUSTO) IIb Investigators. A comparison of recombinant hirudin with heparin for the treatment of acute coronary syndromes. N Engl J Med 1996;335:775-82. 26. Thrombolysis in Myocardial Ischemia (TIMI) Study Group. Effects of tissue plasminogen activator and a comparison of early invasive and conservative strategies in unstable angina and non-Q-wave myocardial infarction: results of the TIMI IIIB Trial. Circulation 1994;89:1545-56. 27. Serruys PW, Herrman J-PR, Simon R, et al. A comparison of hirudin with heparin in the prevention of restenosis after coronary angioplasty. N Engl J Med 1995;333:757-63. 28. Bittl JA, Strony J, Brinker JA, et al. Treatment with bivalirudin (Hirulog) as compared with heparin during coronary angioplasty for unstable or postinfarction angina. N Engl J Med 1995;333:764-9. 29. Yusuf S, Wittes J, Probsfield J, Tyroler HA. Analysis and interpretation of treatment effects in subgroups of patients in randomized clinical trials. JAMA 1991;266:93-8. 30. Van de Werf F, Topol EJ, Lee KL, et al. Variations in patient management and outcomes for acute myocardial infarction in the United States and other countries: results from the GUSTO trial. JAMA 1995;273:1586-91. 31. Mahaffey KW, Granger CB, Tardiff BE, et al. Endpoint adjudication by a Clinical Events Committee can impact the statistical outcome of a clinical trial: results from GUSTO-IIb. J Am Coll Cardiol 1997;29:Suppl A:410A. abstract. 32. Abdelmeguid AE, Topol EJ. The myth of the myocardial `infarctlet' during percutaneous coronary revascularization procedures. Circulation 1996;94:3369-75. 33. Harrington RA, Lincoff AM, Califf RM, et al. Characteristics and consequences of myocardial infarction after percutaneous coronary intervention: insights from the Coronary Angioplasty Versus Excisional Atherectomy Trial (CAVEAT). J Am Coll Cardiol 1995;25:1693-9. 34. Elliott JM, Berdan LG, Holmes DR, et al. One-year follow-up in the Coronary Angioplasty Versus Excisional Atherectomy Trial. Circulation 1995;91:2158-66. 35. Lincoff AM, Tcheng JE, Califf RM, et al. Standard versus low-dose weight-adjusted heparin in patients treated with the platelet glycoprotein IIb/IIIa receptor antibody fragment abciximab (c7E3 Fab) during percutaneous coronary revascularization. Am J Cardiol 1997;79:286-91. 36. Boehrer JD, Kereiakes DJ, Navetta FI, Califf RM, Topol EJ. Effects of profound platelet inhibition with c7E3 before coronary angioplasty on complications of coronary bypass surgery: EPIC Investigators. Am J Cardiol 1994;74:1166-70. 37. Antman EM. Hirudin in acute myocardial infarction: safety report from the Thrombolysis and Thrombin Inhibition in Myocardial Infarction (TIMI) 9A Trial. Circulation 1994;90:1624-30. 38. The GUSTO IIa Investigators. Randomized trial of intravenous heparin versus recombinant hirudin for acute coronary syndromes. Circulation 1994;90:1631-7. 39. The Platelet Receptor Inhibition in Ischemic Syndrome Management (PRISM) Study Investigators. A comparison of aspirin plus tirofiban with aspirin plus heparin for unstable angina. N Engl J Med 1998;338:1498-505. 40. The Platelet Receptor Inhibition in Ischemic Syndrome Management in Patients Limited by Unstable Signs and Symptoms (PRISM-PLUS) Study Investigators. Inhibition of the platelet glycoprotein IIb/IIIa receptor with tirofiban in unstable angina and non­Q-wave myocardial infarction. N Engl J Med 1998;338:1488-97. 41. The PARAGON Investigators. An international, randomized, controlled trial of lamifiban, a platelet glycoprotein IIb/IIIa inhibitor, heparin or both in unstable angina. Circulation 1998;97:2386-95.
+
+Volume 33 9 Numb er 7 · 443
+The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
+Copyright © 1998 Massachusetts Medical Society. All rights reserved.
