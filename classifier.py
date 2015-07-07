@@ -24,29 +24,13 @@ class MiniClassifier:
         self.intercept = raw_data[0]
 
     def decision_function(self, X):
-        # assumes csr_matrix as X
-
-        # print X, X.shape
-        # print self.coef, self.coef.shape
-
-        # print "X"
-        # print X
-        # print X.shape
-
-        # print "coef"
-        # print self.coef
-        # print self.coef.shape
-
-        scores = X.dot(self.coef.T).todense() + self.intercept
+        scores = X.dot(self.coef.T) + self.intercept
         return scores.flatten()
 
     def predict(self, X):
-
         scores = self.decision_function(X)
         return np.sign(scores).astype(int)
 
-        # indices = (scores > 0).astype(np.int)
-        # return indices.flatten()
         
 
 
