@@ -52,4 +52,8 @@ and it will return something like:
     }
 
 All the domains in the Cochrane Risk of Bias tool are possible, but I've just not coded the loop yet. Defaults to Randomization Sequence to start with.
+
+## Licensing
+
+Please note that this software is licensed under the AGPL license, please see the attached license file for full details. We are happy to consider requests to license the code under different terms, please contact mail@ijmarshall.com with any questions!
  
