@@ -3,10 +3,10 @@
 #
 
 import json
+import uuid
 from nltk.tokenize import sent_tokenize
 from classifier import MiniClassifier
 from vectorizer import ModularVectorizer
-
 
 class BiasRobot:
 
@@ -72,7 +72,7 @@ class BiasRobot:
 
             marginalia.append({"type": "Risk of Bias",
                                "title": domain,
-                "annotations": [{"content": sent} for sent in high_prob_sents],
+                "annotations": [{"content": sent, "uuid": str(uuid.uuid1())} for sent in high_prob_sents],
                 "description": "**Overall risk of bias prediction**: " + bias_pred})
 
         return {"marginalia": marginalia}
@@ -83,7 +83,6 @@ def main():
 
     with codecs.open('tests/example.txt', 'r', 'ISO-8859-1') as f:
         text = f.read()
-
 
     robot = BiasRobot()
     print robot.annotate(text)
