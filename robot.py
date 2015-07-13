@@ -11,10 +11,12 @@ from biasrobot import BiasRobot
 def str2bool(v):
   return v.lower() in ("yes", "true", "t", "1")
 
-DEBUG_MODE = str2bool(os.environ.get("DEBUG", "true"))
+DEBUG_MODE = str2bool(os.environ.get("DEBUG", "false"))
+
 LOG_LEVEL = (logging.DEBUG if DEBUG_MODE else logging.INFO)
 logging.basicConfig(level=LOG_LEVEL, format='[%(levelname)s] %(name)s %(asctime)s: %(message)s')
 log = logging.getLogger(__name__)
+
 
 app = Flask(__name__,  static_url_path='')
 app.debug = DEBUG_MODE
