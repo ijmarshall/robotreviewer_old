@@ -32,14 +32,9 @@ cd -
 python robot.py
 ```
 
-This retrieves the front-end code and compiles pdf.js.
-
-
-
+This retrieves the front-end code and compiles pdf.js; and runs the server.
 
 ## Input/output
-
-This will change soon to the input/output by the Vortext PDF viewer, but I've not had time to do this yet!
 
 Send some JSON by POST to /annotate such as:
 
@@ -69,7 +64,9 @@ and it will return something like:
        'bias level':'LOW'
     }
 
-All the domains in the Cochrane Risk of Bias tool are possible, but I've just not coded the loop yet. Defaults to Randomization Sequence to start with.
+## References
+1. Marshall, I., Kuiper, J., & Wallace, B. (2015). Automating Risk of Bias Assessment for Clinical Trials. IEEE Journal of Biomedical and Health Informatics. [[doi]](http://dx.doi.org/10.1109/JBHI.2015.2431314)
+2. Marshall, I. J., Kuiper, J., & Wallace, B. C. (2015). RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials. Journal of the American Medical Informatics Association. [[doi]](http://dx.doi.org/10.1093/jamia/ocv044)
 
 ## Licensing
 
