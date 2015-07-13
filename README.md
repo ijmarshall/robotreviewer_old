@@ -20,10 +20,10 @@ RobotReviewer requires the following libraries:
 `python robot.py` will start a flask server running on `localhost:5000`. You can run the server in development mode by passing `DEBUG=true python robot.py` which will attempt live code reload.
 
 ## Running the Web UI
-The optional web interface is provided by [Vortext](https://github.com/vortext/spa) [Spá](https://github.com/vortext/spa).
+The optional web interface is provided by [Vortext](http://vortext.systems) [Spá](https://github.com/vortext/spa).
 It can be installed by running the following commands:
 
-```
+```bash
 git submodule update --init --recursive
 cd static/scripts/spa/pdfjs
 npm install
@@ -37,32 +37,25 @@ This retrieves the front-end code and compiles pdf.js; and runs the server.
 ## Input/output
 
 Send some JSON by POST to /annotate such as:
-
-    {
-        "text": "Put the full text of a clinical trial in here"
-    }
+```json
+{
+    "text": "Put the full text of a clinical trial in here"
+}
+```
 
 and it will return something like:
 
-    {
-       'domain':'Random sequence generation',
-       'justification':[
-          u'They were randomly assigned,
-          in a double-blind manner,
-          to receive a bolus and infusion of either eptifibatide or placebo,
-          in addition to standard therapy,
-          for up to 72 hours (or up to 96 hours,
-          if coronary intervention was performed near the end of the 72-hour period).',
-          u'Randomization and Treatment\nRandomization was performed,
-          in a double-blind manner,
-          by coordinating centers in the United States or the Netherlands.',
-          u'RESULTS\nPatients\nA total of 10,
-          948      patients were randomly assigned to the study groups between November 1995 and January 1997:1487      patients to the low-dose eptifibatide group,
-          4722      to the high-dose eptifibatide group,
-          and 4739 to the placebo group.'
-       ],
-       'bias level':'LOW'
-    }
+```json
+{"marginalia": [
+   {"title":"Random sequence generation",
+    "type":"Risk of Bias",
+    "description":"**Overall risk of bias prediction**: low",
+    "annotations":[
+       {"content":"A central pharmacy randomly assigned study medication in a 1:1 ratio using a computer-generated randomization sequence with variable-sized blocks ranging from 2 to 8 stratified by study site.",
+        "uuid":"6e97f8d0-2970-11e5-b5fe-0242ac110006",
+        "label":"biased"
+       }, ...
+```
 
 ## References
 1. Marshall, I., Kuiper, J., & Wallace, B. (2015). Automating Risk of Bias Assessment for Clinical Trials. IEEE Journal of Biomedical and Health Informatics. [[doi]](http://dx.doi.org/10.1109/JBHI.2015.2431314)
