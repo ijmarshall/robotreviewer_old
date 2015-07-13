@@ -1,0 +1,3 @@
+[submodule "static/scripts/spa"]
+	path = static/scripts/spa
+	url = https://github.com/vortext/spa.git
