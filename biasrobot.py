@@ -7,6 +7,7 @@ import uuid
 from nltk.tokenize import sent_tokenize
 from classifier import MiniClassifier
 from vectorizer import ModularVectorizer
+from itertools import izip
 
 class BiasRobot:
 
@@ -37,11 +38,13 @@ class BiasRobot:
 
         marginalia = []
         
+        doc_sents = sent_tokenize(doc_text)
+
         for domain in domains:
 
-            doc_sents = sent_tokenize(doc_text)
+            
             doc_domains = [domain] * len(doc_sents)
-            doc_X_i = zip(doc_sents, doc_domains)
+            doc_X_i = izip(doc_sents, doc_domains)
 
 
 
@@ -53,7 +56,7 @@ class BiasRobot:
             doc_sents_preds = self.sent_clf.predict(doc_sents_X).A1
 
             high_prob_sents = [sent for sent, sent_pred in 
-                                        zip(doc_sents, doc_sents_preds) if sent_pred==1]
+                                        izip(doc_sents, doc_sents_preds) if sent_pred==1]
 
             high_prob_sents_j = " ".join(high_prob_sents)
 
@@ -68,7 +71,12 @@ class BiasRobot:
             X = self.vec.builder_transform()
 
             bias_class = ["HIGH/UNCLEAR", "LOW"]
+
+
             bias_pred = bias_class[(self.doc_clf.predict(X).A1[0] + 1) / 2]
+
+            print "**PREDICTION**"
+            print self.doc_clf.predict(X).A1[0], bias_pred
 
             marginalia.append({"type": "Risk of Bias",
                                "title": domain,
