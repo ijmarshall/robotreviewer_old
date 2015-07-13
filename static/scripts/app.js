@@ -18,22 +18,7 @@ define(function (require) {
   var Marginalia = React.createFactory(require("jsx!spa/components/marginalia"));
 
   var process = function(data) {
-   // var upload = FileUtil.upload("/topologies/gen2phen", data);
     documentModel.loadFromData(data);
-    documentModel.on("pages:ready", function() {
-      var text = documentModel.getText();
-      var upload = $.ajax({
-        type: "POST",
-        url: "/annotate",
-        data: JSON.stringify({ text: text }),
-        contentType : 'application/json'
-      });
-
-      upload.done(function(result) {
-        var marginalia = JSON.parse(result);
-        marginaliaModel.reset(marginaliaModel.parse(marginalia));
-      });
-    });
   };
 
   var topBarComponent = React.render(
@@ -96,6 +81,21 @@ define(function (require) {
       documentComponent.forceUpdate();
       break;
     case "pages:ready":
+      var text = documentModel.getText();
+
+      // Retrieve the annotations
+      var upload = $.ajax({
+        type: "POST",
+        url: "/annotate",
+        data: JSON.stringify({ text: text }),
+        contentType : 'application/json'
+      });
+
+      upload.done(function(result) {
+        var marginalia = JSON.parse(result);
+        marginaliaModel.reset(marginaliaModel.parse(marginalia));
+      });
+      break;
     case "pages:change:annotations":
       documentModel.annotate(marginaliaModel.getActive());
       documentComponent.forceUpdate();
