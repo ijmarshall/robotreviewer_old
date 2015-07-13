@@ -36,7 +36,7 @@ define(function (require) {
           <div>
             <ul className="title-area">
               <li className="name">
-                <h1><a href="/"><img src="/img/logo.png" />vortext</a></h1>
+                <h1><a href="/"><img src="/img/logo.png" />RobotReviewer</a></h1>
               </li>
             </ul>
 
@@ -44,7 +44,6 @@ define(function (require) {
               <ul className="right">
                 <input accept={this.props.accept} style={{display:"none"}} name="file" type="file" ref="file" onChange={this.loadFile} />
 
-                <li><a onClick={this.loadExample}>Example</a></li>
                 <li className="active" onClick={this.triggerFileUpload}><a>Upload</a></li>
               </ul>
             </section>

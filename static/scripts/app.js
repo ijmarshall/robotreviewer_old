@@ -5,6 +5,7 @@ define(function (require) {
   var Backbone = require("backbone");
   var React = require("react");
   var _ = require("underscore");
+  var $ = require("jquery");
   var FileUtil = require("spa/helpers/fileUtil");
 
   // Models
@@ -17,11 +18,21 @@ define(function (require) {
   var Marginalia = React.createFactory(require("jsx!spa/components/marginalia"));
 
   var process = function(data) {
-    var upload = FileUtil.upload("/topologies/gen2phen", data);
+   // var upload = FileUtil.upload("/topologies/gen2phen", data);
     documentModel.loadFromData(data);
-    upload.then(function(result) {
-      var marginalia = JSON.parse(result);
-      marginaliaModel.reset(marginaliaModel.parse(marginalia));
+    documentModel.on("pages:ready", function() {
+      var text = documentModel.getText();
+      var upload = $.ajax({
+        type: "POST",
+        url: "/annotate",
+        data: JSON.stringify({ text: text }),
+        contentType : 'application/json'
+      });
+
+      upload.done(function(result) {
+        var marginalia = JSON.parse(result);
+        marginaliaModel.reset(marginaliaModel.parse(marginalia));
+      });
     });
   };
 

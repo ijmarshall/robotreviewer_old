@@ -25,7 +25,7 @@ It can be installed by running the following commands:
 
 ```
 git submodule update --init --recursive
-cd static/spa/pdfjs
+cd static/scripts/spa/pdfjs
 npm install
 node make generic
 cd -
