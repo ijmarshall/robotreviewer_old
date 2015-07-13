@@ -38,9 +38,7 @@ This retrieves the front-end code and compiles pdf.js; and runs the server.
 
 Send some JSON by POST to /annotate such as:
 ```json
-{
-    "text": "Put the full text of a clinical trial in here"
-}
+{"text": "Put the full text of a clinical trial in here"}
 ```
 
 and it will return something like:
