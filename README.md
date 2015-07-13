@@ -17,7 +17,25 @@ RobotReviewer requires the following libraries:
 
 ## Running
 
-`python robot.py` will start a flask server running on Localhost
+`python robot.py` will start a flask server running on `localhost:5000`. You can run the server in development mode by passing `DEBUG=true python robot.py` which will attempt live code reload.
+
+## Running the Web UI
+The optional web interface is provided by [Vortext](https://github.com/vortext/spa) [Spá](https://github.com/vortext/spa).
+It can be installed by running the following commands:
+
+```
+git submodule update --init --recursive
+cd static/spa/pdfjs
+npm install
+node make generic
+cd -
+python robot.py
+```
+
+This retrieves the front-end code and compiles pdf.js.
+
+
+
 
 ## Input/output
 
@@ -31,9 +49,9 @@ Send some JSON by POST to /annotate such as:
 
 and it will return something like:
 
-    {  
+    {
        'domain':'Random sequence generation',
-       'justification':[  
+       'justification':[
           u'They were randomly assigned,
           in a double-blind manner,
           to receive a bolus and infusion of either eptifibatide or placebo,
@@ -56,4 +74,3 @@ All the domains in the Cochrane Risk of Bias tool are possible, but I've just no
 ## Licensing
 
 Please note that this software is licensed under the AGPL license, please see the attached license file for full details. We are happy to consider requests to license the code under different terms, please contact mail@ijmarshall.com with any questions!
- 
