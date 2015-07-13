@@ -18,6 +18,7 @@ define(function (require) {
   var Marginalia = React.createFactory(require("jsx!spa/components/marginalia"));
 
   var process = function(data) {
+    marginaliaComponent.setState({loading: true});
     documentModel.loadFromData(data);
   };
 
@@ -82,7 +83,6 @@ define(function (require) {
       break;
     case "pages:ready":
       var text = documentModel.getText();
-
       // Retrieve the annotations
       var upload = $.ajax({
         type: "POST",
@@ -94,6 +94,7 @@ define(function (require) {
       upload.done(function(result) {
         var marginalia = JSON.parse(result);
         marginaliaModel.reset(marginaliaModel.parse(marginalia));
+        marginaliaComponent.setState({loading: false});
       });
       break;
     case "pages:change:annotations":
