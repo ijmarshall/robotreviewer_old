@@ -13,9 +13,12 @@ class BiasRobot:
 
     def __init__(self):
         
-        self.sent_clf = MiniClassifier('robots/sent_bias_model.rbt')
-        self.doc_clf = MiniClassifier('robots/doc_bias_model.rbt')
+        self.sent_clf = MiniClassifier('robots/sent_model_o.rbt')
+        # print self.sent_clf.intercept
+        self.doc_clf = MiniClassifier('robots/doc_model_o.rbt')
+        # print self.doc_clf.intercept
         self.vec = ModularVectorizer(norm=None, non_negative=True, binary=True, ngram_range=(1, 2), n_features=2**26)
+    
 
         self.bias_domains = ['Random sequence generation', 'Allocation concealment', 'Blinding of participants and personnel', 'Blinding of outcome assessment', 'Incomplete outcome data', 'Selective reporting']
 
@@ -53,7 +56,7 @@ class BiasRobot:
             self.vec.builder_add_docs(doc_sents)
             self.vec.builder_add_docs(doc_X_i)
             doc_sents_X = self.vec.builder_transform()
-            doc_sents_preds = self.sent_clf.predict(doc_sents_X).A1
+            doc_sents_preds = self.sent_clf.predict(doc_sents_X)
 
             high_prob_sents = [sent for sent, sent_pred in 
                                         izip(doc_sents, doc_sents_preds) if sent_pred==1]
@@ -70,18 +73,19 @@ class BiasRobot:
         
             X = self.vec.builder_transform()
 
-            bias_class = ["HIGH/UNCLEAR", "LOW"]
+            print X.shape
+
+            
+
+            bias_pred = self.doc_clf.predict(X)
+            bias_class = ["high/unclear", "low"][bias_pred[0]]
 
 
-            bias_pred = bias_class[(self.doc_clf.predict(X).A1[0] + 1) / 2]
-
-            print "**PREDICTION**"
-            print self.doc_clf.predict(X).A1[0], bias_pred
-
+            
             marginalia.append({"type": "Risk of Bias",
                                "title": domain,
                 "annotations": [{"content": sent, "uuid": str(uuid.uuid1())} for sent in high_prob_sents],
-                "description": "**Overall risk of bias prediction**: " + bias_pred})
+                "description": "**Overall risk of bias prediction**: " + bias_class})
 
         return {"marginalia": marginalia}
 

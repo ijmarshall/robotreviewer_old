@@ -25,14 +25,11 @@ class MiniClassifier:
 
     def decision_function(self, X):
         scores = X.dot(self.coef.T) + self.intercept
-        return scores.flatten()
+        return scores
 
     def predict(self, X):
         scores = self.decision_function(X)
-        return np.sign(scores).astype(int)
-
-        
-
+        return (scores>0).astype(np.int)
 
 def main():
     pass
