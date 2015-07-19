@@ -1,6 +1,19 @@
-#
-#   takes string as input, returns bias information as JSON
-#
+"""
+
+the BiasRobot class takes the full text of a clinical trial as
+input as a string, and returns bias information as a dict which
+can be easily converted to JSON.
+
+    text = "Streptomycin Treatment of Pulmonary Tuberculosis: A Medical Research Council Investigation..."
+
+    robot = BiasRobot()
+    annotations = robot.annotate(text)
+
+"""
+
+# Authors:  Iain Marshall <mail@ijmarshall.com>
+#           Joel Kuiper <me@joelkuiper.com>
+#           Byron Wallce <byron.wallace@utexas.edu>
 
 import json
 import uuid
@@ -8,96 +21,104 @@ from nltk.tokenize import sent_tokenize
 from classifier import MiniClassifier
 from vectorizer import ModularVectorizer
 from itertools import izip
+import numpy as np
 
 class BiasRobot:
 
     def __init__(self):
         
         self.sent_clf = MiniClassifier('robots/sent_model_o.rbt')
-        # print self.sent_clf.intercept
         self.doc_clf = MiniClassifier('robots/doc_model_o.rbt')
-        # print self.doc_clf.intercept
         self.vec = ModularVectorizer(norm=None, non_negative=True, binary=True, ngram_range=(1, 2), n_features=2**26)
     
-
         self.bias_domains = ['Random sequence generation', 'Allocation concealment', 'Blinding of participants and personnel', 'Blinding of outcome assessment', 'Incomplete outcome data', 'Selective reporting']
 
-    def annotate(self, doc_text, domains=None):
 
-        # Some processing to allow flexibility of domains parameter
+    def annotate(self, doc_text, k=3):
+        """
+        Annotate full text of clinical trial report
+        `top_k` refers to 'top-k recall'.
 
-        # check all domains by default
-        if domains is None: 
-            domains = self.bias_domains
+        top-1 recall will return the single most relevant sentence
+        in the document, and top-3 recall the 3 most relevant.
+
+        The validation study assessed the accuracy of top-3 and top-1
+        and we suggest top-3 as default
+        """
         
-        # make into a list if a single item passed
-        if isinstance(domains, list)==False:
-            domains = [domains]
-
-        # allow domain to be either a domain itself or index of one
-        # (first element checked)
-        if isinstance(domains[0], int):
-            domains = [self.bias_domains[domain] for domain in domains]
-
         marginalia = []
         
         doc_sents = sent_tokenize(doc_text)
 
-        for domain in domains:
+        for domain in self.bias_domains:
 
-            
             doc_domains = [domain] * len(doc_sents)
             doc_X_i = izip(doc_sents, doc_domains)
 
-
-
+            #
+            # build up sentence feature set
+            #
             self.vec.builder_clear()
 
-            self.vec.builder_add_docs(doc_sents)
-            self.vec.builder_add_docs(doc_X_i)
-            doc_sents_X = self.vec.builder_transform()
-            doc_sents_preds = self.sent_clf.predict(doc_sents_X)
+            # uni-bigrams
+            self.vec.builder_add_docs(doc_sents) 
 
-            high_prob_sents = [sent for sent, sent_pred in 
-                                        izip(doc_sents, doc_sents_preds) if sent_pred==1]
+            # uni-bigrams/domain interactions
+            self.vec.builder_add_docs(doc_X_i) 
+
+            doc_sents_X = self.vec.builder_transform()
+            doc_sents_preds = self.sent_clf.decision_function(doc_sents_X).A1
+
+            high_prob_sent_indices = np.argsort(doc_sents_preds)[:-top_k-1:-1] # top k, with no 1 first
+
+            high_prob_sents = [doc_sents[i] for i in high_prob_sent_indices]
 
             high_prob_sents_j = " ".join(high_prob_sents)
 
             sent_domain_interaction = "-s-" + domain
 
-            # build up test vector
+            #
+            # build up document feature set
+            #
             self.vec.builder_clear()
-            self.vec.builder_add_docs([doc_text]) # add base features
-            self.vec.builder_add_docs([(doc_text, domain)]) # add interactions
-            self.vec.builder_add_docs([(high_prob_sents_j, sent_domain_interaction)]) # sentence interactions
+
+            # uni-bigrams
+            self.vec.builder_add_docs([doc_text])
+
+            # uni-bigrams/domain interaction
+            self.vec.builder_add_docs([(doc_text, domain)]) 
+
+            # uni-bigrams/relevance interaction
+            self.vec.builder_add_docs([(high_prob_sents_j, sent_domain_interaction)])
         
             X = self.vec.builder_transform()
 
-            print X.shape
-
-            
-
             bias_pred = self.doc_clf.predict(X)
             bias_class = ["high/unclear", "low"][bias_pred[0]]
-
-
             
-            marginalia.append({"type": "Risk of Bias",
-                               "title": domain,
+            marginalia.append({
+                "type": "Risk of Bias",
+                "title": domain,
                 "annotations": [{"content": sent, "uuid": str(uuid.uuid1())} for sent in high_prob_sents],
-                "description": "**Overall risk of bias prediction**: " + bias_class})
+                "description": "**Overall risk of bias prediction**: " + bias_class
+                })
 
         return {"marginalia": marginalia}
 
 def main():
+    import unidecode, codecs, pprint
 
-    import unidecode, codecs
-
+    # Read in example input to the text string
     with codecs.open('tests/example.txt', 'r', 'ISO-8859-1') as f:
         text = f.read()
 
+    # Make a BiasRobot, and use it to do Risk of Bias predictions
     robot = BiasRobot()
-    print robot.annotate(text)
+    annotations = robot.annotate(text)
+
+    print "EXAMPLE OUTPUT:"
+    print
+    pprint.pprint(annotations)
 
 
 if __name__ == '__main__':

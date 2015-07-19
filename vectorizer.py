@@ -1,7 +1,10 @@
-#
-#   low memory modular vectorizer
-#   for multitask learning
-#
+"""
+low memory modular vectorizer for multitask learning
+"""
+
+# Authors:  Iain Marshall <mail@ijmarshall.com>
+#           Joel Kuiper <me@joelkuiper.com>
+#           Byron Wallce <byron.wallace@utexas.edu>
 
 from sklearn.feature_extraction.text import HashingVectorizer
 from sklearn.preprocessing import normalize
@@ -45,6 +48,7 @@ class InteractionHashingVectorizer(HashingVectorizer):
     tokenized words, and option to take a binary mask vector
     indicating which documents to add interactions for
     """
+
     def __init__(self, *args, **kwargs):
 
         # this subclass requires certain parameters - check these
@@ -79,10 +83,12 @@ class InteractionHashingVectorizer(HashingVectorizer):
             return tokens
 
     def _deal_with_input(self, doc):
-        # weird stuff here...
-        # but if passed a doc, returns a blank interaction string
-        # if passed an (doc, i_term) tuple
-        # returns doc, i_term, except if i_term="" then returns "", ""        
+        """
+        If passed a doc alone, returns a blank interaction
+        string. If passed an (doc, i_term) tuple returns 
+        (doc, i_term), except if i_term="" then returns
+        "", ""
+        """
         if isinstance(doc, tuple):
             if doc[1]:
                 return doc
@@ -93,9 +99,10 @@ class InteractionHashingVectorizer(HashingVectorizer):
 
     def transform(self, X_si, high=None, low=None, limit=None):
         """
-        same as HashingVectorizer transform, except allows for interaction list
-        which is an iterable the same length as X filled with True/False
-        this method adds an empty row to docs labelled as False
+        Same as HashingVectorizer transform, except allows for 
+        interaction list, which is an iterable the same length as X
+        filled with True/False. This method adds an empty row to
+        docs labelled as False.
         """
         analyzer = self.build_analyzer()
 
@@ -103,8 +110,6 @@ class InteractionHashingVectorizer(HashingVectorizer):
             analyzer(self._deal_with_input(doc)) for doc in X_si)
         
         X.data.fill(1)
-
-        # import pdb; pdb.set_trace()
 
         if self.norm is not None:
             X = normalize(X, norm=self.norm, copy=False)
