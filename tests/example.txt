@@ -1,369 +1,761 @@
-The New England Journal of Medicine
+RESEARCH
 
-INHIBITION OF PLATELET GLYCOPROTEIN IIb/IIIa WITH EPTIFIBATIDE IN PATIENTS WITH ACUTE CORONARY SYNDROMES
-THE PURSUIT TRIAL INVESTIGATORS*
+open access Physical activity for smoking cessation in pregnancy: randomised controlled trial
+
+Michael Ussher,1 Sarah Lewis,2 Paul Aveyard,3 Isaac Manyonda,4 Robert West,5 Beth Lewis,6 Bess Marcus,7 Muhammad Riaz,1 Adrian Taylor,8 Amanda Daley,9 Tim Coleman10
+
+1Population Health Research Institute, St George's University of London, London SW17 ORE, UK
+2Division of Epidemiology and Public Health and UK Centre for Tobacco and Alcohol Studies, University of Nottingham, Nottingham, UK
+3Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK
+4Department of Obstetrics and Gynaecology, St George's University of London and St George's NHS Trust, London, UK
+5Health Behaviour Research Centre, Department of Epidemiology and Public Health, University College London, London, UK
+6School of Kinesiology, University of Minnesota, Minneapolis, MN, USA
+7Department of Family and Preventive Medicine, University of California, San Diego, CA, USA
+8Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, Devon, UK
+9Primary Care Clinical Sciences, University of Birmingham, Birmingham, UK
+10Division of Primary Care and UK Centre for Tobacco and Alcohol Studies, University of Nottingham, Nottingham, UK
+Correspondence to: M Ussher mussher@sgul.ac.uk
+Additional material is published online only. To view please visit the journal online (http://dx.d oi. org/10.1136/bmj.h2145)
+Cite this as: BMJ 2015;350:h2145 doi: 10.1136/bmj.h2145
+Accepted: 23 March 2015
 
 ABSTRACT
-Background Aggregation of platelets is the pathophysiologic basis of the acute coronary syndromes. Eptifibatide, a synthetic cyclic heptapeptide, is a selective high-affinity inhibitor of the platelet glycoprotein IIb/IIIa receptor, which is involved in platelet aggregation. We tested the hypothesis that inhibition of platelet aggregation with eptifibatide would have an incremental benefit beyond that of heparin and aspirin in reducing the frequency of adverse outcomes in patients with acute coronary syndromes who did not have persistent ST-segment elevation. Methods Patients who had presented with ischemic chest pain within the previous 24 hours and who had either electrocardiographic changes indicative of ischemia (but not persistent ST-segment elevation) or high serum concentrations of creatine kinase MB isoenzymes were enrolled in the study. They were randomly assigned, in a double-blind manner, to receive a bolus and infusion of either eptifibatide or placebo, in addition to standard therapy, for up to 72 hours (or up to 96 hours, if coronary intervention was performed near the end of the 72-hour period). The primary end point was a composite of death and nonfatal myocardial infarction occurring up to 30 days after the index event. Results A total of 10,948 patients were enrolled between November 1995 and January 1997. As compared with the placebo group, the eptifibatide group had a 1.5 percent absolute reduction in the incidence of the primary end point (14.2 percent, vs. 15.7 percent in the placebo group; P=0.04). The benefit was apparent by 96 hours and persisted through 30 days. The effect was consistent in most major subgroups except for women (odds ratios for death or nonfatal myocardial infarction, 0.8 [95 percent confidence interval, 0.7 to 0.9] in men, and 1.1 [0.9 to 1.3] in women). Bleeding was more common in the eptifibatide group, although there was no increase in the incidence of hemorrhagic stroke. Conclusions Inhibition of platelet aggregation with eptifibatide reduced the incidence of the composite end point of death or nonfatal myocardial infarction in patients with acute coronary syndromes who did not have persistent ST-segment elevation. (N Engl J Med 1998;339:436-43.)
-©1998, Massachusetts Medical Society.
+Objective To determine the effectiveness of a physical activity intervention for smoking cessation during pregnancy.
+Design Parallel group, randomised controlled, multicentre trial.
+Setting 13 hospitals in England, April 2009 to January 2014.
+Participants 789 pregnant smokers, aged 16-50 years and at 10-24 weeks' gestation, who smoked at least one cigarette daily and were prepared to quit smoking one week after enrollment were randomised (1:1); 785 were included in the intention to treat analyses, with 392 assigned to the physical activity group.
+Interventions Interventions began one week before a target quit date. Participants were randomised to six weekly sessions of behavioural support for smoking cessation (control) or to this support plus 14 sessions combining supervised treadmill exercise and physical activity consultations.
+Main outcome measures The primary outcome was continuous smoking abstinence from the target quit date until end of pregnancy, validated by exhaled carbon monoxide or salivary cotinine levels. To assess adherence, levels of moderate-vigorous intensity physical activity were self reported and in a 11.5% (n=90) random subsample of participants, physical activity was objectively measured by an accelerometer.
+Results No significant difference was found in rates of smoking abstinence at end of pregnancy between the physical activity and control groups (8% v 6%; odds ratio 1.21, 95% confidence interval 0.70 to 2.10). For the physical
 
-A CUTE coronary syndromes, including acute myocardial infarction and unstable angina, result from the disruption of atherosclerotic plaque, leading to intracoronary thrombus formation with aggregated platelets within a fibrin mesh.1 Standard therapy includes aspirin and heparin. Six randomized clinical trials2-7 have shown that platelet glycoprotein IIb/IIIa receptor inhibitors,8-10 given in addition to heparin and aspirin, reduce ischemic complications of percutaneous revascularization, particularly among patients with unstable angina.4,11-13
-Eptifibatide (Integrilin, COR Therapeutics, South San Francisco, Calif.), a synthetic cyclic heptapeptide, is a selective high-affinity inhibitor of the platelet glycoprotein IIb/IIIa receptor. It produces dose-dependent ex vivo inhibition of platelet aggregation14-16 and reduces the frequency of acute ischemic complications of percutaneous coronary revascularization.3 A dose-finding study in patients with unstable angina demonstrated a reduction in ischemia detected by Holter monitoring among those given eptifibatide.17
-We undertook the Platelet Glycoprotein IIb/IIIa in Unstable Angina: Receptor Suppression Using Integrilin Therapy (PURSUIT) Trial to test the hypothesis that inhibition of platelet aggregation with eptifibatide has an incremental clinical benefit beyond that of heparin and aspirin in reducing the incidence of adverse outcomes in patients with acute coronary syndromes who do not have persistent ST-segment elevation. Unlike other studies of patients with unstable angina, in which the highly selected nature of the study populations forced clinicians to extrapolate results to the broader range of patients seen in clinical practice, our trial was designed so that the circumstances of treatment closely resembled clinical practice. The expectations that there would be prognostic uncertainty in this population and that the risk of events would be highest in the early hours of the study led us to follow a strategy of using empirical therapy as early as possible after the occurrence of chest pain, rather than waiting for a
+What is already known on this topic
+The evidence for physical activity programmes aiding smoking cessation is mixed Pregnancy provides a compelling rationale for their use as drugs are contraindicated or ineffective and exercise has been shown to reduce cigarette cravings among pregnant smokers Until now a randomised controlled trial of physical activity for smoking cessation in pregnancy has been lacking
+What this study adds
+Our study suggests that a physical activity intervention has no benefit for helping women to quit smoking during pregnancy However, physical activity remains indicated for general health benefits in pregnancy
 
-On behalf of the Steering Committee, Robert A. Harrington, M.D., assumes responsibility for the overall content of the manuscript. Address reprint requests to Dr. Harrington at the Duke Clinical Research Institute, 2024 W. Main St., Durham, NC 27705.
-*The participants in the Platelet Glycoprotein IIb/IIIa in Unstable Angina: Receptor Suppression Using Integrilin Therapy (PURSUIT) Trial are listed in the Appendix.
-436 · August 13, 19 98
-The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
-Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+activity group compared with the control group, there was a 40% (95% confidence interval 13% to 73%), 34% (6% to 69%), and 46% (12% to 91%) greater increase in self reported minutes carrying out physical activity per week from baseline to one week, four weeks, and six weeks post-quit day, respectively. According to the accelerometer data there was no significant difference in physical activity levels between the groups. Participants attended a median of four treatment sessions in the intervention group and three in the control group. Adverse events and birth outcomes were similar between the two groups, except for significantly more caesarean births in the control group than in the physical activity group (29% v 21%, P=0.023).
+Conclusion Adding a physical activity intervention to behavioural smoking cessation support for pregnant women did not increase cessation rates at end of pregnancy. During pregnancy, physical activity is not recommended for smoking cessation but remains indicated for general health benefits.
+Trial registration Current Controlled Trials ISRCTN48600346.
+Introduction Maternal smoking in pregnancy is the main preventable cause of morbidity and death among women and infants. Smoking is associated with adverse pregnancy and birth outcomes, including miscarriage, still birth, prematurity, low birth weight, congenital abnormalities, and neonatal or sudden infant death.1-3 In most high income countries at least 10% of women smoke during pregnancy,4-6 and the prevalence in low and middle income countries is rising.7 Smoking cessation during pregnancy improves birth outcomes,8 and behavioural support helps pregnant women to stop smoking.8 Use of nicotine replacement therapy during pregnancy seems to have little or no effect, and other pharmaceutical aids are contraindicated.9 The majority of pregnant women who receive behavioural support for smoking cessation do not stop8; thus new interventions that add to the effectiveness of behavioural support are needed.
+Physical activity programmes may add to the effectiveness of behavioural support. In non-pregnant smokers there is convincing evidence that physical activity reduces the intensity of urges to smoke, which are the main cause of relapse to smoking.10 Again in non- pregnant smokers, the trial evidence that physical activity aids cessation is mixed, with only one trial--of vigorous intensity physical activity--showing a long term benefit,11 although most trials were small and had other design
 
-INHIBITION OF PL ATELET GLYCOPROTEIN IIb/ IIIa WITH EP TIFIBATIDE IN ACUTE CORONARY SYNDROMES
+thebmj|BMJ 2015;350:h2415|doi: 10.1136/bmj.h2145
 
-decision about whether to perform coronary revascularization.
-METHODS
-Patients
-Patients presenting to any of 726 participating hospitals in 28 countries with symptoms of ischemic chest pain at rest, lasting 10 minutes or longer, within the previous 24 hours were eligible for randomization. They had to have transient ST-segment elevation of more than 0.5 mm, transient or persistent ST-segment depression of more than 0.5 mm, T-wave inversion of more than 1 mm within 12 hours before or after chest pain, or a serum concentration of creatine kinase MB isoenzyme (CK-MB) that was above the upper limit of normal for the hospitals where they were evaluated.18 Criteria for exclusion included persistent ST-segment elevation of more than 1 mm, active bleeding or a history of bleeding diathesis, gastrointestinal or genitourinary bleeding within 30 days before enrollment, systolic blood pressure above 200 mm Hg or diastolic blood pressure above 110 mm Hg, a history of major surgery within the previous 6 weeks, a history of nonhemorrhagic stroke within the previous 30 days or any history of hemorrhagic stroke, renal failure, pregnancy, the planned administration of a platelet glycoprotein IIb/IIIa receptor inhibitor or thrombolytic agent, or the receipt of thrombolytic therapy within the previous 24 hours.
-Randomization and Treatment
-Randomization was performed, in a double-blind manner, by coordinating centers in the United States or the Netherlands. Patients were assigned to receive eptifibatide (a bolus dose of 180 µg per kilogram of body weight, followed by an infusion of 1.3 µg per kilogram per minute, or a bolus dose of 180 µg per kilogram followed by an infusion of 2.0 µg per kilogram per minute) or a bolus and infusion of placebo. Both eptifibatide regimens were expected, once a steady state was achieved, to provide plasma concentrations 1.5 to 2.0 times the plasma concentration needed to reach the 80 percent inhibitory concentration of eptifibatide (the concentration that inhibits 80 percent of platelets) as measured ex vivo.16
-The study drug was to be infused until discharge from the hospital or for 72 hours, whichever came first. If a coronary intervention was performed near the end of the 72-hour infusion period, the infusion could be continued for an additional 24 hours (total, 96 hours). Cardiac catheterization and percutaneous or surgical revascularization were performed at the discretion of the treating physicians.
-Because this was the first large-scale study of higher doses of eptifibatide than those previously used, it was specified in the protocol that the study would be stopped in the lower-dose group after the independent data safety and monitoring committee had conducted an interim review of safety data, provided the higher dose had an acceptable safety profile. After 3218 patients had been randomly assigned to treatment groups, the committee recommended dropping the lower dose.
-Concomitant Medications
-All patients received aspirin (80 to 325 mg per day) at the discretion of the treating physicians. Patients who were allergic to or intolerant of aspirin could receive ticlopidine. Intravenous or subcutaneous heparin was recommended. Intravenous heparin was to be given as a bolus dose of 5000 U, followed by an infusion at a rate of 1000 U per hour, with the activated partial-thromboplastin time maintained in the range of 50 to 70 seconds. For patients weighing less than 70 kg, lower doses were recommended.19 During the infusion of eptifibatide, thrombolytic therapy and other inhibitors of the platelet glycoprotein IIb/IIIa receptor could not be administered. Decisions regarding treatment with other antiischemic medications were made by the treating physicians.
+1
 
-Efficacy-Related End Points
-The primary end point with respect to efficacy was a composite of death from any cause or nonfatal myocardial infarction at 30 days. Suspected infarctions were evaluated by a masked clinicalevents committee. Myocardial infarction within 18 hours after enrollment was diagnosed on the basis of ischemic chest pain and new ST-segment elevation in at least two contiguous leads and lasting for 30 minutes. After 18 hours, myocardial infarction was considered to have occurred if there was a new or repeated elevation of the CK-MB fraction above the upper limit of normal (or if the serum total creatine kinase concentration was more than two times the upper limit of normal, in the case of unavailable CK-MB values) or if there were new Q waves in two electrocardiographic leads. For patients undergoing percutaneous revascularization, a myocardial infarction after the procedure was identified on the basis of an elevation of the CK-MB fraction to three or more times the upper limit of normal or by the appearance of new Q waves. The diagnosis of myocardial infarction after coronary bypass required an elevation of the CK-MB fraction to five or more times the upper limit of normal or new Q waves.20 Investigators at the individual sites were also asked to determine whether an infarction had occurred.
-Secondary end points included mortality from all causes within 30 days after the index event, a first or recurrent myocardial infarction within 30 days, the composite end point (death or nonfatal myocardial infarction) at 96 hours and 7 days, and measures of the safety and efficacy of treatment in patients undergoing percutaneous revascularization.
-Safety-Related End Points
-Two scales of severity were used to classify bleeding complications. The scale from the Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries (GUSTO) trial,21 on which complications are scored as mild, moderate, severe, or life-threatening, was used for classification by the study-site investigators. Severe or life-threatening bleeding was defined as intracranial hemorrhage or bleeding that caused hemodynamic compromise and required intervention. Moderate bleeding was defined as bleeding that required blood transfusion in the absence of hemodynamic compromise. The scale from the Thrombolysis in Myocardial Infarction (TIMI) trial,22 on which complications are categorized as major or minor, was used to classify bleeding complications on the basis of laboratory measurements. Major bleeding was defined as intracranial hemorrhage or bleeding associated with a drop of 15 percentage points or more in the hematocrit or of 5 g per deciliter or more in the hemoglobin concentration. Minor bleeding was defined as observed blood loss and a drop of more than 10 percentage points in the hematocrit or of 3 g per deciliter or more in the hemoglobin concentration; if no bleeding site was identifiable, a drop of 12 percentage points or more in the hematocrit or of 4 g per deciliter or more in the hemoglobin concentration was considered to indicate minor bleeding.
-Neurologic evaluation and brain imaging with computed tomography or magnetic resonance imaging were recommended in cases of suspected stroke. Copies of reports on neurologic consultations and radiology and autopsy reports were obtained in all cases of suspected stroke for review and classification by the clinical-events committee, which included three neurologists. Strokes were classified as hemorrhagic, ischemic, or ischemic with hemorrhagic conversion.
-Platelet counts were performed at base line and then daily during the study-drug infusion. Additional counts were obtained according to the local standard of care. A platelet count of less than 100,000 per cubic millimeter or a nadir below 50 percent of the base-line value was considered evidence of thrombocytopenia. Serious thrombocytopenia was defined by a nadir platelet count below 50,000 per cubic millimeter and profound thrombocytopenia by a count below 20,000 per cubic millimeter.23
+RESEARCH
+2
 
-Volume 33 9 Numb er 7 · 437
-The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
-Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+features that made the evidence difficult to interpret.12 Adequately powered trials are needed with moderate intensity exercise (for example, brisk walking), which is likely to be more acceptable than vigorous exercise for most people.13 Moderate intensity physical activity is recommended for pregnancy, and pregnant smokers are likely to be receptive to such an intervention.14 We conducted a parallel group, randomised controlled trial to assess the effectiveness of a physical activity intervention for smoking cessation during pregnancy.
+Methods Study population Between April 2009 and November 2012, we recruited pregnant women by telephone after their first antenatal booking visit (conducted at either hospital or a community clinic), from 13 hospital antenatal clinics in London, Surrey, Kent, and Cheshire. In the United Kingdom all pregnant women are booked for delivery in the secondary care setting, although a small fraction of women deliver at home or in primary care (midwife led) units. Pregnant smokers are, by definition, high risk and would be expected to be cared for in hospital. Inclusion criteria were wanting to stop smoking, wanting help with stopping smoking, agreeing to set a date for quitting smoking within one week of the baseline visit, age 16-50 years, being at 10-24 weeks of gestation, cigarette consumption of five or more daily before pregnancy, currently smoking one or more cigarettes daily, and being able to walk continuously for 15 minutes. Exclusion criteria were medical conditions potentially exacerbated by exercise or advised against exercise by a doctor, inability to provide informed consent or complete questionnaires in English, drug or alcohol dependence, and currently using or wanting to use nicotine replacement therapy. We recruited women irrespective of their current level of physical activity or motivation towards increasing their activity.
+Study protocol and interventions Wandsworth research ethics committee approved the published protocol15 (available at www.trialsjournal. com/content/13/1/186). All participants provided written informed consent. We offered all participants six weekly sessions of 20 minutes of individual behavioural cessation support, starting one week before the quit date and ending four weeks afterwards. This intervention aimed to support smoking cessation by reinforcing commitment to abstinence and solving women's problems about maintaining abstinence. It incorporated all 43 behaviour change techniques defined in a published taxonomy16 and as described in the protocol,15 except for the provision of rewards contingent on successfully stopping smoking. The emphasis was on the importance of avoiding lapses, managing withdrawal symptoms and urges to smoke, enhancing self confidence, and prevention of relapse.
+At enrollment we randomised participants to behavioural cessation support alone or to behavioural cessation support plus a physical activity intervention,
 
-The New England Journal of Medicine
+combining supervised exercise with physical activity consultations. Fourteen sessions of supervised exercise were offered over eight weeks; twice a week for six weeks then weekly for two weeks. At each session the participants walked at a moderate intensity on a treadmill for up to 30 minutes. Immediately before each treadmill session, the women received behavioural support. At the first two treadmill sessions, and then on every other occasion (total of nine consultations), this support aimed to identify opportunities to incorporate physical activity into women's lives, to motivate them to use physical activity to reduce the urge to smoke, and to help them use behavioural strategies to improve adherence to these plans. These 20 minute consultations incorporated 19 behaviour change techniques, as described in the study protocol.15 The women were advised to be active for at least 10 minutes at a time, progressing towards 30 minutes of activity on at least five days a week. The emphasis was on brisk walking, and pedometers (Digi-Walker SW-200; Yamax, Nottingham, UK) were supplied, with researchers setting individualised step count targets. We also provided a DVD on antenatal exercise. On the other occasion the women received behavioural support for smoking sessions (up to six sessions) as for the control group. For each session attended, participants were paid £7 towards travel.
+Randomisation An independent statistician generated a randomisation list using Stata, with random permuted blocks of random size stratified by recruitment centre, in a 1:1 ratio. At enrollment the sequence was concealed from researchers who confirmed consent and eligibility on an online database before allocation was revealed. It was not feasible to mask participants or researchers to group allocation.
+Data collection We collected personal and smoking characteristics of the women at baseline, including score on the Fagerström test for cigarette dependence,17 self reports of moderate-vigorous intensity physical activity in the previous week (bouts of 10 minutes) using the seven day physical activity recall interview,18 Edinburgh postnatal depression scale score,19 confidence about taking up physical activity20 and stopping smoking,21 alcohol consumption,22 weekly cigarette withdrawal symptoms,23 and weekly smoking urges (combining ratings of strength and frequency).24 At the first antenatal booking visit the midwife measured the women's clothed weight (without shoes) on a digital scale. During all contacts, the women were asked about adverse events. Research midwives examined the women's medical records monthly for adverse events. The records were also checked by the research midwives for maternal and infant outcome data after delivery.
+Outcomes The primary outcome was self reported continuous abstinence from smoking between quit date and end of pregnancy. We permitted temporary, brief smoking
 
-Statistical Analysis
-The necessary sample size was estimated for the comparison between the 30-day incidence of the composite end point of death or nonfatal myocardial infarction in the eptifibatide group and that in the placebo group. The sample size was adjusted for four analyses, including the final analysis, with monitoring boundaries in the spirit of the O'Brien­Fleming rule but with early rejection of either the null or the alternative hypothesis.24 A sample consisting of 9382 patients in the two groups would provide the study with 80 percent power to detect a reduction of 20 percent (or an absolute difference of 1.7 percent) in the 30-day incidence of the composite end point, assuming an event rate of 8.5 percent in the placebo group.
-Values for continuous variables are presented as medians with interquartile ranges (25th and 75th percentiles), and those for dichotomous variables as frequencies. The primary analysis of efficacy included all patients randomly assigned to groups and was conducted on an intention-to-treat basis with use of Pearson's chi-square test. On the basis of the sequential monitoring procedure described above, the significance level for the primary end point was 0.05. To characterize the time course of events in the two groups, the cumulative event rate over time was estimated with the product-limit (Kaplan­Meier) method, with the time to the first event of the composite end point used as the outcome variable. Primary comparisons of safety-related outcomes were made among patients as treated in order to provide the most conservative estimate of the safety of eptifibatide.
-RESULTS
-Patients
-A total of 10,948 patients were randomly assigned to the study groups between November 1995 and January 1997: 1487 patients to the low-dose eptifibatide group, 4722 to the high-dose eptifibatide group, and 4739 to the placebo group. Data are presented in detail for the primary comparison groups, those assigned to receive high-dose eptifibatide (a bolus dose of 180 µg per kilogram, followed by an infusion of 2.0 µg per kilogram per minute) or placebo. In comparisons with the placebo group, the high-dose eptifibatide group is referred to simply as the eptifibatide group.
-The base-line characteristics of the patients are shown in Table 1. The index episode was classified as a myocardial infarction in 45.1 percent of the patients in the eptifibatide group and in 46.2 percent of those in the placebo group. Approximately 65 percent of the patients had angina at rest in the six weeks before enrollment; approximately 21 percent had undergone either percutaneous revascularization or bypass grafting.
-Patients were enrolled a median of 11 hours after the onset of symptoms. The study drug was infused for a median of 72 hours in both groups but was discontinued before 72 hours in a greater percentage of patients in the eptifibatide group than in the placebo group (38.1 percent vs. 33.7 percent, P<0.001). The main reason for the discontinuation of the study drug before 72 hours in both groups was early discharge from the hospital (18.6 percent of patients were discharged before 72 hours); additional reasons were bleeding in the eptifibatide group (in 8.0 percent
+doi: 10.1136/bmj.h2145|BMJ 2015;350:h2145|thebmj
 
-TABLE 1. BASE-LINE CHARACTERISTICS ACCORDING TO STUDY GROUP.*
+RESEARCH
 
-CHARACTERISTIC
+lapses of up to five cigarettes in total (on up to five occasions).25 Abstinence was validated by the concentration of either exhaled carbon monoxide (<8 ppm) or salivary cotinine (<10 ng/mL); if both measures were available both were required for validation. We assessed the levels of carbon monoxide weekly up to four weeks after the quit day and at the end of pregnancy. Cotinine was measured at four weeks post-quit date and end of pregnancy.
+Secondary outcomes included validated abstinence at four weeks after the quit date and self reported abstinence by telephone at the final follow-up at six months after birth (completed in January 2014). At one week after the quit date we further assessed weekly urges to smoke, weekly withdrawal symptoms, and confidence about taking up physical activity and stopping smoking. We also further assessed the Edinburgh postnatal depression scale scores at the end of pregnancy and six months after birth. A researcher weighed the women at the end of pregnancy using the same method as used by the midwife at the first antenatal booking visit.
+To assess adherence we assessed self reported physical activity at weeks 1, 4, and 6 after the quit date and at the end of pregnancy. In an 11.5% random subsample of participants (the target was 10%) physical activity was objectively measured using an accelerometer (Model GT1M or GT3X; Actigraph, Pensacola, FL). Only 90 women were asked to wear an accelerometer as our pilot work showed that most women would not tolerate devices worn around the waist, and at the start of the study validated wrist worn accelerometers were not commercially available; therefore, as the only practicable alternative, we used self reported physical activity for the primary analysis of physical activity. The accelerometer was worn over the right hip, in the fourth week after the quit date and for up to seven consecutive days, recording "dry land" activity during waking hours at one minute epochs. Use of National Health Service behavioural support for smoking cessation, beyond that offered in the study, and nicotine replacement therapy were self reported. Participants received a £10 shopping voucher for completing end of pregnancy and six month postnatal follow-ups (that is, £20 maximum).
+Statistical analysis We anticipated a cessation rate of 15% in the control group, on the basis that 9% of pregnant women who are smokers stop smoking with usual care after their first antenatal visit, and that with behavioural support another 6-7% quit.26 Based on pilot work,14 we projected a cessation rate of 23% in the treatment group. We calculated that 866 participants would provide 83% power at a 5% significance level to detect an absolute difference of 8 percentage points in the occurrence of the primary outcome between the two groups (that is, 15% in the control group versus 23% in the physical activity group), corresponding to an odds ratio of 1.69 or a relative risk of 1.53. The prime aim of assisting smoking cessation in pregnancy is to improve the outcome of the pregnancy. The latest version of the Cochrane review of psychosocial interventions for supporting
 
-EPTIFIBATIDE GROUP
-(N=4722)
+women to stop smoking in pregnancy shows evidence that such interventions were effective in helping women stop smoking and improving perinatal outcomes.27 For example, the main subgroup in the review comprising counselling versus usual care showed a relative risk of 1.44 for achieving abstinence in late pregnancy, the same outcome we used. No individual trial of smoking cessation in pregnancy detected differences in perinatal outcomes by intervention status, but evidence of this has been shown by the meta-analysis of all trials in the review. When pooled together, these interventions produced the following relative risks for intervention versus control: low birth weight 0.82 (95% confidence interval 0.71 to 0.94), preterm birth 0.82 (0.70 to 0.96), and increased mean birth weight 41 g (18 to 63 g). Thus, relative increases in the rate of cessation of a similar size to the one we were aiming to detect have led to meaningful improvements in perinatal outcomes and would be expected to do so in this trial.
+Analysis was on an intention to treat basis; we assumed participants with missing outcome data to be smoking.25 Using logistic regression we compared the proportion of women reporting continuous smoking abstinence at the end of pregnancy between study groups, with adjustment for recruitment centre. We assessed statistical significance with the likelihood ratio test, with the estimate of effect given as the odds ratio and 95% confidence interval. A secondary analysis adjusted for recruitment centre and the potentially important prognostic baseline factors of cigarette dependence, age, depression, maternal educational level, and partner's smoking status. In addition, we tested for an interaction between baseline physical activity (<150 mins/week moderate-vigorous physical activity versus 150 mins/week moderate-vigorous physical activity) and the rates of smoking abstinence at the end of pregnancy. We also assessed whether changes in physical activity levels affected smoking cessation rates: exclusively in the physical activity group we assessed, among those reporting <150 mins/week moderate-vigorous physical activity at baseline, whether reporting 150 mins/week moderate-vigorous physical activity at four weeks or six weeks after the quit day was associated with smoking abstinence at those times.
+For the primary outcome, to assess the influence of the assumption that missing data equals "smoking" on the effect size, we tested various scenarios of the association between smoking and having missing data using the Hedeker method.28 For ratings of withdrawal symptoms, urge to smoke, confidence for quitting smoking, and confidence for taking physical activity we calculated a change score between baseline and one week post-quit, and we used t tests to compare scores for the two groups. We compared the use of nicotine replacement therapy and behavioural support between the two groups using 2 tests.
+We log transformed (log base 10) self reported weekly minutes of moderate-vigorous physical activity (in bouts of 10 minutes) to normality, and we analysed the difference in self reported physical activity
 
-PLACEBO GROUP (N=4739)
+thebmj|BMJ 2015;350:h2145|doi: 10.1136/bmj.h2145
 
-Age (yr) Median Interquartile range
+3
 
-64 55­71
+RESEARCH
 
-Female sex (%)
+between the groups over time using a mixed effects linear regression model to account for within person correlations over time. In this model, we estimated the difference between treatment groups at each time point with adjustment for visit time, baseline minutes of moderate-vigorous physical activity, the interaction of visit time and baseline minutes of moderate-vigorous physical activity, and recruitment centre. We analysed the accelerometer data using KineSoft software (version 3.3.76; Loughborough, UK). Files with at least 10 hours of valid wear time on one or more days were retained in the analyses. We used standard cut-off points to determine moderate-vigorous physical activity.29 The two study groups were compared (Mann-Whitney tests) for accelerometer reports of moderate-vigorous physical activity, both when restricting the analysis to bouts of at least 10 minutes (to allow comparison with the self report data) and when including all moderate-vigorous physical activity, irrespective of duration. For the week when the accelerometer was worn we used Wilcoxon tests to compare self reports of moderate-vigorous physical activity with accelerometer data.
+We compared the changes in depression scores for the two groups using a mixed effect linear regression, adjusted for visit time, baseline Edinburgh postnatal depression scale score, the interaction of visit time and baseline Edinburgh postnatal depression scale score, and recruitment centre. This model allows for correlation between the repeated measurements at the end of pregnancy and six months. Maternal weight at end of pregnancy was compared for the two groups using linear regression, with adjustment for early pregnancy weight and recruitment centre. As some of the "end of pregnancy" weights were recorded before the birth and some after, we conducted separate regressions for
 
-34.9
+Women recorded as smokers at rst antenatal visit (n= )
+Excluded (n= ): Unable to contact (n= ) Declined to participate (n= ) Did not meet inclusion criteria (n= Other reasons (n= )
+Randomisation (n= )
 
-White race (%)
+)
 
-88.8
+Assigned to behavioural support plus physical activity intervention (n= ) Received behavioural support plus physical activity intervention (n= )
 
-Weight (kg) Median Interquartile range
+Assigned to behavioural support only (n= ) Received behavioural support only (n= )
 
-78.0 68.5­88.0
+Lost to follow-up (n= ): Fetal or infant deaths (n= ) Withdrew consent before providing baseline data (n= ) Unable to contact or refused to attend (n= )
 
-Height (cm) Median Interquartile range
+Lost to follow-up (n= ): Fetal or infant deaths (n= ) Unable to contact or refused to attend (n= )
 
-170.0 162.6­175.3
+Included in primary analysis (n= ) Excluded from analysis owing to being enrolled twice (n= )
 
-Systolic blood pressure (mm Hg)
-Median Interquartile range
+Included in primary analysis (n= ) Excluded from analysis as did not meet inclusion criteria at baseline visit (n= )
 
-130 116­145
+Fig 1 | Flow of participants through trial. Participants lost to follow-up included women who experienced fetal or infant loss and were not assessed for smoking status
 
-Heart rate (beats/min) Median Interquartile range
+before (gestational weight change) and after (postnatal weight retention) birth.
+Using logistic regression or linear regression adjusted for recruitment centre we compared fetal and maternal birth outcomes between the two groups. For fetal outcomes, the primary analysis was of singleton births. We also conducted a sensitivity analysis, including multiple births, with clustering of outcomes accounted for by using an approach that regards each woman as the "cluster" and her number of offspring as the cluster size.30 A 2 test was used to compare adverse events for the groups.
+Results Figure 1 shows the numbers of participants who were enrolled and excluded. Four women were excluded post-randomisation; two women (physical activity group) were enrolled twice in sequential pregnancies (their second enrolment was removed) and two women (control group) were ineligible at their baseline visit and had been randomised erroneously. When ineligible patients are mistakenly randomised into a trial it is acceptable to exclude participants' data within an intention to treat approach without risking bias.31 Of 785 pregnancies, 774 were singleton, 10 were twins, and one was unknown as the participant withdrew consent. The baseline characteristics of participants in the two groups were similar (table 1). Over half (54%) were smoking at least 10 cigarettes a day. By self report, 70% were achieving the recommendation of 150 minutes a week of moderate-vigorous physical activity (in bouts of 10 minutes).13
+The follow-up rate for the primary outcome was 88.8% (697 participants), and this was similar for the two study groups. Of the 88 participants (11.2%) who did not complete the assessments necessary for the analysis of the primary outcome, 43 (48.9%) were known to have smoked from the follow-up assessments that they did complete. Evidence was lacking of a significant difference in this rate between study groups. Only for the remaining 45 participants (5.7% of all participants) was it necessary to assume continued smoking or relapse.
+Participants attended a median of four treatment sessions in the intervention group and three in the control group (table 2). Physical activity increased after baseline, but the increase was significantly greater in the physical activity group, by 33% (95% confidence interval 14% to 56%), 28% (7% to 52%), and 36% (12% to 65%) at one week, four weeks, and six weeks post-quit day, respectively (fig 2, table 2). Only 28 women reported receiving NHS face to face support for smoking cessation, besides that offered in the trial, and 60 women reported using nicotine replacement therapy; the numbers reporting this support were similar between the two groups.
+Of 90 participants (11.5% of total sample) asked to wear an accelerometer during the fourth week after the quit date, 78 (87%) provided valid data (37 in physical activity group), 10 provided insufficient data, and two wore devices with technical problems. Participants providing accelerometer data had similar baseline characteristics
 
-72 62­80
+4 doi: 10.1136/bmj.h2145|BMJ 2015;350:h2145|thebmj
 
-Hypertension (%)
+RESEARCH
 
-55.3
+Table 1 | Baseline characteristics, according to study group. Values are numbers (percentages) unless stated otherwise
 
-Diabetes mellitus (%)
+Characteristics
 
-22.2
+Physical activity group (n=391)
 
-Current smoking (%)
+Control group (n=393)
 
-29.2
+Mean (SD) age (years)
 
-Hypercholesterolemia (%)
+27.2 (6.1)
 
-41.4
+27.8 (6.5)
 
-Family history of CAD (%)
+Mean (SD) age at leaving full time education (years)*
 
-35.2
+17.8 (3.0)
 
-Prior myocardial infarction (%) 32.0
+18.0 (3.3)
 
-History of CHF (%)
+Mean (SD) weight (kg)
 
-11.1
+69.2 (14.1)
 
-Prior PTCA (%)
+70.9 (15.9)
 
-12.8
+Mean (SD) body mass index (kg/m2)
 
-Prior CABG (%)
+25.6 (5.0)
 
-12.0
+26.6 (5.6)
 
-Angina at rest (in previous 6 wk) (%)
+Mean (SD) gestational age (weeks)
 
-65.4
+15.6 (3.3)
 
-Findings on qualifying ECG (%)
-ST-segment depression ST-segment elevation T-wave inversion None of these findings
+15.6 (3.3)
 
-49.8 13.7 51.6
-7.6
+Mean (SD) Edinburgh postnatal depression scale score
 
-64 55­71
-36.1 88.9
-78.1 69.0­88.0
-170.0 162.6­176.0
-130 116­145
-71 63­80
-55.5 23.5 27.7 42.3 35.8 32.9 11.0 12.9 12.0 64.1
-50.2 13.8 50.0
-8.1
+7.6 (5.3)
 
-*All patients randomly assigned to receive the higher dose of eptifibatide or placebo are included. CAD denotes coronary artery disease, CHF congestive heart failure, PTCA percutaneous transluminal coronary angioplasty, CABG coronary-artery bypass graft surgery, and ECG electrocardiogram.
-Patients could have more than one finding.
+7.7 (5.0)
 
-of the patients, as compared with 1.0 percent in the placebo group; P<0.001) and the need for coronary bypass surgery in the placebo group (12.7 percent, as compared with 10.8 percent in the eptifibatide group). Aspirin was given to 93.0 percent of patients, and heparin was given to 89.8 percent for a median of 76 hours during hospitalization. The median activated partial-thromboplastin times among patients receiving heparin were similar (55 seconds for the eptifibatide group [interquartile range, 44 to 68] and 54 seconds for the placebo group [interquartile range, 44 to 67]).
-Cardiac catheterization was performed after ran-
+Median (interquartile range) No of cigarettes smoked daily before pregnancy
 
-438 · August 13, 19 98
-The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
-Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+20 (12-20)
 
-INHIBITION OF PL ATELET GLYCOPROTEIN IIb/ IIIa WITH EP TIFIBATIDE IN ACUTE CORONARY SYNDROMES
+20 (12-20)
 
-TABLE 2. INCIDENCE OF THE COMPONENTS OF THE COMPOSITE END POINT, ACCORDING TO STUDY GROUP.*
+Median (interquartile range) No of cigarettes smoked daily at randomisation
 
-TIME AND EVENT
+10 (5-12)
 
-EPTIFIBATIDE PLACEBO
+10 (5-15)
 
-GROUP
+Median (interquartile range) Fagerström test of cigarette dependence score
 
-GROUP
+4 (2-5)
 
-(N=4722) (N=4739)
+4 (2-5)
 
-P VALUE
+Median (interquartile range) expired carbon monoxide level (ppm)§
 
-96 Hours Death Myocardial infarction Death or nonfatal myocardial infarction
-7 Days Death Myocardial infarction Death or nonfatal myocardial infarction
-30 Days Death Myocardial infarction Death or nonfatal myocardial infarction
+10 (7-14)
 
-percent
+10 (6-14)
 
-0.9 7.1 7.6
-1.5 9.3 10.1
-3.5 12.6 14.2
+Median (interquartile range) self report of weekly moderate-vigorous physical activity (mins)
 
-1.2 8.3 9.1
-2.0 10.4 11.6
-3.7 13.5 15.7
+210 (125-350)
 
-0.11 0.03 0.01
-0.05 0.08 0.02
-0.53 0.14 0.04
+225 (130-360)
 
-*All patients randomly assigned to receive the higher dose of eptifibatide or placebo are included.
+Married or living with partner
 
-Cumulative Incidence (%)
+230 (59)
 
-20
-15.7% 15 Placebo
-14.2% Eptifibatide 10
-5 P=0.03 by the log-rank test
-0 0 10 20 30 Days after Randomization
-Figure 1. Kaplan­Meier Curves Showing the Incidence of Death or Nonfatal Myocardial Infarction at 30 Days. This analysis is based on end points as assessed by the central clinical-events committee. The percentages shown are for the incidence at 30 days.
+221 (56)
 
-domization in 59.0 percent of patients assigned to receive eptifibatide and 59.9 percent of those assigned to receive placebo. Percutaneous revascularization and bypass grafting were performed slightly less frequently in patients receiving eptifibatide than in the placebo group (23.3 percent vs. 24.8 percent and 13.9 percent vs. 14.3 percent, respectively). Approximately 50 percent of patients undergoing percutaneous revascularization had a stent implanted. There were wide regional variations in the frequency of cardiac procedures with catheterization, as follows: 79 percent in North America, 58 percent in Western Europe, 46 percent in Latin America, and 20 percent in Eastern Europe.
-Efficacy-Related End Points
-The frequency of the composite end point at 96 hours, 7 days, and 30 days is shown in Table 2 and Figure 1. Treatment with eptifibatide was associated with a significant reduction in the incidence of death or myocardial infarction at each time point. The 1.5 percent absolute reduction in the frequency of the composite end point was reached by 4 days and maintained for 30 days without attenuation or amplification. On the basis of the frequency of nonfatal infarction (one component of the composite efficacy end point) as determined by the investigators at the study sites, eptifibatide had a consistent and highly significant benefit at all time points; at 30 days, the incidence of the composite end point was 8.1 percent in the eptifibatide group, as compared with 10.0 percent in the placebo group (P=0.001).
-For patients undergoing percutaneous revascularization within 72 hours after randomization, there was a 31 percent reduction in the incidence of the composite end point of death or nonfatal myocardial
+Partner smokes¶
 
-infarction at 30 days among those treated with eptifibatide, as compared with placebo (11.6 percent vs. 16.7 percent, P=0.01); there was a 7 percent reduction among patients who did not undergo early revascularization (14.5 percent vs. 15.6 percent, P=0.23). Eptifibatide reduced the frequency of the composite end point before and after the procedure among those patients who underwent early revascularization (Table 3).
-The incidence of the composite end point at 30 days among patients in the original three study groups who were enrolled and treated before the low-dose eptifibatide group was discontinued was 13.4 percent for the low-dose eptifibatide group, 13.1 percent for the high-dose eptifibatide group, and 13.5 percent for the placebo group. Since only 3218 patients had been enrolled when the low-dose treatment group was discontinued, the study had inadequate statistical power for inferences to be made regarding the efficacy of eptifibatide at this dosage.
-Figure 2 shows the odds ratios for death or nonfatal myocardial infarction in various subgroups, including those defined by geographic region. The point estimate of the treatment effect consistently favored eptifibatide in all major subgroups except women (odds ratio for women, 1.10; 95 percent confidence interval, 0.91 to 1.34). The observed treatment effect varied among geographic regions, with the greatest benefit observed among North American patients. Among both men and women in North America, there was a benefit associated with treatment with eptifibatide (incidence of the composite end point: among men, 16.2 percent in the placebo group vs. 12.4 percent in the eptifibatide group; P=0.006; among women, 12.9 percent vs. 10.6 percent, respectively; P=0.19).
+261 (67)
 
-Volume 33 9 Numb er 7 · 439
-The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
-Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+250 (64)
 
-The New England Journal of Medicine
+White**
 
-TABLE 3. INCIDENCE OF THE COMPOSITE END POINT OF DEATH OR NONFATAL MYOCARDIAL INFARCTION
-BEFORE AND AFTER PERCUTANEOUS REVASCULARIZATION AMONG PATIENTS WHO UNDERWENT INTERVENTION WITHIN 72 HOURS
-AFTER RANDOMIZATION.
+308 (79)
 
-TIME*
-Before PTCA 96 hours 7 days 30 days
+298 (76)
 
-EPTIFIBATIDE PLACEBO
+Professional or managerial occupation
 
-GROUP
+46 (12)
 
-GROUP
+53 (13)
 
-(N=606) (N=622)
+Smoked in a previous pregnancy
 
-ABSOLUTE REDUCTION
+186 (78)
 
-P VALUE
+193 (78)
 
-percent
+Edinburgh postnatal depression scale score 13
 
-1.7 8.1 8.9 10.2
+68 (17)
 
-5.5 10.9 11.7 12.4
+75(19)
 
-3.8 <0.001 2.8 0.09 2.8 0.10 2.2 0.24
+Self report of 150 mins/week of moderate-vigorous physical activity
 
-*At 96 hours, 7 days, and 30 days the composite end point includes death or nonfatal myocardial infarction occurring after the percutaneous procedure. PTCA denotes percutaneous transluminal coronary angioplasty.
+275 (70)
 
-Safety-Related End Points
-Bleeding was more common among patients treated with eptifibatide than among those receiving placebo (Table 4), and there were more red-cell transfusions among the patients treated with eptifibatide (11.6 percent vs. 9.2 percent; relative risk, 1.3; 95 percent confidence interval, 1.1 to 1.4). In most cases, bleeding was mild and occurred at the femoral-access site. Patients undergoing bypass surgery had increased
+273 (69)
 
-bleeding and accounted for approximately 80 percent of the patients with major bleeding complications. Eptifibatide did not further increase this risk of bleeding.
-Strokes occurred with similar frequency in the two groups (0.7 percent in the eptifibatide group and 0.8 percent in the placebo group, P=0.41). Most strokes were cerebral infarctions; intracranial hemorrhage occurred in only nine patients (five in the eptifibatide group and four in the placebo group). There were three primary hemorrhagic strokes in the eptifibatide group and two in the placebo group. The incidence of thrombocytopenia as defined in the protocol was similar in the two groups (6.8 percent in the eptifibatide group and 6.7 percent in the placebo group). More eptifibatide-treated patients had profound thrombocytopenia than was the case in the placebo group (0.2 percent vs.<0.1 percent; relative risk, 5.0; 95 percent confidence interval, 1.3 to 32.4), although the absolute number of patients was very small (nine patients in the eptifibatide group and two in the placebo group).
-DISCUSSION
-In this multicenter trial, we found that eptifibatide reduced the incidence of death or nonfatal myocardial infarction at 30 days. The absolute 1.5 percent reduction was achieved early during the drug infusion and persisted through 30 days. Our analysis of patients undergoing coronary revascularization was limited by the fact that such intervention was performed at
+Self report of walking as main type of physical activity
 
-All patients Male sex
-Female sex Age <65 yr Age »65 yr
-No DM DM
-MI at enrollment No MI at enrollment
-No prior CABG Prior CABG
-North America Western Europe
-Latin America Eastern Europe
-0.5 1.0 Eptifibatide Better
+301 (77)
 
-Placebo Better
+313 (80)
 
-1.5
+Parity§§:
 
-Figure 2. Odds Ratios for Death or Nonfatal Myocardial Infarction in Selected Subgroups of Patients.
-The horizontal lines indicate 95 percent confidence intervals. DM denotes diabetes mellitus, MI myocardial infarction, and CABG coronary-artery bypass graft surgery.
+0-1
 
-440 · August 13, 19 98
-The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
-Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+317 (81)
 
-INHIBITION OF PL ATELET GLYCOPROTEIN IIb/ IIIa WITH EP TIFIBATIDE IN ACUTE CORONARY SYNDROMES
+309 (79)
 
-the discretion of the treating physician and was thus not subject to randomization. Notwithstanding this limitation, eptifibatide reduced the incidence of the composite end point in patients receiving medical therapy, in patients assessed before and after coronary revascularization (in the case of those undergoing early revascularization), and during the study-drug infusion. The use of eptifibatide was associated with increased bleeding and a more frequent need for transfusions. Moreover, although we observed a beneficial effect of eptifibatide in men, the results in women were less clear.
-Our study was designed to be a practice-based trial, and patients were treated according to an array of management strategies, with no protocol-mandated strategy of catheterization and revascularization. Patients had typical acute chest pain syndromes, and the distribution of cardiovascular risk factors was similar to the distributions in other large studies of the same type of patient.25
-Efficacy
-The incidence of the primary end point was nearly double that predicted on the basis of similar studies.25,26 This discrepancy may have reflected our selection of patients with more severe disease as well as our rigorous search for electrocardiographic and laboratory data to establish and verify infarction or reinfarction.
-The benefit of eptifibatide was evident at 96 hours, as was expected given the biologic effect of the drug. The maintenance of this benefit without attenuation established the absence of a rebound phenomenon up to 30 days. By contrast, some direct thrombin inhibitors have shown a benefit of similar magnitude during the drug infusion, but the absolute benefit has diminished during follow-up.27,28
-Although the treatment effect was consistent among most subgroups in this study, it differed between women and men. In women, the 95 percent confidence interval is compatible with the existence of no effect, a small beneficial effect, or a detrimental effect. Considerable caution must be exercised in evaluating subgroups when there is inadequate power to make definitive statistical conclusions.29 No biologic explanation is apparent, since in women and men enrolled in a substudy of platelet function, eptifibatide therapy had similar antiplatelet effects. No sex difference has been seen in other trials of eptifibatide.3 Furthermore, a treatment benefit was observed in both women and men in North America in our study. Differences in outcome according to geographic region have been seen in other large, international trials of cardiovascular therapy and are related to differences in base-line characteristics as well as in management.30
-As in other trials that have used an independent adjudication process, the assessment of nonfatal myo-
+2-3
 
-TABLE 4. INCIDENCE OF BLEEDING DURING THE INITIAL HOSPITALIZATION BUT AFTER RANDOMIZATION, ACCORDING TO TREATMENT RECEIVED.
+67 (17)
 
-CATEGORY OF BLEEDING*
+75 (19)
 
-EPTIFIBATIDE PLACEBO
+ >4
 
-P
+7 (2) 9 (2)
 
-(N=4679) (N=4696) VALUE
+Previous preterm birth
 
-percent
+68 (17)
 
-All patients
-TIMI scale None or insignificant Minor Major
-GUSTO scale None Mild Moderate Severe
-Patients who did not undergo CABG
-TIMI scale None or insignificant Minor Major
-GUSTO scale None Mild Moderate Severe
+61 (16)
 
-74.8 12.9 10.6
+Very or extremely high confidence for quitting smoking
 
-81.0 7.4 9.1
+89 (23)
 
-0.02
+98 (25)
 
-61.0 26.1 11.3
-1.5
+Very or extremely confident of doing 30 mins of physical activity on at least 5 days a week during pregnancy
 
-77.2 12.9
-9.0 0.9
+274 (70)
 
-<0.001
+277 (71)
 
-84.2 11.1
-3.0
-68.8 26.0
-4.1 1.1
+Takes alcohol more than twice a week
 
-91.2 4.7 1.3
+6 (2) 5 (1)
 
-<0.001
+Consumes >3 alcoholic drinks on a drinking day¶¶***
 
-87.6 10.4
-1.7 0.3
+14 (16)
 
-<0.001
+3 (4)
 
-*TIMI denotes the Thrombolysis in Myocardial Infarction trial, GUSTO the Global Utilization of Streptokinase and t-PA for Occluded Coronary Arteries trial, and CABG coronary-artery bypass graft surgery. The categories of bleeding are defined in the Methods section.
-For bleeding according to the TIMI scale, the P value is for the comparison between the percentage of patients with major bleeding and those with minor bleeding, insignificant bleeding, or none. For bleeding according to the GUSTO scale, the P value is for the comparison between moderate or severe bleeding and mild bleeding or none.
-Since data were missing for some patients, not all percentages sum to 100.
+Baseline data were not recorded for one participant in physical activity group who withdrew consent shortly after randomisation. *Data exclude 41 women who were still in full time education. Not recorded for one participant in control group. Not recorded for one participant in physical activity group. §Not recorded for one participants in physical activity group and two in control group. ¶Excludes 92 women with no partner. **Race or ethnic group was self reported and categorised according to standard UK census categories. Excludes 297 with no previous pregnancies. Any previous pregnancy of duration 24-37 weeks. §§Number of previous pregnancies progressing beyond 24 weeks. ¶¶Excludes 617 women responding "not applicable" (that is, not consuming alcohol). ***Significant difference between groups (P=0.011), using Fisher's exact test. This variable was not related to the primary outcome and therefore was not adjusted for in the analysis. There were no other significant differences between the groups.
 
-cardial infarctions differed between the central adjudication panel and the investigators at the study sites.31 More end-point events were identified and a smaller absolute and relative benefit was observed when events were identified centrally. The benefit of treatment was apparent, however, whether end points were identified centrally or by the investigators.
-Because even asymptomatic enzymatic infarctions have prognostic importance, especially after coronary revascularization procedures,32 great effort was expended to measure myocardial enzymes in patients with suspected ischemic events and in those who underwent revascularization. Trials of percutaneous revascularization strategies have shown that even asymptomatic myocardial infarctions detected on the basis of cardiac-enzyme measurements in serum are associated with adverse outcomes in the intermediate term (30 days) and the longer term (6 months to 1 year).33,34
+to  the total sample. Seventy two per cent had valid accelerometer data for at least four days. The median duration of moderate-vigorous physical activity per day by a ccelerometer, when only including bouts of at least 10 minutes, was similar between the physical activity (7.5 minutes, interquartile range 0-15.5) and control groups (8.0 minutes, 0-16.2), P=0.816). When including all moderate-vigorous physical activity, irrespective of duration, activity levels per day tended to be higher for the physical activity group (median 38.0 minutes, interquartile range 20.0-52.6) versus control group (31.2, 19.044.1), although this difference did not reach significance (P=0.538). During the week when the accelerometer was worn, moderate-vigorous physical activity per day
 
-Volume 33 9 Numb er 7 · 441
-The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
-Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+(in bouts of 10 minutes) was significantly higher by self report than by accelerometer; this being the case for the control group (median difference 23.2 (interquartile range 6.1-37.1) minutes, P<0.001), and even more so for the physical activity group (29.7, 17.1-49.4) minutes, P<0.001).
+There was no significant difference in smoking abstinence rates between the two groups at follow-up (table 3). The rate of validated continuous abstinence at end of pregnancy was 8% in the physical activity group and 6% in the control group (odds ratio for physical activity group, adjusted for recruitment centre only 1.21, 95% confidence interval 0.70 to 2.10). At four weeks the validated abstinence rate was 13% in the physical activity group and 16% in the control group (odds ratio adjusted for recruitment centre only 0.79, 0.53 to 1.18). At six months after birth, the rate of self reported abstinence was 6% in the physical activity group and 4% in the control group (odds ratio adjusted for recruitment centre only 1.55, 95% confidence interval 0.81 to 2.97). Fully adjusted analyses yielded similar findings (table 3). The sensitivity analyses showed that the observed effect size and its statistical significance were independent of the influence of missing data for the primary outcome. There was no significant interaction between baseline self reports of moderate-vigorous physical activity (<150 v 150 mins/week physical activity) and the effect of the intervention on smoking abstinence at the end of pregnancy (adjusted for recruitment centre only: odds ratio 3.03, 95% confidence interval 0.68 to 13.40, P=0.129). Nor was there any evidence that changes in self reports of physical activity in the physical activity group were significantly associated with smoking abstinence (adjusted for recruitment centre only: odds ratio at four weeks 2.21, 95% confidence interval 0.48 to 10.12, P=0.321, and at six weeks 2.36, 0.41 to 13.51, P=0.362).
+At the end of pregnancy, the Edinburgh postnatal depression scale score was significantly higher (P=0.017) for the physical activity group compared with the control group (table 4). There was no significant difference in scores between the groups at six months. There was no significant difference in gestational or postnatal weight between the groups (table 5). The baseline characteristics among those providing data on depression and weight were similar to those for the total trial sample and were comparable between the study groups.
+Between baseline and one week post-quit, ratings for confidence for participating in physical activity for the physical activity compared with control group increased significantly (P=0.004), but there was no significant change in ratings for individual withdrawal symptoms, urge to smoke, or confidence for quitting smoking. The total number of women or their infants who had at least one adverse event or serious adverse event was 217 (55%) in the physical activity group and 219 (56%) in the control group (odds ratio 0.99, 95% confidence interval 0.75 to 1.32) (see supplementary table on bmj.com). There were no significant differences between the groups for any adverse event or serious adverse event,
 
-The New England Journal of Medicine
+thebmj|BMJ 2015;350:h2145|doi: 10.1136/bmj.h2145
 
-Safety
-As compared with placebo, eptifibatide was associated with an increased risk of bleeding and a greater need for blood transfusions. The increase in risk is consistent with that associated with other accepted therapies,19,25 especially considering the trade-off in terms of reducing the risk of death or myocardial necrosis. Most bleeding occurred at the femoral-access site in patients undergoing cardiac procedures. There was little bleeding in patients who did not undergo revascularization. The risk of bleeding might be reduced by using lower doses of heparin; since this was a blinded trial, adjustments to the dosage of heparin did not take into account the concomitant use of the platelet inhibitors. Whether lower doses of heparin can be used in patients treated with eptifibatide is a matter for speculation, but the possibility is supported by the experience with patients undergoing percutaneous revascularization.5,35
-There was no additional increase in bleeding among the patients assigned to eptifibatide who were undergoing bypass surgery, as compared with the patients given placebo. Considering that almost 16 percent of patients underwent bypass surgery within 30 days after randomization, this finding is reassuring and consistent with the short half-life of eptifibatide and with experience in a study of abciximab.36 In this trial, as compared with other trials of fibrinolytic agents or thrombin inhibitors at high doses,37,38 there were fewer hemorrhagic strokes, and there was no increased risk with eptifibatide.
-Comparisons with Other Trials and Implications for Practice
-More than 30,000 patients have been enrolled in large, randomized clinical trials comparing inhibition of the platelet glycoprotein IIb/IIIa receptor with standard therapy in patients undergoing percutaneous coronary revascularization and those with acute coronary syndromes who do not have ST-segment elevation.2-6,39-41 Although the magnitude of benefit has varied, there has consistently been a reduction in the incidence of death and myocardial infarction and the need for revascularization. In four studies in which three different small-molecule inhibitors of the glycoprotein IIb/IIIa receptor were used in patients with acute coronary syndromes but without ST-segment elevation, the data have consistently favored glycoprotein IIb/IIIa receptor inhibition over placebo.39-41 In our study, the apparently moderate absolute reduction of 1.5 percent in the incidence of death or nonfatal myocardial infarction was achieved in a real-life setting and in patients who were also being treated with aspirin, heparin, betablockers, angiotensin-converting­enzyme inhibitors, lipid-lowering therapy, coronary revascularization, or a combination of these methods.
+5
 
-Supported by COR Therapeutics and Schering-Plough Research Institute.
-We are indebted to Penny Hodgson for her expert editorial assistance.
-APPENDIX
-The participants in the Platelet Glycoprotein IIb/IIIa in Unstable Angina: Receptor Suppression Using Integrilin Therapy (PURSUIT) Trial were as follows (a complete listing of investigators and coordinators can be found on the World Wide Web at http://dcri.mc.duke.edu): Steering Committee -- E. Topol (chair); R. Califf (co-chair, North and South America); M. Simoons (co-chair, Europe); R. Diaz and E. Paolasso, Argentina and Uruguay; W. Klein, Austria; J. Boland, Belgium; G. DeBacker, Belgium; P. Armstrong, Canada; R. Corbalan, Chile; D. Isaza, Colombia; P. Widimsky, Czech Republic; C. Urrutia, El Salvador; K. Luomanmäki, Finland; A. Vahanian, France; K. Karsch, Germany; D. Cokkinos, G. Karatasakis, and P. Toutouzas, Greece; M. Rodas, Guatemala; M. Keltai, Hungary; S. Chierchia, Italy; E. Silva, Mexico; J. Erikssen, Norway; W. Ruzyllo and J. Stepinska, Poland; V. da Gamma Ribeiro, Portugal; A. Fernandez-Ortiz and C. Macaya, Spain; J. Goy, Switzerland; J. Deckers, the Netherlands; A. Skene and R. Wilcox, United Kingdom; A. Guerci, R. Harrington, J. Hochman, D. Holmes, N. Kleiman, S. Kopecky, K. Lee, A. Lincoff, E. Ohman, and C. Pepine, United States; J. Isea, Venezuela; Coordinating Center, Duke Clinical Research Institute, Durham, N.C. -- Clinical operations: R. Califf, R. Harrington, L.G. Berdan; Statistical director: K. Lee; Administration: J. Melton, M. Scharenbroich; Clinical events classification: K. Mahaffey, I. DeJong; Communications: A. Doll, P. Hodgson; Coordinators: P. Allman, C. Ball, L. Guy, K. Hannan, D. Pagano; Data management: J. Snapp; Lead monitor: L. Zillman; Pharmacy: M. Pullium; Statistics: B. Weatherley, C. MacAuley, S. McNulty, R. Sparapani, D. Beasley; Executive Coordinating Center, Cleveland Clinic Foundation, Cleveland -- E. Topol, A. Lincoff, V. Stosik, L. Konczos, D. Passmore; European Coordinating Center, Cardialysis Clinical Research Management and Core Laboratories, Rotterdam, the Netherlands -- Clinical operations: M. Simoons, J. Deckers, P. Kint, J. Simons; Data management: E. Nibbering, S. van Oosterom; Canadian Coordinating Center, University of Alberta, Edmonton -- P. Armstrong, S. Caouette, S. Martin; United Kingdom Coordinating Center, Nottingham Clinical Trial Data Center, Nottingham -- A. Skene, R. Wilcox, E. Townsend; Clinical Events Committee -- R. Harrington, K. Mahaffey, M. Alberts, B. Chandler, B. Crenshaw, C. Graffignino, C. Granger, N. Kleiman, K. Newby, B. Tardiff; J. Alexander, K. Alexander, P. Amsterdam, R. Anderson, C. Bajzer, G. Barness, C. Bruce, M. Cuffe, I. Dawson, Z. Dibbs, J.B. Durand, J. Erwin, V. Guetta, M. Khan, N. Lakkis, D. Laskowitz, M. Madan, W. Mazur, R. Migrino, J. Miller, M. Silver, W. Tan, M. Treuth, C. Tung; Data Monitoring and Safety Committee -- T. Ryan (chairman), Boston University Medical Center; J. Alpert, University of Arizona Health Science Center; G. Beller, University of Virginia Health Sciences Center; R.O. Bonow, Northwestern University Medical School; B. Brundage, Harbor­UCLA Medical School; L. Fisher, University of Washington; R. Hardy, University of Texas School of Public Health; J. Meyer, II Medizinische Klinik University of Mainz, Mainz, Germany; COR Therapeutics, South San Francisco -- M. Kitt, D. Gretler, C. Homcy, T. Lorenz, J. Fulks, K. Cambouris; Schering-Plough Research Institute, Kenilworth, N.J. -- R. Spiegel, E. Veltri, J. Spicehandler, J. Golando, L. Mellars, B. Rodda, M. Malone, R. Ress; Principal investigators at the 25 sites enrolling the most patients -- G. Miller, Danville Regional Medical Center, United States; P. Nishan, Moses Cone Memorial Hospital, United States; R. Spacek, Klinika FN Kralovske Vinohrady, Czech Republic; A. Riba, Oakwood Hospital, United States; H. Chandna, Michael Reese Hospital, United States; B. Semrad, University Hospital Brno-Bohunice, Czech Republic; P. Widimsky, Fak. Nemocnice Kralovske Vinohrady, Czech Republic; C. van der Zwaan, Thoraxcenter, Dijkzigt AZ Rotterdam, the Netherlands; D. Drenning, Huntsville Hospital, United States; T. Sandor, Hollos Jozsef County Hospital, Kecskemet, Hungary; A. Malinski, Wojewodzki Szpital Zespolony, Poland; W. Smits, Maasziekenhuis, the Netherlands; J. Griffin, Virginia Beach General Hospital, United States; R. Harrington, Duke University Medical Center, United States; A. Paraschos, Alamance Regional Medical Center, United States; A. Vahanian, Hôpital Tenon, France; G.M. Jochemsen, Ziekenhuis De Tjongerschans, the Netherlands; R. Dijkgraaf, Ziekenhuis St. Jansdal, the Netherlands; M. Frey, Sarasota Memorial Hospital, United States; H. Darius, J. Gutenberg University Medical Center, Germany; J. Adgey, Royal Victoria Hospital, United Kingdom; J. Talley, John L. McClellan Veterans Affairs Medical Center, United States; H.F. Baars, Maria Hospital, the Netherlands; J. Seaworth, North East Baptist Hospital, United States; J.M.C. van Hal, Streekziekenhuis Zevenaar, the Netherlands.
+RESEARCH
+6
 
-442 · August 13, 19 98
-The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
-Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+Table 2 | Compliance to interventions
 
-INHIBITION OF PL ATELET GLYCOPROTEIN IIb/ IIIa WITH EP TIFIBATIDE IN ACUTE CORONARY SYNDROMES
+Assessment time
 
-REFERENCES
-1. Chesebro JH, Fuster V. Thrombosis in unstable angina. N Engl J Med 1992;327:192-4. 2. The EPIC Investigators. Use of a monoclonal antibody directed against the platelet glycoprotein IIb/IIIa receptor in high-risk coronary angioplasty. N Engl J Med 1994;330:956-61. 3. The IMPACT-II Investigators. Randomised placebo-controlled trial of effect of eptifibatide on complications of percutaneous coronary intervention: IMPACT-II. Lancet 1997;349:1422-8. 4. The CAPTURE Investigators. Randomised placebo-controlled trial of abciximab before and during coronary intervention in refractory unstable angina: the CAPTURE study. Lancet 1997;349:1429-35. [Erratum, Lancet 1997;350:744.] 5. The EPILOG Investigators. Platelet glycoprotein IIb/IIIa receptor blockade and low-dose heparin during percutaneous coronary revascularization. N Engl J Med 1997;336:1689-96. 6. The RESTORE Study Group. Effects of platelet glycoprotein IIb/IIIa blockade with tirofiban on adverse cardiac events in patients with unstable angina or acute myocardial infarction undergoing coronary angioplasty. Circulation 1997;96:1445-53. 7. Alexander JH, Alexander K, Kong DF, Tung CY, Whellan D. Session highlights from the American Heart Association Scientific Sessions: November 9-12, 1997. Am Heart J 1998;135:157-80. 8. Phillips DR, Charo IF, Parise LV, Fitzgerald LA. The platelet membrane glycoprotein IIb-IIIa complex. Blood 1988;71:831-43. 9. Lefkovits J, Plow EF, Topol EJ. Platelet glycoprotein IIb/IIIa receptors in cardiovascular medicine. N Engl J Med 1995;332:1553-9. 10. Coller BS. Blockade of platelet GPIIb/IIIa receptors as an antithrombotic strategy. Circulation 1995;92:2373-80. 11. Lincoff AM, Califf RM, Anderson KM, et al. Evidence for prevention of death and myocardial infarction with platelet membrane glycoprotein IIb/IIIa receptor blockade by abciximab (c7E3 Fab) among patients with unstable angina undergoing percutaneous coronary revascularization. J Am Coll Cardiol 1997;30:149-56. 12. Klootwijk P, Meij S, Melkert R, Simoons ML. Reduction of recurrent ischemia with abciximab during continuous ECG-ischemia monitoring in patients with unstable angina refractory to standard treatment (CAPTURE). J Am Coll Cardiol 1997;29:Suppl A:367A. abstract. 13. Topol EJ, Ferguson JJ, Weisman HF, et al. Long-term protection from myocardial ischemic events in a randomized trial of brief integrin b3 blockade with percutaneous coronary intervention. JAMA 1997;278:47984. 14. Tcheng JE, Harrington RA, Kottke-Marchant K, et al. Multicenter, randomized, double-blind, placebo-controlled trial of the platelet integrin glycoprotein IIb/IIIa blocker Integrelin in elective coronary intervention. Circulation 1995;91:2151-7. 15. Harrington RA, Kleiman NS, Kottke-Marchant K, et al. Immediate and reversible platelet inhibition after intravenous administration of a peptide glycoprotein IIb/IIIa inhibitor during percutaneous coronary intervention. Am J Cardiol 1995;76:1222-7. 16. Phillips DR, Teng W, Arfsten A, et al. Effect of Ca2+ on GP IIb-IIIa interactions with Integrilin: enhanced GP IIb-IIIa binding and inhibition of platelet aggregation by reductions in the concentration of ionized calcium in plasma anticoagulated with citrate. Circulation 1997;96:1488-94. 17. Schulman SP, Goldschmidt-Clermont PJ, Topol EJ, et al. Effects of Integrelin, a platelet glycoprotein IIb/IIIa receptor antagonist, in unstable angina: a randomized multicenter trial. Circulation 1996;94:2083-9. 18. Harrington RA. Design and methodology of the PURSUIT trial: evaluating eptifibatide for acute ischemic coronary syndromes. Am J Cardiol 1997;80:Suppl 4A:34B-38B. 19. Wali AU, Gavrila D, Sim MJ, Malhotra S, Palazzo AM, Hochman JS. An improved regimen for heparin use in acute coronary syndromes. Circulation 1997;96:Suppl I:I-597. abstract. 20. Califf RM, Abdelmeguid AE, Kuntz RE, et al. Myonecrosis after revascularization procedures. J Am Coll Cardiol 1998;31:241-51. 21. The GUSTO Investigators. An international randomized trial comparing four thrombolytic strategies for acute myocardial infarction. N Engl J Med 1993;329:673-82.
+Physical activity group
 
-22. Chesebro JH, Knatterud G, Roberts R, et al. Thrombolysis in Myocardial Infarction (TIMI) Trial, phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: clinical findings through hospital discharge. Circulation 1987;76:142-54. 23. Berkowitz SD, Harrington RA, Rund MM, Tcheng JE. Acute profound thrombocytopenia after C7E3 Fab (abciximab) therapy. Circulation 1997;95:809-13. 24. Pampallona S, Tsiatis AA. Group sequential designs for one-sided and two-sided hypothesis testing with provision for early stopping in favor of the null hypothesis. J Stat Plann Inference 1994;42:19-35. 25. The Global Use of Strategies to Open Occluded Coronary Arteries (GUSTO) IIb Investigators. A comparison of recombinant hirudin with heparin for the treatment of acute coronary syndromes. N Engl J Med 1996;335:775-82. 26. Thrombolysis in Myocardial Ischemia (TIMI) Study Group. Effects of tissue plasminogen activator and a comparison of early invasive and conservative strategies in unstable angina and non-Q-wave myocardial infarction: results of the TIMI IIIB Trial. Circulation 1994;89:1545-56. 27. Serruys PW, Herrman J-PR, Simon R, et al. A comparison of hirudin with heparin in the prevention of restenosis after coronary angioplasty. N Engl J Med 1995;333:757-63. 28. Bittl JA, Strony J, Brinker JA, et al. Treatment with bivalirudin (Hirulog) as compared with heparin during coronary angioplasty for unstable or postinfarction angina. N Engl J Med 1995;333:764-9. 29. Yusuf S, Wittes J, Probsfield J, Tyroler HA. Analysis and interpretation of treatment effects in subgroups of patients in randomized clinical trials. JAMA 1991;266:93-8. 30. Van de Werf F, Topol EJ, Lee KL, et al. Variations in patient management and outcomes for acute myocardial infarction in the United States and other countries: results from the GUSTO trial. JAMA 1995;273:1586-91. 31. Mahaffey KW, Granger CB, Tardiff BE, et al. Endpoint adjudication by a Clinical Events Committee can impact the statistical outcome of a clinical trial: results from GUSTO-IIb. J Am Coll Cardiol 1997;29:Suppl A:410A. abstract. 32. Abdelmeguid AE, Topol EJ. The myth of the myocardial `infarctlet' during percutaneous coronary revascularization procedures. Circulation 1996;94:3369-75. 33. Harrington RA, Lincoff AM, Califf RM, et al. Characteristics and consequences of myocardial infarction after percutaneous coronary intervention: insights from the Coronary Angioplasty Versus Excisional Atherectomy Trial (CAVEAT). J Am Coll Cardiol 1995;25:1693-9. 34. Elliott JM, Berdan LG, Holmes DR, et al. One-year follow-up in the Coronary Angioplasty Versus Excisional Atherectomy Trial. Circulation 1995;91:2158-66. 35. Lincoff AM, Tcheng JE, Califf RM, et al. Standard versus low-dose weight-adjusted heparin in patients treated with the platelet glycoprotein IIb/IIIa receptor antibody fragment abciximab (c7E3 Fab) during percutaneous coronary revascularization. Am J Cardiol 1997;79:286-91. 36. Boehrer JD, Kereiakes DJ, Navetta FI, Califf RM, Topol EJ. Effects of profound platelet inhibition with c7E3 before coronary angioplasty on complications of coronary bypass surgery: EPIC Investigators. Am J Cardiol 1994;74:1166-70. 37. Antman EM. Hirudin in acute myocardial infarction: safety report from the Thrombolysis and Thrombin Inhibition in Myocardial Infarction (TIMI) 9A Trial. Circulation 1994;90:1624-30. 38. The GUSTO IIa Investigators. Randomized trial of intravenous heparin versus recombinant hirudin for acute coronary syndromes. Circulation 1994;90:1631-7. 39. The Platelet Receptor Inhibition in Ischemic Syndrome Management (PRISM) Study Investigators. A comparison of aspirin plus tirofiban with aspirin plus heparin for unstable angina. N Engl J Med 1998;338:1498-505. 40. The Platelet Receptor Inhibition in Ischemic Syndrome Management in Patients Limited by Unstable Signs and Symptoms (PRISM-PLUS) Study Investigators. Inhibition of the platelet glycoprotein IIb/IIIa receptor with tirofiban in unstable angina and non­Q-wave myocardial infarction. N Engl J Med 1998;338:1488-97. 41. The PARAGON Investigators. An international, randomized, controlled trial of lamifiban, a platelet glycoprotein IIb/IIIa inhibitor, heparin or both in unstable angina. Circulation 1998;97:2386-95.
+Control group
 
-Volume 33 9 Numb er 7 · 443
-The New England Journal of Medicine Downloaded from nejm.org at BROWN UNIVERSITY on March 4, 2014. For personal use only. No other uses without permission.
-Copyright © 1998 Massachusetts Medical Society. All rights reserved.
+No, median (interquartile range) self reported weekly MVPA (mins)
+
+Baseline
+
+391, 210 (125-350)
+
+393, 225 (130-360)
+
+No of weeks post-quit day:
+
+1
+
+162, 280 (190-425)
+
+206, 240 (140-420)
+
+4
+
+135, 270 (180-420)
+
+157, 210 (120-340)
+
+6
+
+90, 277 (180-400)
+
+121, 220 (130-350)
+
+End of pregnancy
+
+188, 155 (100-240)
+
+187, 140 (60-240)
+
+6 month follow-up
+
+147, 180 (80-330)
+
+136, 135 (60-285)
+
+No, mean (SD) time walked on treadmill during supervised exercise (mins)
+
+Baseline
+
+390, 12.2 (7.5)
+
+--
+
+No of weeks post-quit day:
+
+1
+
+163, 19.0 (8.5)
+
+--
+
+4
+
+134, 15.2 (10.8)
+
+--
+
+6
+
+90, 17.7 (10.9)
+
+--
+
+No of treatment sessions attended 391, 4 (2-8)
+
+393, 3 (2-6)
+
+Relative change* (95% CI) P value
+
+----
+
+1.33 (1.14 to 1.56) 1.28 (1.07 to 1.52) 1.36 (1.12 to 1.65) 1.25 (0.96 to 1.61) 1.16 (0.85 to 1.59)
+
+<0.001 0.006 0.002 0.093 0.339
+
+----
+
+---- ---- ----
+
+MVPA=moderate-vigorous physical activity. *Relative change of physical activity mixed effect model for log of physical activity. Adjusted for visit time, baseline minutes of MVPA, interaction of visit time and baseline minutes of MVPA, and recruitment centre. Median (interquartile range) numbers of sessions attended for both physical activity counselling and smoking cessation behavioural support were 2 (1-4). Participants received supervised exercise at all sessions.
+
+including maternal or fetal adverse events as probable complications of pregnancy or neonatal adverse events. Birth outcomes were similar between the two groups, including miscarriages, stillbirths, neonatal deaths, birth weights, and preterm births, except there were significantly fewer deliveries by caesarean section in the physical activity group than in the control group (29% v 21%, P=0.023, table 6). When including twin births the findings for birth outcomes were similar.
+Discussion Supplementing behavioural support with a physical activity intervention was no more effective in aiding smoking cessation during pregnancy than behavioural support alone. These findings were observed despite women in the physical activity group reporting 33% to 36% greater increases in physical activity than women in the control group during the intervention period.
+Strengths and limitations of this study In this study the limitations of previous trials of physical activity interventions for smoking cessation12 were
+
+Predicted self reported weekly minutes of MVPA on log scale
+
+.
+
+.
+
+.
+
+.
+
+Control group Physical activity group
+
+. week
+
+weeks weeks End of
+
+months
+
+post-quit post-quit post-quit pregnancy follow-up
+
+Visit time
+
+Fig 2 | Comparison of self reported levels of moderatevigorous physical activity (MVPA) in trial groups at different time points. Prediction on log scale from mixed effect model
+
+overcome by implementing a multicentre trial, offering an intensive physical activity intervention with support to increase physical activity as an aid for smoking cessation in addition to supervised exercise sessions, assessing and validating physical activity in both groups, using a robust outcome of continuous abstinence, and offering a pragmatic intervention that could be readily integrated into routine healthcare in the NHS. At baseline the participants' average gestational age, age, and cigarette consumption were similar to that of participants in another recent large pregnancy and smoking cessation trial conducted in the United Kingdom.32 The frequency of occurrence of adverse events and birth outcomes were also similar. These women were generally representative of women who smoke,8 and the findings are likely to be generalisable to primary and secondary care settings. The prevalence of probable depression at baseline is slightly higher than that reported for pregnant women in general.33
+This study was approximately twice the size of previous randomised controlled trials investigating physical activity interventions for smoking cessation delivered through face to face support.12 As anticipated, we recruited around 10% of pregnant women recorded as smokers at their first antenatal booking visit. However, the prevalence of smoking was lower than anticipated; therefore, despite extending the recruitment period, our sample was only 91% of the target 866. Quit rates were lower than anticipated in our power calculation, which will also have reduced the power of the study. The confidence intervals around the odds ratio for the effect of the intervention show the level of precision of this estimate, given the achieved sample size, and imply that we cannot rule out up to a twofold increase in abstinence at the end of pregnancy compared with controls at the upper end of the confidence interval, although our point estimate suggests an effect of intervention that is unlikely to be clinically meaningful. Additionally, at our four week outcome, quit rates were
+
+doi: 10.1136/bmj.h2145|BMJ 2015;350:h2145|thebmj
+
+RESEARCH
+
+Table 3 | Primary and secondary abstinence outcomes. Values are numbers (percentages) unless stated otherwise
+
+Outcomes
+
+Physical activity group (n=392)
+
+Control group (n=393)
+
+Odds ratio* (95% CI) with basic adjustment
+
+Fully adjusted odds ratio (95% CI)
+
+Primary:
+
+Self reported continuous abstinence at end of pregnancy§ with biochemical validation¶
+
+30 (8)
+
+25 (6)
+
+1.21 (0.70 to 2.10)
+
+1.37 (0.78 to 2.41)
+
+Secondary:
+
+Self reported continuous abstinence 4 weeks post-quit day, with validation**
+
+50 (13)
+
+61 (16)
+
+0.79 (0.53 to 1.18)
+
+0.87 (0.57 to 1.31)
+
+ Self reported continuous abstinence 6 months after birth
+
+24 (6)
+
+16 (4)
+
+1.55 (0.81 to 2.97)
+
+1.66 (0.82 to 3.37)
+
+*Adjusted for recruitment centre only (as a stratification factor). Adjusted for recruitment centre, Fagerstrom test of cigarette dependence score at baseline, participant's age at randomisation, Edinburgh postnatal depression scale score at baseline, age at leaving full time education, and partner's smoking status at baseline. Smoked fewer than five cigarettes since quit day. §Between 36 weeks' gestation and 10 weeks after birth. ¶Validated by exhaled carbon monoxide or salivary cotinine levels, or both; if both measures were available both were required for validation. Biochemical tests did not validate report of not smoking (that is, probable false reporting of cessation) in 12 of 42 women (29%) in physical activity group and 19 of 44 (43%) in control group. **Biochemical tests did not validate report of not smoking (that is, probable false reporting of cessation) in 4 of 51 women (8%) in physical activity group and in 7 of 61 (11%) in control group.
+
+higher and confidence intervals narrower, and the difference in abstinence between treatment and control was minimal even at the upper end of the confidence interval. Thus despite not reaching the target sample size, our results suggest there is unlikely to be a clinically relevant difference. Quit rates were lower than in previous pregnancy trials with less rigorous outcome measures but were similar to those for studies using comparable outcome measures.8 For example, two previous UK based large trials of a smoking cessation intervention during pregnancy observed quit rates at the end of pregnancy of 7.6% and 7.8% in a group only receiving behavioural support for smoking32 34; similarly, we observed a quit rate of 6.4% for this group.
+Interpretation of findings Bias in outcome ascertainment is unlikely to explain the findings, as follow-up rates (at 89%) were equally high in the groups, and for only 6% of participants who could not be followed-up was it necessary to assume that they had continued to smoke or relapse. Also, the effect size was independent of the influence of missing outcome data. Less than 10% reported using non-study behavioural support or nicotine replacement therapy, with similar usage in the groups; therefore it is doubtful that this influenced the results. Low attendance may have affected the outcomes; women in the physical activity group attended a median of only four of 14 sessions. However, despite low attendance rates, the counselling on physical activity may still have substantially increased physical activity levels. Low attendance was not explained by the two potentially treatment related adverse events in the physical activity group, and there
+
+Table 4 | Maternal depression. Values are numbers, means (standard deviations) unless stated otherwise
+
+Visit time
+
+EPDS score
+
+ (difference between physical
+
+Control group Physical activity group activity and control group) (95% CI)*
+
+Baseline
+
+393, 7.7 (5.0)
+
+End of pregnancy 194, 7.2 (5.0)
+
+6 month follow-up 133, 6.6 (4.7)
+
+391, 7.6 (5.3) 189, 8.0 (4.9) 146, 6.8 (4.8)
+
+0 1.06 (0.19 to 1.94) 0.52 (-0.45 to 1.50)
+
+EPDS=Edinburgh postnatal depression scale. *Results from mixed effect linear regression model, adjusted for visit time, baseline EPDS score, interaction of visit time and baseline EPDS score, and recruitment centre.
+
+was no indication that the physical activity intervention increased the incidence of adverse events. As is common in smoking cessation trials, the majority of women who failed to quit stopped attending, suggesting that it was failure of quitting that partly led to low attendance. Qualitative data (to be reported elsewhere) based on interviews with participants suggests that low attendance was also influenced by pregnancy related ailments, poor psychological health, and lack of social support.
+Evidence for the intervention influencing processes that might aid cessation, such as confidence for quitting, urges to smoke, or withdrawal symptoms was lacking. There was also no evidence for the intervention reducing depression scores; moreover, scores were significantly higher in the physical activity group than control group at the end of pregnancy; although the margin of this difference was small and unlikely to be clinically important.35 36 A possible explanation for the depression findings, which is consistent with our qualitative data (to be reported elsewhere), relates to the population of interest and the requirements of the intervention. Those in the intervention group were asked to change two health behaviours simultaneously (that is, smoking and physical activity), while also coping with being pregnant and attending multiple treatment sessions. Participants might have been demoralised by finding this difficult to achieve, resulting in marginally higher depression scores at the end of pregnancy. Neither was there evidence that the intervention reduced weight gain. The effects on outcomes for smoking cessation, depression, and weight may have been limited by having an intervention group with an already active lifestyle and that failed to sufficiently raise their physical activity levels, compared with the control group.
+It is reassuring that the numbers of adverse events were similar in the two groups, as it suggests that a physical activity intervention is safe and is unlikely to increase these events in pregnant smokers. Moreover, there were 7% fewer caesarean sections in the physical activity compared with control group. This finding is consistent with a recent meta-analysis that observed a significantly lower risk of caesarean delivery among women undergoing a physical activity intervention
+
+thebmj|BMJ 2015;350:h2145|doi: 10.1136/bmj.h2145
+
+7
+
+RESEARCH
+
+Table 5 | Maternal body weight. Values are means (standard deviations) unless stated otherwise
+
+Subsamples of maternal body weight
+
+Physical activity group
+
+Control group
+
+Mean difference (physical activity- control) (95% CI)*
+
+Gestational weight change:
+
+n=74
+
+n=66
+
+ Early pregnancy weight
+
+68.3 (14.4)
+
+70.3 (15.6)
+
+--
+
+ End of pregnancy weight
+
+80.7 (14.9)
+
+81.4 (14.8)
+
+1.08 (-1.08 to 3.23)
+
+Postnatal weight retention:
+
+n=63
+
+n=65
+
+ Early pregnancy weight
+
+66.1 (14.6)
+
+66.2 (12.8)
+
+--
+
+ End of pregnancy weight
+
+70.7 (14.1)
+
+71.3 (13.4)
+
+-0.11 (-2.27 to 2.49)
+
+*Linear regression model with maternal weight change at end of pregnancy as dependent variable, and randomisation groups, early pregnancy weight, and recruitment centre as independent variables. Weight measured before birth. Weight measured after birth.
+
+compared with control conditions.37 This is the first study to report this in pregnant smokers and it is a positive result as caesarean sections are more expensive to the NHS than other modes of delivery and there are complications associated with abdominal surgery.
+According to self reports, we recruited physically active women who were at baseline, compared with pregnant smokers similarly recruited in antenatal hospitals,38 twice as likely to report achieving the recommended levels of physical activity; this may be because active women were attracted to a trial promoting physical activity. It is likely that similarly active women would be recruited to a physical activity intervention delivered in routine healthcare. A further explanation is that a high proportion of participants were living in deprived communities, and our qualitative data (to be reported elsewhere) suggests that the women had limited access to motorised or public transport, relying on walking as their main form of transport. This could mean that most participants were already experiencing the benefits of exercise, making it difficult to detect an appreciable difference in smoking abstinence rates
+
+between the trial groups (that is, a ceiling effect). There was no evidence to suggest that the treatment effect was influenced by baseline levels of physical activity; although there was insufficient power to detect this interaction and it is possible that the intervention would have shown stronger effects if a more sedentary population had been targeted.
+An alternative explanation is that participants over-reported their activity levels. This is supported by the accelerometer data, which shows, as previously observed,39 that physical activity levels were far higher by self report than by accelerometer. A limitation is that only 90 participants were monitored by accelerometer. The baseline characteristics of these women were similar to the remainder who did not wear accelerometers. It would have been preferable to assess physical activity using the accelerometer in all participants, but our pilot study showed that most women would not tolerate wearing them and so we used self reported activity for the primary analysis.
+Participants could not be blinded to treatment allocation, and the higher self reports of activity in the physical activity group compared with the control group may be biased by knowledge of allocation. This is consistent with the finding that the overestimate of self reported physical activity, versus the accelerometer data, tended to be higher for the physical activity versus control group. Additionally, accelerometer derived physical activity levels were similar in the two trial groups, although when including all moderate-vigorous physical activity (rather than restricting it to bouts of 10 minutes) the physical activity group tended to report more physical activity a week than the control group, which suggests that most increases in activity were likely to be in sporadic bouts lasting less than 10 minutes. Thus it remains possible that women in the physical activity group failed to increase their physical
+
+Table 6 | Birth outcomes by treatment group. Values are number with outcome/total number in group (percentage) unless stated otherwise
+
+Fetal outcomes (singleton births only*)
+
+Physical activity group (n=384)
+
+Control group (n=391)
+
+Odds ratio (95% CI)
+
+Miscarriage
+
+6/383 (2)
+
+10/389 (3)
+
+0.60 (0.22 to 1.67)
+
+Stillbirth
+
+2/377 (1)
+
+2/379 (1)
+
+1.01 (0.14 to 7.24)
+
+Neonatal death
+
+0
+
+1/391 (0.3)
+
+Not calculated
+
+Mean (SD) birth weight (g)
+
+n=354, 3132.4 (581.7)
+
+n=359, 3146.8 (640.0)
+
+-14.50 (-104.52 to 75.52)
+
+Mean (SD) gestational age at delivery (weeks)
+
+n=356, 39.24 (2.1)
+
+n=348, 39.26 (2.1)
+
+-0.02 (-0.36 to 0.31)
+
+Preterm birth§ (<37 weeks' gestation)
+
+35/356 (10)
+
+26/348 (7)
+
+1.36 (0.80 to 2.31)
+
+Low birth weight§ (<2500 g)
+
+38/353 (11)
+
+44/359 (12)
+
+0.87 (0.55 to 1.38)
+
+Admission to neonatal intensive care unit
+
+27/352 (8)
+
+36/356 (10)
+
+0.74 (0.44 to 1.25)
+
+Apgar score at 5 minutes <7
+
+8/344 (2)
+
+11/351 (3)
+
+0.74 (0.29 to 1.85)
+
+Cord blood arterial pH <7
+
+2/130 (2)
+
+0/125
+
+Not calculated
+
+Congenital abnormalities¶
+
+9/346 (3)
+
+6/348 (2)
+
+1.43 (0.50 to 4.13)
+
+Assisted vaginal delivery
+
+46/357 (13)
+
+32/359 (9)
+
+1.51 (0.94 to 2.43)
+
+Caesarean delivery
+
+76/357 (21)
+
+103/359 (29)
+
+0.67 (0.48 to 0.95)**
+
+*For all outcomes, 10 women with twins (8 in physical activity group) were removed from the denominator. When including twin births the findings for birth outcomes were similar. Odds ratios and mean differences were adjusted for recruitment centre (as a stratification factor). These outcomes were defined a priori as serious adverse events. They were not specified as outcomes in the published protocol and therefore are considered as post hoc outcomes. There were no maternal deaths, and no serious adverse events were judged to be related to the physical activity intervention. The denominator for miscarriage was calculated as the number randomised minus the number of elective terminations (n=3) (elective terminations are excluded as they do not have the potential to miscarry). The denominator for stillbirth was calculated as the number randomised minus the number of miscarriages and elective terminations (elective terminations and miscarriages were excluded as they do not have the potential to result in a stillbirth). For all other outcomes, the denominator is the number of singleton live births, excluding those births for which outcome data were missing. §These variables were not specified as outcomes in the protocol and therefore are considered as post hoc outcomes. ¶See supplementary table on bmj.com for a list of congenital abnormalities. **P=0.023.
+
+8 doi: 10.1136/bmj.h2145|BMJ 2015;350:h2145|thebmj
+
+RESEARCH
+
+activity levels compared with the control group, as planned. If this was the case, it is unlikely that such an intervention offered in routine healthcare would raise physical activity levels sufficiently to aid smoking cessation. A less pragmatic and more efficacy oriented trial (for example, with greater incentives, such as financial, to complete the exercise), and with accelerometer measurement in the whole sample, would be needed to establish whether physical activity in itself aids smoking cessation during pregnancy. There was no evidence that change in self reported physical activity was associated with higher quit rates, although this analysis was underpowered and the confidence intervals were wide.
+Conclusions In this study, evidence that a pragmatic physical activity intervention was effective for aiding smoking cessation was lacking. An efficacy trial involving thrice weekly sessions of vigorous intensity supervised exercise observed a benefit of a physical activity intervention on long term smoking abstinence among non-pregnant women smokers11; therefore it remains possible that a more intensive intervention may aid smoking cessation during pregnancy. However, more intensive exercise may be clinically inappropriate in pregnancy, and experience from the trial suggests that uptake of an intensive intervention would be low and would be difficult to integrate into routine healthcare. In addition, the provision of a comprehensive programme of supervised exercise represents a large investment and, to justify such a programme, the effect of the intervention would need to be substantial. We conclude that the reported physical activity programme is unlikely to assist pregnant smokers in stopping smoking. However, recommending physical activity to pregnant women clearly remains indicated for general health during pregnancy.
+We thank the following investigators for their contributions: Ory Bolooki (midwife), Janet Brown (midwife), Sarah Cleary (midwife), Caroline Dixon (midwife), Julie Fuller (midwife), Gail Harding (midwife), Maggie Hart (nurse), Tracey Kilbane (research assistant), Rachel Lex (midwife), Zoe Magrath (midwife), Ilia Papachristou (research assistant), Beth Steff (midwife), and Bettina Wanninkhof (midwife). We thank the independent members of the trial steering committee: Jim Thornton (chair), Ann McNeill, Sue Cooper, Kim Watts, and Serena Cox, and we thank Dale Esliger for assistance with analysing and interpreting the accelerometer data.
+Contributors: MU, TC, SL, PA, IM, RW, BL, BM, and AT conceived the study, wrote the protocol, and obtained funding. MU managed the day to day running of the trial, including all participant follow-up. MR, SL, and MU designed the data analysis. AD advised on the study design and assisted in the design of the analysis for maternal depression and weight. MR conducted all the analyses. All authors had full access to the data, take responsibility for the integrity of the data and the accuracy of the data analysis, contributed to the interpretation of the results, and reviewed and approved the final manuscript. MU drafted the article and is the guarantor. The views and opinions expressed in this article are those of the authors and do not necessarily reflect those of the National Institute for Health Research (NIHR) health technology assessment programme, the NIHR, the National Health Service, or the English Department of Health.
+Funding: This study was funded by the NIHR health technology assessment programme (grant 07.01.14). The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available on request from the corresponding author) and declare: no support from any organisation for the submitted work; in the past three years PA has done one day of consultancy for Pfizer concerning general smoking cessation advice and not about particular products, and RW has undertaken research and consultancy for companies (Pfizer and GlaxoSmithKline) that develop and manufacture smoking cessation drugs in the past three years; in the past three years TC has been paid for speaking at two educational events that were part or wholly sponsored by a company (Pierre Fabre Laboratories, France) that manufactures nicotine replacement therapy; RW is an unpaid trustee of the stop smoking charity QUIT and an unpaid director of the National Centre for Smoking Cessation and Training; no other relationships or activities that could appear to have influenced the submitted work.
+Ethical approval: The research protocol was approved by the Wandsworth Research Ethics Committee.
+Data sharing: The guarantor (MU) is willing to examine all requests for the full dataset after a period of three years from the date of this publication. Participants did not give consent for data sharing but the data are anonymised and risk of identification is low.
+Transparency: The lead author (MU) affirms that the manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned (and, if relevant, registered) have been explained.
+This is an Open Access article distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license, which permits others to distribute, remix, adapt and build upon this work, for commercial use, provided the original work is properly cited. See: http://creativecommons.org/licenses/by-nc/4.0/.
+1 Kallen K. The impact of maternal smoking during pregnancy on delivery outcome. Eur J Public Health 2001;11:329-33.
+2 Rogers JM. Tobacco and pregnancy. Reprod Toxicol 2009;28:152-60.
+3 Salihu HM, Wilson RE. Epidemiology of prenatal smoking and perinatal outcomes. Early Hum Dev 2007;83:713-20.
+4 NHS Information Centre. Infant feeding survey 2010: early results. NHS Information Centre for Health and Social Care, 2011.
+5 Tong VT, Dietz PM, Morrow B, et al. Trends in smoking before, during, and after pregnancy--pregnancy risk assessment monitoring system, United States, 40 sites, 2000-2010. MMWR Surveill Summ 2013;62:1-19.
+6 Al-Sahab B, Saqib M, Hauser G, et al. Prevalence of smoking during pregnancy and associated risk factors among Canadian women: a national survey. BMC Pregnancy Childbirth 2010;10:24.
+7 Richmond R. You've come a long way baby: women and the tobacco epidemic. Addiction 2003;98:553-7.
+8 Chamberlain C, O'Mara-Eves A, Oliver S, et al. Psychosocial interventions for supporting women to stop smoking in pregnancy. Cochrane Database Syst Rev 2013;10:CD001055.
+9 Coleman T, Chamberlain C, Davey MA, et al. Pharmacological interventions for promoting smoking cessation during pregnancy. Cochrane Database Syst Rev 2012;9:CD010078.
+10 Haasova, M, Warren FC, Ussher M, et al. The acute effects of physical activity on cigarette cravings: systematic review and meta-analysis with individual participant data (IPD). Addiction 2012;108:26-37.
+11 Marcus BH, Albrecht AE, King TK, et al. The efficacy of exercise as an aid for smoking cessation in women: a randomised controlled trial. Arch Intern Med 1999;159:1229-34.
+12 Ussher MH, Taylor A, Faulkner G. Exercise interventions for smoking cessation. Cochrane Database Syst Rev 2012;1:CD002295.
+13 Garber CE, Blissmer B, Deschenes MR, et al. American College of Sports Medicine. American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise. Med Sci Sports Exerc 2011;43:1334-59.
+14 Ussher M, Aveyard P, Coleman T, et al. Physical activity as an aid to smoking cessation during pregnancy: two feasibility studies. BMC Public Health 2008;8:328.
+15 Ussher M, Aveyard P, Manyonda I, et al. Physical activity as an aid to smoking cessation during pregnancy (LEAP) trial: study protocol for a randomized controlled trial. Trials 2012;13:186.
+16 Michie S, Hyder N, Walia A, et al. Development of a taxonomy of behaviour change techniques used in individual behavioural support for smoking cessation. Addict Behav 2011;36:315-9.
+17 Heatherton T, Kozlowski L, Frecker T, et al. The Fagerström test for nicotine dependence: a revision of the Fagerström tolerance questionnaire. Br J Addict 1991;86:1119-27.
+
+thebmj|BMJ 2015;350:h2145|doi: 10.1136/bmj.h2145
+
+9
+
+RESEARCH
+
+18 Blair SN, Haskell WL, Ho P, et al. Assessment of habitual physical activity by seven-day recall in a community survey and controlled experiments. Am J Epidemiol 1985;122:794-804.
+19 Murray D, Cox JL. Screening for depression during pregnancy with the Edinburgh Depression Scale (EPDS). J Reprod Infant Psychol 1990;8:99-107.
+20 Marcus BH, Selby VC, Niaura RS, et al. Self-efficacy and the stages of exercise behavior change. Res Q Exerc Sport 1992;63:60-6.
+21 West R, Willis N. Double-blind placebo controlled trial of dextrose tablets and nicotine patch in smoking cessation. Psychopharmacology 1998;136:201-4.
+22 Babor TF, de la Fuente JR, Saunders J, et al. AUDIT: the Alcohol Use Disorders Identification Test--guidelines for use in primary health care. World Health Organization, 1992.
+23 West R, Russell M. Pre-abstinence smoke intake and smoking motivation as predictors of severity of cigarette withdrawal symptoms. Psychopharmacology 1985;87:334-6.
+24 Ussher M, Beard E, Abikoye G, et al. Urge to smoke over 52 weeks of abstinence. Psychopharmacology 2013;226:83-9.
+25 West R, Hajek P, Stead L, Stapleton J. Outcome criteria in smoking cessation trials: proposal for a common standard. Addiction 2005;100:299-303.
+26 Lumley J, Chamberlain C, Dowswell T, et al. Interventions for promoting smoking cessation during pregnancy. Cochrane Database Syst Rev 2009;3:CD001055.
+27 Chamberlain C, O'Mara-Eves A, Oliver S, et al. Psychosocial interventions for supporting women to stop smoking in pregnancy. Cochrane Database Syst Rev 2013;10:CD001055.
+28 Hedeker D, Mermelstein RJ, Demirtas H. Analysis of binary outcomes with missing data: missing=smoking, last observation carried forward, and a little multiple imputation. Addiction 2007;102:1564-73.
+29 Troiano RP, Berrigan D, Dodd KW, et al. Physical activity in the United States measured by accelerometer. Med Sci Sports Exerc 2008;40:181-8.
+
+30 Gates S, Brocklehurst P. How should randomised trials including multiple pregnancies be analysed? BJOG 2004;111:213-9.
+31 Fergusson D, Aaron SD, Guyatt G, Hébert P. Post-randomisation exclusions: the intention to treat principle and excluding patients from analysis. BMJ 2002;325:652-4.
+32 Coleman T, Cooper S, Thornton JG, et al. Smoking, Nicotine, and Pregnancy (SNAP) trial team. A randomized trial of nicotine-replacement therapy patches in pregnancy. N Engl J Med 2012;366:808-18.
+33 Gavin NI, Gaynes BN, Lohr KN, et al. Perinatal depression: a systematic review of prevalence and incidence. Obstet Gynecol 2005;106:1071-83.
+34 Hajek P, West R, Lee A, et al. Randomized controlled trial of a midwife-delivered brief smoking cessation intervention in pregnancy. Addiction 2001;96:485-94.
+35 Affonso DD, De AK, Horowitz JA, et al. An international study exploring levels of postpartum depressive symptomatology. J Psychosom Res 2000;49:207-16.
+36 Matthey S. Calculating clinically significant change in postnatal depression studies using the Edinburgh Postnatal Depression Scale. J Affect Disord 2004;78:269-72.
+37 Domenjoz I, Kayser B, Boulvain M. Effect of physical activity during pregnancy on mode of delivery. Am J Obstet Gynecol 2014;211:401 (e1-11).
+38 Ussher M, Ah-Yoon M, West R, et al. Factors associated with exercise participation and attitudes to exercise among pregnant smokers. J Smok Cessat 2007;2:12-6.
+39 Harrison CL, Thompson RG, Teede HJ, et al. Measuring physical activity during pregnancy. Int J Behav Nutr Phys Act 2011;8:19.
+© BMJ Publishing Group Ltd 2015
+Additional material
+Table of adverse events and list of less common adverse
+events
+
+See rights and reprints http://www.bmj.com/permissions
+
+Subscribe: http://www.bmj.com/subscribe
+
+
