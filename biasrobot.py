@@ -1,5 +1,4 @@
 """
-
 the BiasRobot class takes the full text of a clinical trial as
 input as a string, and returns bias information as a dict which
 can be easily converted to JSON.
@@ -9,6 +8,9 @@ can be easily converted to JSON.
     robot = BiasRobot()
     annotations = robot.annotate(text)
 
+Implements the models which were validated in the paper:
+
+Marshall IJ, Kuiper J, & Wallace BC. RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials. Journal of the American Medical Informatics Association 2015.doi:10.1093/jamia/ocv044
 """
 
 # Authors:  Iain Marshall <mail@ijmarshall.com>
@@ -34,7 +36,7 @@ class BiasRobot:
         self.bias_domains = ['Random sequence generation', 'Allocation concealment', 'Blinding of participants and personnel', 'Blinding of outcome assessment', 'Incomplete outcome data', 'Selective reporting']
 
 
-    def annotate(self, doc_text, k=3):
+    def annotate(self, doc_text, top_k=3):
         """
         Annotate full text of clinical trial report
         `top_k` refers to 'top-k recall'.
@@ -106,8 +108,8 @@ class BiasRobot:
         return {"marginalia": marginalia}
 
 def main():
+    # Sample code to make this run
     import unidecode, codecs, pprint
-
     # Read in example input to the text string
     with codecs.open('tests/example.txt', 'r', 'ISO-8859-1') as f:
         text = f.read()
