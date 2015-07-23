@@ -3,36 +3,46 @@ Automatic extraction of data from clinical trial reports
 
 A simple webserver written in Python which accepts a clinical trial (in plain text/JSON), and returns risk of bias judgements.
 
-## 
+## Systematic review author?
 
+This software is the *web-service* version, meaning it's aimed at people who make systematic review software. 
 
+**For most systematic review authors, if you want to try out RobotReviewer, you'd probably be better using the demo version on our website, available [here](https://robot-reviewer.vortext.systems).** If you like it, you could email the person who maintains your systematic review software a link to this site - they might be interested in adding it.
 
+(Alternatively, authors who are adept at installing unix software from the terminal might like to install this version on their own machines, by following the optional 'Web UI' instructions below).
 
-## Citing us
+## Developers of systematic review software?
 
+You may also use RobotReviewer free of charge, but with the following conditions:
 
-To cite RobotReviewer in publications use:
+1. You display the text, 'Risk of Bias automation by RobotReviewer ([how to cite](https://robotreviewer.vortext.systems))' on the same screen or webpage on which the RobotReviewer results (highlighted text or risk of bias judgements) are displayed.
+2. For web-based tools, the text 'how to cite' should link to our website `https://robotreviewer.vortext.systems)`
+3. For desktop software, you should usually link to the same website. If this is not possible, you may alternately display the text and example citations from the 'How to cite RobotReviewer' section below.
+
+## How to cite RobotReviewer
+
+We offer RobotReviewer free of charge, but we'd be most grateful if you would cite us if you use it. We're academics, and thrive on links and citations!
+
+Getting RobotReviewer widely used and cited helps us obtain the funding to maintain the project and make RobotReviewer better.
+
+It also makes your methods transparent to your readers, and not least we'd love to see where RobotReviewer is used! :)
+
+You can cite RobotReviewer as:
 
 Marshall IJ, Kuiper J, & Wallace BC. RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials. Journal of the American Medical Informatics Association 2015. [doi:10.1093/jamia/ocv044](http://dx.doi.org/10.1093/jamia/ocv044)
 
-   (2015). R: A language and environment for statistical
-  computing. R Foundation for Statistical Computing, Vienna, Austria.
-  URL http://www.R-project.org/.
-
 A BibTeX entry for LaTeX users is
 
-  @Manual{,
-    title = {R: A Language and Environment for Statistical Computing},
-    author = {{R Core Team}},
-    organization = {R Foundation for Statistical Computing},
-    address = {Vienna, Austria},
-    year = {2015},
-    url = {http://www.R-project.org/},
-  }
-
-
-
-
+    @article{RobotReviewer2015,
+      title = {{RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials}},
+      author = {Marshall, Iain J and Kuiper, Jo\"{e}l and Wallace, Byron C},
+      doi = {10.1093/jamia/ocv044},
+      url = {http://dx.doi.org/10.1093/jamia/ocv044},
+      journal = {Journal of the American Medical Informatics Association},
+      year = {2015}
+      month = jun,
+      pages = {ocv044}
+    }
 
 ## Dependencies
 
@@ -49,12 +59,12 @@ RobotReviewer requires the following libraries:
 
     pip install numpy scipy sklearn hickle nltk
 
-
 ## Running
 
 `python robot.py` will start a flask server running on `localhost:5000`. You can run the server in development mode by passing `DEBUG=true python robot.py` which will attempt live code reload.
 
 ## Running the Web UI
+
 The optional web interface is provided by [Vortext](http://vortext.systems) [Spá](https://github.com/vortext/spa).
 It can be installed by running the following commands:
 
@@ -67,7 +77,7 @@ cd -
 python robot.py
 ```
 
-This retrieves the front-end code and compiles pdf.js; and runs the server.
+This retrieves the front-end code, compiles `pdf.js`, and runs the server.
 
 ## Input/output
 
@@ -89,7 +99,16 @@ and it will return something like:
        }, ...
 ```
 
+## Help
+
+Feel free to contact us on [mail@ijmarshall.com](mailto:mail@ijmarshall) with any questions.
+
+## More help!
+
+Our tech consultancy [Vortext](http://vortext.systems/) can help get RobotReviewer running on your server for you, or can provide fully-managed RobotReviewer cloud instances; [contact us](http://vortext.systems/hire-us/) for details.
+
 ## References
+
 1. Marshall, I. J., Kuiper, J., & Wallace, B. C. (2015). RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials. Journal of the American Medical Informatics Association. [[doi]](http://dx.doi.org/10.1093/jamia/ocv044)
 2. Marshall, I., Kuiper, J., & Wallace, B. (2015). Automating Risk of Bias Assessment for Clinical Trials. IEEE Journal of Biomedical and Health Informatics. [[doi]](http://dx.doi.org/10.1109/JBHI.2015.2431314)
 3. Kuiper, J., Marshall, I. J., Wallace, B. C., & Swertz, M. A. (2014). Spá: A Web-Based Viewer for Text Mining in Evidence Based Medicine. In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2014) (Vol. 8726, pp. 452–455). Springer Berlin Heidelberg. [[doi]](http://dx.doi.org/10.1007/978-3-662-44845-8_33)
@@ -98,6 +117,7 @@ and it will return something like:
 ## License
 
 Copyright (c) 2015 Iain Marshall, Joël Kuiper, and Byron Wallace; All rights reserved
+
 
 
 
