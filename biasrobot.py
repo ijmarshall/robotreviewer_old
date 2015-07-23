@@ -37,6 +37,7 @@ class BiasRobot:
 
 
     def annotate(self, doc_text, top_k=3):
+
         """
         Annotate full text of clinical trial report
         `top_k` refers to 'top-k recall'.
@@ -47,12 +48,15 @@ class BiasRobot:
         The validation study assessed the accuracy of top-3 and top-1
         and we suggest top-3 as default
         """
+
+
         
         marginalia = []
         
         doc_sents = sent_tokenize(doc_text)
 
         for domain in self.bias_domains:
+
 
             doc_domains = [domain] * len(doc_sents)
             doc_X_i = izip(doc_sents, doc_domains)
@@ -69,7 +73,7 @@ class BiasRobot:
             self.vec.builder_add_docs(doc_X_i) 
 
             doc_sents_X = self.vec.builder_transform()
-            doc_sents_preds = self.sent_clf.decision_function(doc_sents_X).A1
+            doc_sents_preds = self.sent_clf.decision_function(doc_sents_X)
 
             high_prob_sent_indices = np.argsort(doc_sents_preds)[:-top_k-1:-1] # top k, with no 1 first
 
@@ -104,6 +108,7 @@ class BiasRobot:
                 "annotations": [{"content": sent, "uuid": str(uuid.uuid1())} for sent in high_prob_sents],
                 "description": "**Overall risk of bias prediction**: " + bias_class
                 })
+
 
         return {"marginalia": marginalia}
 
