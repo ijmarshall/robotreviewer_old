@@ -9,7 +9,7 @@ This software is the *web-service* version, meaning it's aimed at people who mak
 
 **For most systematic review authors, if you want to try out RobotReviewer, you'd probably be better using the demo version on our website, available [here](https://robot-reviewer.vortext.systems).** If you like it, you could email the person who maintains your systematic review software a link to this site - they might be interested in adding it.
 
-(Alternatively, authors who are adept at installing unix software from the terminal might like to install this version on their own machines, by following the optional 'Web UI' instructions below).
+(Alternatively, individual authors who are adept at installing unix software from the terminal are free to install this version on their own machines by following the optional 'Web UI' instructions below).
 
 ## Developers of systematic review software?
 
