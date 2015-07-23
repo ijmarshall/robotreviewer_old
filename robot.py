@@ -48,7 +48,27 @@ def main():
 @app.route('/annotate', methods=['POST'])
 def annotate():
     json_data = request.json
+
+    #
+    # ANNOTATION TAKES PLACE HERE
+    # change the line below if you wish to customise or
+    # add a new annotator
+    #
+    # see the BiasRobot class in biasrobot.py
+    # for an example
+    #
+    # By default 'top-3 recall' annotations are done, 
+    # (i.e. the top 3 most likely sentences per bias domain)
+    # This default works well, and was also the value tested
+    # in the validation study (included in this repository at)
+    # /papers/RobotReviewer_validation.pdf
+    #
+    # To change to, e.g. top-1 recall, amend the line below to:
+    # annotations = BOT.annotate(json_data["text"], top_k=1)
+    #
     annotations = BOT.annotate(json_data["text"])
+
+
     return json.dumps(annotations)
 
 if __name__ == '__main__':
