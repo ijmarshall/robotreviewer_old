@@ -17,6 +17,7 @@ reasonably quickly, and makes for feasible memory usage.
 from scipy.sparse import csr_matrix
 import hickle
 import numpy as np
+import scipy
 
 class MiniClassifier:
     """
@@ -34,7 +35,8 @@ class MiniClassifier:
         # to speed up prediction
 
         raw_data = hickle.load(filename)
-        self.coef = csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, 67108864))
+        self.coef = np.array(csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, 67108864)).todense().A1)
+        
         self.intercept = raw_data[0]
 
     def decision_function(self, X):
