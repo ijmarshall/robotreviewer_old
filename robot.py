@@ -37,6 +37,8 @@ log = logging.getLogger(__name__)
 app = Flask(__name__,  static_url_path='')
 app.debug = DEBUG_MODE
 
+log.info("Welcome to RobotReviewer :)")
+
 log.info("loading models")
 BOT = BiasRobot()
 log.info("done loading models")

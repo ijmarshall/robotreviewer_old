@@ -32,10 +32,13 @@ class MiniClassifier:
         # where the latter three items form a csr_matrix sparse
         # representation of the model coefficients
         # This is immediately converted to the dense representation
-        # to speed up prediction
+        # to speed up prediction (the .A1 bit returns the data
+        # contents of the numpy matrix as a numpy array, making
+        # calculations much quicker)
 
         raw_data = hickle.load(filename)
-        self.coef = np.array(csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, 67108864)).todense().A1)
+
+        self.coef = csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, 67108864)).todense().A1
         self.intercept = raw_data[0]
 
     def decision_function(self, X):
