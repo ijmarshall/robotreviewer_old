@@ -25,7 +25,7 @@ require.config({
   shim: {
     'PDFJS': {
       exports: 'PDFJS',
-      deps: ['spa/vendor/pdfjs/generic/web/compatibility',
+      deps: ['spa/vendor/compatibility',
              'spa/vendor/ui_utils'] }
   }
 
