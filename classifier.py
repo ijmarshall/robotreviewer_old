@@ -3,10 +3,10 @@ Lightweight classifier class for linear models trained elsewhere
 Requires use of 2^26 (sparse) hashing vectorizer, which (at the
 moment) is used for all RobotReviewer models.
 
-Loads 'rbt' model files, which are custom for RobotReviewer. These 
+Loads 'rbt' model files, which are custom for RobotReviewer. These
 are gzipped HDF-5 files which contain the model coefficients and
 intercepts in sparse (csr) format. This allows very large models
-(often several gigabytes in memory uncompressed) to be loaded 
+(often several gigabytes in memory uncompressed) to be loaded
 reasonably quickly, and makes for feasible memory usage.
 """
 
@@ -36,7 +36,6 @@ class MiniClassifier:
 
         raw_data = hickle.load(filename)
         self.coef = np.array(csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, 67108864)).todense().A1)
-        
         self.intercept = raw_data[0]
 
     def decision_function(self, X):
