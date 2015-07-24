@@ -5,7 +5,7 @@ A simple webserver written in Python which accepts a clinical trial (in plain te
 
 ## Systematic review author?
 
-This software is the *web-service* version, meaning it's aimed at people who make systematic review software. 
+This software is the *web-service* version, meaning it's aimed at people who make systematic review software.
 
 **For most systematic review authors, if you want to try out RobotReviewer, you'd probably be better using the demo version on our website, available [here](https://robot-reviewer.vortext.systems).** If you like it, you could email the person who maintains your systematic review software a link to this site - they might be interested in adding it.
 
@@ -70,14 +70,10 @@ It can be installed by running the following commands:
 
 ```bash
 git submodule update --init --recursive
-cd static/scripts/spa/pdfjs
-npm install
-node make generic
-cd -
 python robot.py
 ```
 
-This retrieves the front-end code, compiles `pdf.js`, and runs the server.
+This retrieves the front-end code, and runs the server.
 
 ## Input/output
 
@@ -117,7 +113,3 @@ Our tech consultancy [Vortext](http://vortext.systems/) can help get RobotReview
 ## License
 
 Copyright (c) 2015 Iain Marshall, Joël Kuiper, and Byron Wallace; All rights reserved
-
-
-
-
