@@ -1,8 +1,9 @@
 # RobotReviewer
-[![DOI](https://zenodo.org/badge/15498/ijmarshall/robotreviewer.svg)](https://zenodo.org/badge/latestdoi/15498/ijmarshall/robotreviewer)
 Automatic extraction of data from clinical trial reports
 
 A simple webserver written in Python which accepts a clinical trial (in plain text/JSON), and returns risk of bias judgements.
+
+The current release has a DOI: [![DOI](https://zenodo.org/badge/15498/ijmarshall/robotreviewer.svg)](https://zenodo.org/badge/latestdoi/15498/ijmarshall/robotreviewer)
 
 ## Systematic review author?
 
@@ -17,7 +18,7 @@ This software is the *web-service* version, meaning it's aimed at people who mak
 You may also use RobotReviewer free of charge, but with the following conditions:
 
 1. You display the text, 'Risk of Bias automation by RobotReviewer ([how to cite](http://vortext.systems/robotreviewer))' on the same screen or webpage on which the RobotReviewer results (highlighted text or risk of bias judgements) are displayed.
-2. For web-based tools, the text 'how to cite' should link to our website `http://vortext.systems/robotreviewer)`
+2. For web-based tools, the text 'how to cite' should link to our website `http://vortext.systems/robotreviewer`
 3. For desktop software, you should usually link to the same website. If this is not possible, you may alternately display the text and example citations from the 'How to cite RobotReviewer' section below.
 
 ## How to cite RobotReviewer
