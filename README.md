@@ -1,4 +1,5 @@
 # RobotReviewer
+[![DOI](https://zenodo.org/badge/15498/ijmarshall/robotreviewer.svg)](https://zenodo.org/badge/latestdoi/15498/ijmarshall/robotreviewer)
 Automatic extraction of data from clinical trial reports
 
 A simple webserver written in Python which accepts a clinical trial (in plain text/JSON), and returns risk of bias judgements.
