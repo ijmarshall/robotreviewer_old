@@ -95,6 +95,20 @@ and it will return something like:
        }, ...
 ```
 
+## Running as a Python module
+
+We will add full python module functionality to a future relase. However, the current code can easily be called directly from existing python code as follows:
+
+```python
+import biasrobot # from the robotreviewer root directory
+
+bot = biasrobot.BiasRobot()
+text = "Put the full text of a clinical trial in here..."
+annotations = bot.annoate(text)
+```
+
+Where the BiasRobot.annotate() method returns a "marginalia" dict of the same structure as the JSON example above.
+
 ## Help
 
 Feel free to contact us on [mail@ijmarshall.com](mailto:mail@ijmarshall) with any questions.
