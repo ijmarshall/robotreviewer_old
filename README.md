@@ -116,7 +116,7 @@ Feel free to contact us on [mail@ijmarshall.com](mailto:mail@ijmarshall) with an
 ## More help!
 
 Our tech consultancy [Vortext](http://vortext.systems/) can help get RobotReviewer running on your server for you, or can provide fully-managed RobotReviewer cloud instances; [contact us](http://vortext.systems/hire-us/) for details.
-
+p
 ## References
 
 1. Marshall, I. J., Kuiper, J., & Wallace, B. C. (2015). RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials. Journal of the American Medical Informatics Association. [[doi]](http://dx.doi.org/10.1093/jamia/ocv044)
