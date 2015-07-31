@@ -19,6 +19,8 @@ Marshall IJ, Kuiper J, & Wallace BC. RobotReviewer: evaluation of a system for a
 
 import json
 import uuid
+import os
+
 from nltk.tokenize import sent_tokenize
 from classifier import MiniClassifier
 from vectorizer import ModularVectorizer
@@ -28,11 +30,13 @@ import numpy as np
 class BiasRobot:
 
     def __init__(self):
-        
-        self.sent_clf = MiniClassifier('robots/sent_model_o.rbt')
-        self.doc_clf = MiniClassifier('robots/doc_model_o.rbt')
+        abs_dir = os.path.dirname(__file__) # absolute path to here
+
+        self.sent_clf = MiniClassifier(os.path.join(abs_dir, 'robots/sent_model_o.rbt'))
+        self.doc_clf = MiniClassifier(os.path.join(abs_dir, 'robots/doc_model_o.rbt'))
+
         self.vec = ModularVectorizer(norm=None, non_negative=True, binary=True, ngram_range=(1, 2), n_features=2**26)
-    
+
         self.bias_domains = ['Random sequence generation', 'Allocation concealment', 'Blinding of participants and personnel', 'Blinding of outcome assessment', 'Incomplete outcome data', 'Selective reporting']
 
 
@@ -50,9 +54,9 @@ class BiasRobot:
         """
 
 
-        
+
         marginalia = []
-        
+
         doc_sents = sent_tokenize(doc_text)
 
         for domain in self.bias_domains:
@@ -67,10 +71,10 @@ class BiasRobot:
             self.vec.builder_clear()
 
             # uni-bigrams
-            self.vec.builder_add_docs(doc_sents) 
+            self.vec.builder_add_docs(doc_sents)
 
             # uni-bigrams/domain interactions
-            self.vec.builder_add_docs(doc_X_i) 
+            self.vec.builder_add_docs(doc_X_i)
 
             doc_sents_X = self.vec.builder_transform()
             doc_sents_preds = self.sent_clf.decision_function(doc_sents_X)
@@ -92,16 +96,16 @@ class BiasRobot:
             self.vec.builder_add_docs([doc_text])
 
             # uni-bigrams/domain interaction
-            self.vec.builder_add_docs([(doc_text, domain)]) 
+            self.vec.builder_add_docs([(doc_text, domain)])
 
             # uni-bigrams/relevance interaction
             self.vec.builder_add_docs([(high_prob_sents_j, sent_domain_interaction)])
-        
+
             X = self.vec.builder_transform()
 
             bias_pred = self.doc_clf.predict(X)
             bias_class = ["high/unclear", "low"][bias_pred[0]]
-            
+
             marginalia.append({
                 "type": "Risk of Bias",
                 "title": domain,
