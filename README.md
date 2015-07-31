@@ -106,7 +106,7 @@ import biasrobot # from the robotreviewer root directory
 
 bot = biasrobot.BiasRobot()
 text = "Put the full text of a clinical trial in here..."
-annotations = bot.annoate(text)
+annotations = bot.annotate(text)
 ```
 
 Where the BiasRobot.annotate() method returns a "marginalia" dict of the same structure as the JSON example above.
