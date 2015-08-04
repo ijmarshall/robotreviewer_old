@@ -27,7 +27,7 @@ from nltk.tokenize import sent_tokenize
 from classifier import MiniClassifier
 from itertools import izip
 import numpy as np
-
+from pico_vectorizer import PICO_vectorizer
 
 class PICORobot:
 
@@ -70,7 +70,6 @@ class PICORobot:
             self.PICO_domains[:1], self.models[:1], self.domain_vectorizers[:1]):
 
             doc_sents_X = vectorizer.transform(doc_sents, extra_features=positional_features)
-            pdb.set_trace()
             doc_sents_preds = model.decision_function(doc_sents_X)
             high_prob_sent_indices = np.argsort(doc_sents_preds)[:-top_k-1:-1] # top k, with no 1 first
             high_prob_sents = [doc_sents[i] for i in high_prob_sent_indices]
