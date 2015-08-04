@@ -12,7 +12,8 @@ reasonably quickly, and makes for feasible memory usage.
 
 # Authors:  Iain Marshall <mail@ijmarshall.com>
 #           Joel Kuiper <me@joelkuiper.com>
-#           Byron Wallce <byron.wallace@utexas.edu>
+#           Byron Wallace <byron.wallace@utexas.edu>
+import pdb
 
 from scipy.sparse import csr_matrix
 import hickle
@@ -25,20 +26,25 @@ class MiniClassifier:
     Does only binary prediction using externally trained data
     """
 
-    def __init__(self, filename):
+    def __init__(self, filename, coef_dim=2**26):
+        '''
+        Models are HDF files via hickle with 4 item tuple
+                (intercept, data, indices, indptr)
+        where the latter three items form a csr_matrix sparse
+        representation of the model coefficients.
+        This is immediately converted to the dense representation
+        to speed up prediction (the .A1 bit returns the data
+        contents of the numpy matrix as a numpy array, making
+        calculations much quicker). 
 
-        # Models are HDF files via hickle with 4 item tuple
-        # (intercept, data, indices, indptr)
-        # where the latter three items form a csr_matrix sparse
-        # representation of the model coefficients
-        # This is immediately converted to the dense representation
-        # to speed up prediction (the .A1 bit returns the data
-        # contents of the numpy matrix as a numpy array, making
-        # calculations much quicker)
-
+        Note that the model coefficients must be explicitly
+        specified (coef_dim); the 2**26 is for the multi-task
+        model, which comprises 67108864 predictors (!)
+        '''
         raw_data = hickle.load(filename)
+        
+        self.coef = csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, coef_dim)).todense().A1
 
-        self.coef = csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, 67108864)).todense().A1
         self.intercept = raw_data[0]
 
     def decision_function(self, X):
