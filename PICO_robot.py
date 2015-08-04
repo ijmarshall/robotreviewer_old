@@ -27,8 +27,18 @@ from nltk.tokenize import sent_tokenize
 from classifier import MiniClassifier
 from itertools import izip
 import numpy as np
-from pico_vectorizer import PICO_vectorizer
+import pico_vectorizer
+import drugbank
+import sys
 
+###
+# a little bit dirty, sorry.
+sys.modules['cochranenlp.ml.pico_vectorizer'] = pico_vectorizer
+sys.modules['cochranenlp.textprocessing.drugbank'] = drugbank
+
+#import pico_vectorizer as cochranenlp.ml.pico_vectorizer
+
+from pico_vectorizer import PICO_vectorizer 
 class PICORobot:
 
     def __init__(self):
