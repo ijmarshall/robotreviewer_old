@@ -36,9 +36,8 @@ import sys
 sys.modules['cochranenlp.ml.pico_vectorizer'] = pico_vectorizer
 sys.modules['cochranenlp.textprocessing.drugbank'] = drugbank
 
-#import pico_vectorizer as cochranenlp.ml.pico_vectorizer
-
 from pico_vectorizer import PICO_vectorizer 
+
 class PICORobot:
 
     def __init__(self):
@@ -47,19 +46,34 @@ class PICORobot:
         '''
         
         ### @TODO! 
-
+        '''
         self.P_clf = MiniClassifier("robots/PICO/P_model.rbt", coef_dim=50019)
-
         P_vec_f = bz2.BZ2File("robots/PICO/P_vectorizer.pbz2", 'r')
         ### 
         # this is a bit slow. sorry.
         print "unpickling P vectorizer..."
         self.P_vec = pickle.load(P_vec_f)
         print "ok!"
-        
-        self.models = [self.P_clf, None, None]
-        self.domain_vectorizers = [self.P_vec, None, None] # @TODO TODO
+        '''
+        self.P_clf, self.P_vec = PICORobot._load_model_and_v(
+            "robots/PICO/P_model.rbt", "robots/PICO/P_vectorizer.pbz2")
+        self.I_clf, self.I_vec = PICORobot._load_model_and_v(
+            "robots/PICO/I_model.rbt", "robots/PICO/I_vectorizer.pbz2")
+        self.O_clf, self.O_vec = PICORobot._load_model_and_v(
+            "robots/PICO/O_model.rbt", "robots/PICO/O_vectorizer.pbz2")
+
+        self.models = [self.P_clf, self.I_clf, self.O_clf]
+        self.domain_vectorizers = [self.P_vec, self.I_vec, self.O_vec]
         self.PICO_domains = ["Population", "Intervention", "Outcomes"]
+
+    @staticmethod
+    def _load_model_and_v(m_path, v_path, coef_dim=50019):
+        m = MiniClassifier(m_path, coef_dim=50019)
+        print "loading vectorizer: %s ..." % v_path
+        v_file = bz2.BZ2File(v_path, 'r')
+        print "ok."
+        v = pickle.load(v_file)
+        return m, v
 
 
     def annotate(self, doc_text, top_k=3):
@@ -77,7 +91,7 @@ class PICORobot:
         ###
         # @TODO just population (P) for now
         for domain, model, vectorizer in zip(
-            self.PICO_domains[:1], self.models[:1], self.domain_vectorizers[:1]):
+            self.PICO_domains, self.models, self.domain_vectorizers):
 
             doc_sents_X = vectorizer.transform(doc_sents, extra_features=positional_features)
             doc_sents_preds = model.decision_function(doc_sents_X)
