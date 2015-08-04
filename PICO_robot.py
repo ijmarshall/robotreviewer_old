@@ -103,7 +103,7 @@ def main():
     with codecs.open('tests/example.txt', 'r', 'ISO-8859-1') as f:
         text = f.read()
 
-    # Make a BiasRobot, and use it to do Risk of Bias predictions
+    # make a PICO robot, use it to make predictions
     robot = PICORobot()
     annotations = robot.annotate(text)
 
