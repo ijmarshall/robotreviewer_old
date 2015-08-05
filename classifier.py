@@ -55,6 +55,19 @@ class MiniClassifier:
         scores = self.decision_function(X)
         return (scores>0).astype(np.int)
 
+    def predict_proba(self, X):
+        '''
+        Note! This really only makes sense if the objective 
+        for estimating w included a log-loss! Otherwise need 
+        to calibrate.
+        '''
+        def sigmoid(z):
+            s = 1.0 / (1.0 + np.exp(-1.0 * z))
+            return s
+        scores = self.decision_function(X)
+        return sigmoid(scores)
+
+
 def main():
     pass
 

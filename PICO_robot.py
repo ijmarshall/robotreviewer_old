@@ -76,11 +76,13 @@ class PICORobot:
         return m, v
 
 
-    def annotate(self, doc_text, top_k=3):
+    def annotate(self, doc_text, top_k=10, min_k=3, alpha=.7):
 
         """
         Annotate full text of clinical trial report
         `top_k` refers to 'top-k recall'.
+
+        Default alpha was totally scientifically set. 
         """   
         marginalia = []
         
@@ -94,10 +96,27 @@ class PICORobot:
             self.PICO_domains, self.models, self.domain_vectorizers):
 
             doc_sents_X = vectorizer.transform(doc_sents, extra_features=positional_features)
+            doc_sents_preds = model.predict_proba(doc_sents_X)
+            high_prob_sent_indices = np.argsort(doc_sents_preds)[:-top_k-1:-1]
+
+            # filter
+            filtered_high_prob_sent_indices = \
+                high_prob_sent_indices[doc_sents_preds[high_prob_sent_indices] >= alpha]
+
+            #pdb.set_trace()
+            if len(filtered_high_prob_sent_indices) < min_k:
+                high_prob_sent_indices = high_prob_sent_indices[:min_k]
+            else: 
+                high_prob_sent_indices = filtered_high_prob_sent_indices
+
+            high_prob_sents = [doc_sents[i] for i in high_prob_sent_indices]
+            
+
+            '''
             doc_sents_preds = model.decision_function(doc_sents_X)
             high_prob_sent_indices = np.argsort(doc_sents_preds)[:-top_k-1:-1] # top k, with no 1 first
-            high_prob_sents = [doc_sents[i] for i in high_prob_sent_indices]
-
+            
+            '''
             marginalia.append({
                 "type": "PICO",
                 "title": domain,
