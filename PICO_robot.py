@@ -31,6 +31,9 @@ import pico_vectorizer
 import drugbank
 import sys
 import os
+import logging
+
+log = logging.getLogger(__name__)
 
 ###
 # a little bit dirty, sorry.
@@ -71,10 +74,11 @@ class PICORobot:
     def _load_model_and_v(m_path, v_path, coef_dim=50019):
         abs_dir = os.path.dirname(__file__) # absolute path to here
         m = MiniClassifier(os.path.join(abs_dir, m_path), coef_dim=50019)
-        print "loading vectorizer: %s ..." % v_path
+        log.info("loading vectorizer: %s ..." % v_path)
         v_file = bz2.BZ2File(os.path.join(abs_dir, v_path), 'r')
-        print "ok."
+        log.info("unzipping ok.")
         v = pickle.load(v_file)
+        log.info("loading pickle")
         return m, v
 
 
