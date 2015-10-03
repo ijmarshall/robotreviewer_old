@@ -43,6 +43,7 @@ class MiniClassifier:
         self.coef = csr_matrix((raw_data['data'], raw_data['indices'], raw_data['indptr']), shape=(1, 67108864)).todense().A1
         self.intercept = raw_data['intercept']
 
+
     def decision_function(self, X):
         scores = X.dot(self.coef.T) + self.intercept
         return scores
