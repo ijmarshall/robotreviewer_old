@@ -32,8 +32,8 @@ class BiasRobot:
     def __init__(self):
         abs_dir = os.path.dirname(__file__) # absolute path to here
 
-        self.sent_clf = MiniClassifier(os.path.join(abs_dir, 'robots/sent_model_o.rbt'))
-        self.doc_clf = MiniClassifier(os.path.join(abs_dir, 'robots/doc_model_o.rbt'))
+        self.sent_clf = MiniClassifier(os.path.join(abs_dir, 'robots/sent_model_np.rbt.npz'))
+        self.doc_clf = MiniClassifier(os.path.join(abs_dir, 'robots/doc_model_np.rbt.npz'))
 
         self.vec = ModularVectorizer(norm=None, non_negative=True, binary=True, ngram_range=(1, 2), n_features=2**26)
 

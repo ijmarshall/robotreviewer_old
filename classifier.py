@@ -36,10 +36,11 @@ class MiniClassifier:
         # contents of the numpy matrix as a numpy array, making
         # calculations much quicker)
 
-        raw_data = hickle.load(filename)
+        # raw_data = hickle.load(filename)
+        raw_data = np.load(filename)
 
-        self.coef = csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, 67108864)).todense().A1
-        self.intercept = raw_data[0]
+        self.coef = csr_matrix((raw_data['data'], raw_data['indices'], raw_data['indptr']), shape=(1, 67108864)).todense().A1
+        self.intercept = raw_data['intercept']
 
     def decision_function(self, X):
         scores = X.dot(self.coef.T) + self.intercept
