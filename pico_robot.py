@@ -28,7 +28,7 @@ from classifier import MiniClassifier
 from itertools import izip
 import numpy as np
 import pico_vectorizer
-import drugbank
+# import drugbank
 import sys
 import os
 import logging
@@ -38,7 +38,7 @@ log = logging.getLogger(__name__)
 ###
 # a little bit dirty, sorry.
 sys.modules['cochranenlp.ml.pico_vectorizer'] = pico_vectorizer
-sys.modules['cochranenlp.textprocessing.drugbank'] = drugbank
+# sys.modules['cochranenlp.textprocessing.drugbank'] = drugbank
 
 from pico_vectorizer import PICO_vectorizer
 
@@ -60,11 +60,11 @@ class PICORobot:
         print "ok!"
         '''
         self.P_clf, self.P_vec = PICORobot._load_model_and_v(
-            "robots/PICO/P_model.rbt", "robots/PICO/P_vectorizer.pbz2")
+            "robots/PICO/P_model.rbt", "robots/pico/P_vectorizer.pbz2")
         self.I_clf, self.I_vec = PICORobot._load_model_and_v(
-            "robots/PICO/I_model.rbt", "robots/PICO/I_vectorizer.pbz2")
+            "robots/PICO/I_model.rbt", "robots/pico/I_vectorizer.pbz2")
         self.O_clf, self.O_vec = PICORobot._load_model_and_v(
-            "robots/PICO/O_model.rbt", "robots/PICO/O_vectorizer.pbz2")
+            "robots/PICO/O_model.rbt", "robots/pico/O_vectorizer.pbz2")
 
         self.models = [self.P_clf, self.I_clf, self.O_clf]
         self.domain_vectorizers = [self.P_vec, self.I_vec, self.O_vec]
