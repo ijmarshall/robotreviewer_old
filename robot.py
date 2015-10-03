@@ -24,8 +24,8 @@ from flask import Flask, json
 from flask import redirect, url_for, jsonify
 from flask import request
 
-from biasrobot import BiasRobot
-from PICO_robot import PICORobot
+from bias_robot import BiasRobot
+from pico_robot import PICORobot
 
 def str2bool(v):
   return v.lower() in ("yes", "true", "t", "1")
@@ -42,12 +42,11 @@ app.debug = DEBUG_MODE
 log.info("Welcome to RobotReviewer ;)")
 
 log.info("loading models")
-BOT = BiasRobot()
+bias_bot = BiasRobot()
 # bcw: slow, due to vectorizers... but only has
 # to happen at start-up, so...
-PICO_bot = PICORobot()
+pico_bot = PICORobot()
 log.info("done loading models")
-
 
 @app.route('/')
 def main():
@@ -74,8 +73,9 @@ def annotate():
     # To change to, e.g. top-1 recall, amend the line below to:
     # annotations = BOT.annotate(json_data["text"], top_k=1)
     #
-    annotations = BOT.annotate(json_data["text"])
-    PICO_annotations = PICO_bot.annotate(json_data["text"])
+    annotations = bias_bot.annotate(json_data["text"])
+    pico_annotations = pico_bot.annotate(json_data["text"])
+
     # merge
     annotations['marginalia'].extend(PICO_annotations['marginalia'])
     return json.dumps(annotations)

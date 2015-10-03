@@ -25,26 +25,28 @@ class MiniClassifier:
     Lightweight classifier
     Does only binary prediction using externally trained data
     """
-
     def __init__(self, filename, coef_dim=2**26):
         '''
-        Models are HDF files via hickle with 4 item tuple
-                (intercept, data, indices, indptr)
+        Models are compressed numpy files
+        http://docs.scipy.org/doc/numpy/reference/generated/numpy.savez_compressed.html
+        with the following keys:
+            intercept, data, indices, indptr
         where the latter three items form a csr_matrix sparse
-        representation of the model coefficients.
+        representation of the model coefficients
         This is immediately converted to the dense representation
         to speed up prediction (the .A1 bit returns the data
         contents of the numpy matrix as a numpy array, making
-        calculations much quicker). 
+        calculations much quicker)
+
+        raw_data = np.load(filename)
 
         Note that the model coefficients must be explicitly
         specified (coef_dim); the 2**26 is for the multi-task
         model, which comprises 67108864 predictors (!)
         '''
-        raw_data = hickle.load(filename)
-        
-        self.coef = csr_matrix((raw_data[1], raw_data[2], raw_data[3]), shape=(1, coef_dim)).todense().A1
-
+        raw_data = np.load(filename)
+        self.coef = csr_matrix((raw_data['data'], raw_data['indices'], raw_data['indptr']), shape=(1, coef_dim)).todense().A1
+        self.intercept = raw_data['intercept']
         self.intercept = raw_data[0]
 
     def decision_function(self, X):
