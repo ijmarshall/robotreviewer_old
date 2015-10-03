@@ -27,8 +27,10 @@ class MiniClassifier:
 
     def __init__(self, filename):
 
-        # Models are HDF files via hickle with 4 item tuple
-        # (intercept, data, indices, indptr)
+        # Models are compressed numpy files
+        # http://docs.scipy.org/doc/numpy/reference/generated/numpy.savez_compressed.html
+        # with the following keys:
+        #   intercept, data, indices, indptr
         # where the latter three items form a csr_matrix sparse
         # representation of the model coefficients
         # This is immediately converted to the dense representation
@@ -36,7 +38,6 @@ class MiniClassifier:
         # contents of the numpy matrix as a numpy array, making
         # calculations much quicker)
 
-        # raw_data = hickle.load(filename)
         raw_data = np.load(filename)
 
         self.coef = csr_matrix((raw_data['data'], raw_data['indices'], raw_data['indptr']), shape=(1, 67108864)).todense().A1
