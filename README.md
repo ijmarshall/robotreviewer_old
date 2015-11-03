@@ -113,7 +113,7 @@ Where the BiasRobot.annotate() method returns a "marginalia" dict of the same st
 
 ## Help
 
-Feel free to contact us on [mail@ijmarshall.com](mailto:mail@ijmarshall) with any questions.
+Feel free to contact us on [mail@ijmarshall.com](mailto:mail@ijmarshall.com) with any questions.
 
 ## More help!
 
