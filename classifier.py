@@ -47,7 +47,7 @@ class MiniClassifier:
         raw_data = np.load(filename)
         self.coef = csr_matrix((raw_data['data'], raw_data['indices'], raw_data['indptr']), shape=(1, coef_dim)).todense().A1
         self.intercept = raw_data['intercept']
-        self.intercept = raw_data[0]
+        
 
     def decision_function(self, X):
         scores = X.dot(self.coef.T) + self.intercept

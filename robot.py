@@ -77,7 +77,7 @@ def annotate():
     pico_annotations = pico_bot.annotate(json_data["text"])
 
     # merge
-    annotations['marginalia'].extend(PICO_annotations['marginalia'])
+    annotations['marginalia'].extend(pico_annotations['marginalia'])
     return json.dumps(annotations)
 
 if __name__ == '__main__':

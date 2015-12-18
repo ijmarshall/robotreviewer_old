@@ -51,8 +51,8 @@ class PICORobot:
 
         ### @TODO!
         '''
-        self.P_clf = MiniClassifier("robots/PICO/P_model.rbt", coef_dim=50019)
-        P_vec_f = bz2.BZ2File("robots/PICO/P_vectorizer.pbz2", 'r')
+        self.P_clf = MiniClassifier("robots/pico/P_model.rbt", coef_dim=50019)
+        P_vec_f = bz2.BZ2File("robots/pico/P_vectorizer.pbz2", 'r')
         ###
         # this is a bit slow. sorry.
         print "unpickling P vectorizer..."
@@ -60,11 +60,11 @@ class PICORobot:
         print "ok!"
         '''
         self.P_clf, self.P_vec = PICORobot._load_model_and_v(
-            "robots/PICO/P_model.rbt", "robots/pico/P_vectorizer.pbz2")
+            "robots/pico/P_model.npz", "robots/pico/P_vectorizer.pbz2")
         self.I_clf, self.I_vec = PICORobot._load_model_and_v(
-            "robots/PICO/I_model.rbt", "robots/pico/I_vectorizer.pbz2")
+            "robots/pico/I_model.npz", "robots/pico/I_vectorizer.pbz2")
         self.O_clf, self.O_vec = PICORobot._load_model_and_v(
-            "robots/PICO/O_model.rbt", "robots/pico/O_vectorizer.pbz2")
+            "robots/pico/O_model.npz", "robots/pico/O_vectorizer.pbz2")
 
         self.models = [self.P_clf, self.I_clf, self.O_clf]
         self.domain_vectorizers = [self.P_vec, self.I_vec, self.O_vec]
