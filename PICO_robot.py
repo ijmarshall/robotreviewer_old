@@ -90,8 +90,7 @@ class PICORobot:
         # quintile indicators (w.r.t. document) for sentences
         positional_features = PICORobot._get_positional_features(doc_sents)
        
-        ###
-        # @TODO just population (P) for now
+ 
         for domain, model, vectorizer in zip(
             self.PICO_domains, self.models, self.domain_vectorizers):
 

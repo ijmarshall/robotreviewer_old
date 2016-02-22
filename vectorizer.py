@@ -12,6 +12,10 @@ from itertools import izip
 import numpy as np
 import scipy
 
+# BCW: TODO
+class ModularPICOVectorizer(object):
+    pass 
+
 
 class ModularVectorizer(object):
 

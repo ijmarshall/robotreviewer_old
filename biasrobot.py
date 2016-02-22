@@ -50,13 +50,16 @@ class BiasRobot:
         """
 
 
-        
-        marginalia = []
-        
+        '''
+        domain_vectorizers[domain] = PICO_vectorizer()
+        sentences_y_dict[domain]["X"] = domain_vectorizers[domain].fit_transform(all_sentences, 
+                                            extra_features=sentences_y_dict[domain]["positional_features"])
+
+        '''
+        marginalia = []        
         doc_sents = sent_tokenize(doc_text)
 
         for domain in self.bias_domains:
-
 
             doc_domains = [domain] * len(doc_sents)
             doc_X_i = izip(doc_sents, doc_domains)
@@ -111,6 +114,8 @@ class BiasRobot:
 
 
         return {"marginalia": marginalia}
+
+
 
 def main():
     # Sample code to make this run
