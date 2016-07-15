@@ -50,34 +50,32 @@ A BibTeX entry for LaTeX users is
 1. Ensure you have a working version of Python 2.7. We recommend using Python from the [Anaconda Python distribution](https://www.continuum.io/downloads) for a quicker and more reliable experience. However, if you have Python 2.7 already installed that will probably work fine too.
 
 2. Get a copy of the RobotReviewer repo, and go into that directory
-
-```bash
-git clone https://github.com/ijmarshall/robotreviewer.git
-cd robotreviewer
-```
+    ```bash
+    git clone https://github.com/ijmarshall/robotreviewer.git
+    cd robotreviewer
+    ```
 
 3. Install the PDF web viewer (optional --- this is not needed if you want to just use the REST API)
-
-```bash
-git submodule update --init --recursive
-```
+    ```bash
+    git submodule update --init --recursive
+    ```
 
 4. Install the Python libraries that RobotReviewer needs - do one of the following.
     a. If you are using Anaconda:
-```bash
-conda install flask numpy scipy scikit-learn nltk
-```
+        ```bash
+        conda install flask numpy scipy scikit-learn nltk
+        ```
 
     b. For everyone else:
-```bash
-pip install flask numpy scipy scikit-learn nltk
-```
+        ```bash
+        pip install flask numpy scipy scikit-learn nltk
+        ```
 
 5. Install the sentence processing data:
-```bash
-python -m nltk.downloader punkt
-```
-  
+    ```bash
+    python -m nltk.downloader punkt
+    ```
+      
 
 ## Running
 
