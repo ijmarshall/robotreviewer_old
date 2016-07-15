@@ -15,7 +15,6 @@ reasonably quickly, and makes for feasible memory usage.
 #           Byron Wallce <byron.wallace@utexas.edu>
 
 from scipy.sparse import csr_matrix
-import hickle
 import numpy as np
 import scipy
 
