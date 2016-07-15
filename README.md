@@ -63,11 +63,13 @@ A BibTeX entry for LaTeX users is
 4. Install the Python libraries that RobotReviewer needs - do one of the following.
 
     a. If you are using Anaconda:
+
         ```bash
         conda install flask numpy scipy scikit-learn nltk
         ```
 
     b. For everyone else:
+    
         ```bash
         pip install flask numpy scipy scikit-learn nltk
         ```
