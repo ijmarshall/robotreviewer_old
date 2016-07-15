@@ -15,19 +15,17 @@ This software is the *web-service* version, meaning it's aimed at people who mak
 
 ## Developers of systematic review software?
 
-You may also use RobotReviewer free of charge, but with the following conditions:
+RobotReviewer is open source and free to use under the GPL licence, version 3.0 (see the LICENCE.txt file in this repository).
 
-1. You display the text, 'Risk of Bias automation by RobotReviewer ([how to cite](http://vortext.systems/robotreviewer))' on the same screen or webpage on which the RobotReviewer results (highlighted text or risk of bias judgements) are displayed.
-2. For web-based tools, the text 'how to cite' should link to our website `http://vortext.systems/robotreviewer`
-3. For desktop software, you should usually link to the same website. If this is not possible, you may alternately display the text and example citations from the 'How to cite RobotReviewer' section below.
-
-## How to cite RobotReviewer
-
-We offer RobotReviewer free of charge, but we'd be most grateful if you would cite us if you use it. We're academics, and thrive on links and citations!
-
-Getting RobotReviewer widely used and cited helps us obtain the funding to maintain the project and make RobotReviewer better.
+We offer RobotReviewer free of charge, but we'd be most grateful if you would cite us if you use it. We're academics, and thrive on links and citations! Getting RobotReviewer widely used and cited helps us obtain the funding to maintain the project and make RobotReviewer better.
 
 It also makes your methods transparent to your readers, and not least we'd love to see where RobotReviewer is used! :)
+
+We'd appreciate it you could:
+
+1. Display the text, 'Risk of Bias automation by RobotReviewer ([how to cite](http://vortext.systems/robotreviewer))' on the same screen or webpage on which the RobotReviewer results (highlighted text or risk of bias judgements) are displayed.
+2. For web-based tools, the text 'how to cite' should link to our website `http://vortext.systems/robotreviewer`
+3. For desktop software, you should usually link to the same website. If this is not possible, you may alternately display the text and example citations from the 'How to cite RobotReviewer' section below.
 
 You can cite RobotReviewer as:
 
@@ -46,42 +44,51 @@ A BibTeX entry for LaTeX users is
       pages = {ocv044}
     }
 
-## Dependencies
 
-RobotReviewer requires the following libraries:
+## Installation
 
-    sklearn
-    numpy
-    scipy
-    hickle
-    nltk
+1. Ensure you have a working version of Python 2.7. We recommend using Python from the [Anaconda Python distribution](https://www.continuum.io/downloads) for a quicker and more reliable experience. However, if you have Python 2.7 already installed that will probably work fine too.
 
-`nltk` and `sklearn` are not used much, and will be removed in time
+2. Get a copy of the RobotReviewer repo, and go into that directory
 
+    ```bash
+    git clone https://github.com/ijmarshall/robotreviewer.git
+    cd robotreviewer
+    ```
 
-    pip install numpy scipy sklearn hickle nltk
+3. Install the PDF web viewer (optional --- this is not needed if you want to just use the REST API)
+
+    ```bash
+    git submodule update --init --recursive
+    ```
+
+4. Install the Python libraries that RobotReviewer needs - do one of the following.
+a. If you are using Anaconda:
+
+```bash
+conda install flask numpy scipy scikit-learn nltk
+```
+
+b. For everyone else:
+```bash
+pip install flask numpy scipy scikit-learn nltk
+```
+
+5. Install the sentence processing data:
+```bash
+python -m nltk.downloader punkt
+```
+  
 
 ## Running
 
 `python robot.py` will start a flask server running on `localhost:5000`. You can run the server in development mode by passing `DEBUG=true python robot.py` which will attempt live code reload.
 
-## Running the Web UI
-
-The optional web interface is provided by [Vortext](http://vortext.systems) [Spá](https://github.com/vortext/spa).
-It can be installed by running the following commands:
-
-```bash
-git submodule update --init --recursive
-python robot.py
-```
-
-This retrieves the front-end code, and runs the server.
-
-## Input/output
+## REST API
 
 Send some JSON by POST to /annotate such as:
 ```json
-{"text": "Put the full text of a clinical trial in here"}
+{"text": "Put the full text of a clinical trial extracted from the PDF in here"}
 ```
 
 and it will return something like:
@@ -113,11 +120,7 @@ Where the BiasRobot.annotate() method returns a "marginalia" dict of the same st
 
 ## Help
 
-Feel free to contact us on [mail@ijmarshall.com](mailto:mail@ijmarshall.com) with any questions.
-
-## More help!
-
-Our tech consultancy [Vortext](http://vortext.systems/) can help get RobotReviewer running on your server for you, or can provide fully-managed RobotReviewer cloud instances; [contact us](http://vortext.systems/hire-us/) for details.
+Feel free to contact us on [mail@ijmarshall.com](mailto:mail@ijmarshall) with any questions.
 
 ## References
 
@@ -126,6 +129,4 @@ Our tech consultancy [Vortext](http://vortext.systems/) can help get RobotReview
 3. Kuiper, J., Marshall, I. J., Wallace, B. C., & Swertz, M. A. (2014). Spá: A Web-Based Viewer for Text Mining in Evidence Based Medicine. In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2014) (Vol. 8726, pp. 452–455). Springer Berlin Heidelberg. [[doi]](http://dx.doi.org/10.1007/978-3-662-44845-8_33)
 4. Marshall, I. J., Kuiper, J., & Wallace, B. C. (2014). Automating Risk of Bias Assessment for Clinical Trials. In Proceedings of the ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) (pp. 88–95). ACM. [[doi]](http://dx.doi.org/10.1145/2649387.2649406)
 
-## License
-
-Copyright (c) 2015 Iain Marshall, Joël Kuiper, and Byron Wallace; All rights reserved
+Copyright (c) 2015 Iain Marshall, Joël Kuiper, and Byron Wallace
