@@ -80,7 +80,13 @@ A BibTeX entry for LaTeX users is
 
 ## Running
 
-`python robot.py` will start a flask server running on `localhost:5000`. You can run the server in development mode by passing `DEBUG=true python robot.py` which will attempt live code reload.
+The following
+
+```bash
+python robot.py
+```
+
+will start a flask server running on `http://localhost:5000`. You can run the server in development mode by passing `DEBUG=true python robot.py`.
 
 ## REST API
 
