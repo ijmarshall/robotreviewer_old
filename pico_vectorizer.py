@@ -13,7 +13,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 
 #from cochranenlp.textprocessing.drugbank import Drugbank
-from drugbank import Drugbank
+from lexicons.drugbank import Drugbank
 
 # PICO_vectorizer
 #   a vectorizer class for extracting
